@@ -1,0 +1,223 @@
+select * 
+from [dbo].[TotaleEnergies_dbCSV]
+
+/*********01. Exercices guidés sur les fonctions aggrégatives *******/
+/********** Exo 1 **********/
+select pays, count (Nom_de_la_filiale) as Nbr_de_la_filiale
+from TotaleEnergies_dbCSV
+Group by Pays;
+/************************/
+
+/*********Exo 2 *******/
+select sum (revenu) as Revenu_Total
+from TotaleEnergies_dbCSV; 
+/************************/
+
+/*********Exo 3 *******/
+SELECT SUM(Investissements_en_rd) as Total_des_investissements_en_RD
+from TotaleEnergies_dbCSV;
+/************************/
+
+/*********Exo 4 *******/
+select  Secteur_d_activité, count (Nom_de_la_filiale) as Nbr_Filiale
+from TotaleEnergies_dbCSV
+group by Secteur_d_activité
+having Secteur_d_activité like 'Exploration';
+/************************/
+
+/*********Exo 5 *******/
+SELECT  Nom_de_la_filiale ,SUM (Nombre_d_employés) as Nbr_Employés
+from TotaleEnergies_dbCSV
+group by Nom_de_la_filiale;
+/************************/
+
+/*********Exo 6*******/ 
+select AVG (volume_de_production) as Moyen_de_la_production_filiale
+from TotaleEnergies_dbCSV;
+/************************/
+
+/*********Exo 7 *******/ 
+select Max(coût_de_production) as Coût_de_production_maximum
+FROM TotaleEnergies_dbCSV; 
+/************************/
+
+/*********Exo 8 *******/ 
+SELECT MIN(prix_de_vente) as Prix_de_vente_minimum
+from TotaleEnergies_dbCSV;
+/************************/
+
+/*********Exo 9 *******/
+SELECT avg (revenu) as Revenu_moyen
+FROM TotaleEnergies_dbCSV;
+/************************/
+
+/*********Exo 10 *******/
+SELECT Nom_de_la_filiale ,Max (Nombre_d_employés)  as Nbr_Employés 
+from TotaleEnergies_dbCSV
+group by Nom_de_la_filiale;
+/************************/
+
+/*********Exo 11 *******/
+select COUNT(DISTINCT pays) as Nbr_de_pays
+from TotaleEnergies_dbCSV;
+/************************/
+
+/*********Exo 12 *******/
+select COUNT(DISTINCT Secteur_d_activité) as nbr_secter_activité
+from TotaleEnergies_dbCSV; 
+/**************02. Exercices guidés sur GROUP BY et HAVING ***************/
+/*********Exo 13 *******/
+SELECT  pays, avg (revenu) as Revenu_moyen
+from TotaleEnergies_dbCSV
+group by pays;
+/************************/
+
+/*********Exo 14 *******/
+select Secteur_d_activité, Sum (Nombre_d_employés) as Nbre_Employés
+FROM TotaleEnergies_dbCSV
+GROUP by  Secteur_d_activité; 
+/************************/
+
+/*********Exo 15 *******/
+SELECT type_de_production, count (nom_de_la_filiale) as Nbr_Filiale
+FROM TotaleEnergies_dbCSV
+group by type_de_production;
+/************************/
+
+/*********Exo 16 *******/
+SELECT pays, type_de_production, SUM(investissements_en_rd)  as Investissements_en_rd
+from TotaleEnergies_dbCSV
+GROUP by pays, type_de_production;
+/************************/
+
+/*********Exo 17 *******/
+SELECT pays, région,Secteur_d_activité, Type_de_production,avg(volume_de_production) as Volume_production_moyen
+from TotaleEnergies_dbCSV
+GROUP by pays,région,Secteur_d_activité,type_de_production;
+/************************/
+
+/*********Exo 18 *******/
+SELECT pays, région, type_de_production,statut_légal, avg(emissions_de_co2) as Emission_CO2_moyen , avg(efficacité_énergétique) as Efficaité_énergique_moyen
+FROM TotaleEnergies_dbCSV
+group by pays,région, type_de_production,statut_légal;
+/************************/
+
+/*********Exo 19*******/
+SELECT pays,avg(revenu) as  Revenu_Moyen_Supérieur_à_500K
+FROM TotaleEnergies_dbCSV
+GROUP by pays 
+HAVING  avg(revenu)>500000;
+/************************/
+
+/*********Exo 20*******/
+SELECT pays,Secteur_d_activité, COUNT (nom_de_la_filiale)  As Nbr_Filiale
+from TotaleEnergies_dbCSV 
+group by  pays, Secteur_d_activité
+HAVING COUNT(nom_de_la_filiale) >10; 
+/************************/
+
+/*********Exo 21*******/
+SELECT pays, avg(revenu) as Revenu_Moyen, avg (Taux_d_accidents) as Taux_d_accidents_Moyen
+from TotaleEnergies_dbCSV
+GROUP by pays
+HAVING avg(revenu) >600000 
+and  avg(Taux_d_accidents)>5;
+/************************/
+
+/*********Exo 22*******/
+SELECT pays,Secteur_d_activité,avg(efficacité_énergétique) Efficacité_Moyen, avg(emissions_de_co2) as Emissions_de_co2_moyen
+from TotaleEnergies_dbCSV
+GROUP by pays, Secteur_d_activité
+having avg(efficacité_énergétique) >75
+and avg(emissions_de_co2)<5000;
+/************************/
+
+/*********Exo 23 ******/
+SELECT pays, 
+CASE when avg (revenu) < 300000 then 'Faible'
+when avg(revenu) BETWEEN 300000 and 700000 then 'Moyen'
+else 'Élevé'
+END AS Catégorie_revenu
+FROM  TotaleEnergies_dbCSV
+group by pays;
+/************************/
+
+/*********Exo 24 *****/
+
+select Secteur_d_activité,
+case 
+when avg (efficacité_énergétique) <50 then 'Mauvaise'
+when avg (efficacité_énergétique)  between 50 and 80 then 'Moyenne'
+else 'Bonne'
+end as 'Evalution l_efficacité'
+from TotaleEnergies_dbCSV
+group by Secteur_d_activité;
+/************************/
+
+/*********Exo 25 *****/
+select Région,
+case 
+when avg(investissements_en_rd) <150000 then 'Faible'
+when avg(investissements_en_rd) between 150000 and 200000 then 'Moyen'
+else 'Élevé'
+end as  'Catégories Investissements'
+from TotaleEnergies_dbCSV
+group by Région
+having avg (investissements_en_rd) >150000;
+
+/************************/
+
+/*********Exo 26 *****/
+select pays, région, 
+case 
+when  avg(efficacité_énergétique) <65 then 'Faible'
+when  avg(efficacité_énergétique) between 65 and 80 then 'Moyenne'
+else 'Bonne'
+end as 'evaluation l efficacité et les émissions'
+from TotaleEnergies_dbCSV
+group by Pays, Région
+having avg(efficacité_énergétique) > 65 and  avg(Emissions_de_CO2 )< 3000;
+/************************/
+
+/*********Exo 27 *****/
+select pays, région,avg (Nombre_d_employés) as Nbr_Employés_Moyen, avg(Investissements_en_RD) as Investissements_en_RD_Moyen
+from TotaleEnergies_dbCSV
+group by pays, Région
+having avg (Nombre_d_employés)>3000 and avg(Investissements_en_RD) >150000;
+/************************/
+
+
+/*********Exo 28 *****/
+select Pays,Type_de_production, avg(Efficacité_énergétique) as Efficacité_énergétique_moyenne, 
+avg (Emissions_de_CO2) as Emissions_de_CO2_moyenne, avg(Revenu) as Revenu_Moyen
+from TotaleEnergies_dbCSV
+group by Pays, Type_de_production
+having  avg(Efficacité_énergétique) >70 
+and avg (Emissions_de_CO2) <4000
+and avg(Revenu) >500000;
+
+/************************/
+
+/*********Exo 29 **********/
+SELECT pays, Secteur_d_activité, Date_de_création_de_la_filiale
+FROM TotaleEnergies_dbCSV
+WHERE Date_de_création_de_la_filiale > '2000/01/01'
+GROUP BY pays, Secteur_d_activité, Date_de_création_de_la_filiale
+HAVING AVG(revenu) > 600000
+AND AVG(Taux_d_accidents) < 3
+AND AVG(Investissements_en_RD) > 200000;
+
+/************************/
+
+/*********Exo 30 **********/
+SELECT  Nom_de_la_filiale, Région, avg(Efficacité_énergétique) as efficacité_énergétique,
+avg (Revenu) as Revenu, Max(Taux_d_accidents) as taux_d_accidents 
+FROM TotaleEnergies_dbCSV
+GROUP BY Nom_de_la_filiale, Région
+HAVING AVG(Efficacité_énergétique) > 80
+AND AVG(Revenu) > 500000
+AND MAX(Taux_d_accidents) <= 5;
+
+
+
+

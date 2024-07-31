@@ -1,0 +1,267 @@
+/******EXO 1******/
+SELECT id_client, nom, prénom, sexe
+from Credit_Agricole_db
+where Sexe = 'Homme';
+
+/****************/
+
+/******EXO 2*****/
+select id_client, nom , prénom , prêt_en_cours
+from Credit_Agricole_db
+where   prêt_en_cours != 'Oui';
+/****************/
+
+/******EXO 3*****/
+Select id_client, nom, prénom, age
+from Credit_Agricole_db
+where age > 30;
+/****************/
+
+/******EXO 4***** Solution Faux */ 
+SELECT nom, prénom, solde_compte
+FROM Credit_Agricole_db
+where solde_compte < 5000 ;
+/****************/
+
+/******EXO 5*****/
+SELECT nom, prénom, crédit_score
+from Credit_Agricole_db
+where crédit_score >= 700 ;
+/****************/
+
+/******EXO 6*****  Dans le résultat il affiche tous les nombres <20 mais il affiche aussi le nombre 100 plusieurs fois  */
+SELECT nom, prénom, nombre_transactions_annuelles
+FROM Credit_Agricole_db
+where nombre_transactions_annuelles <= 20;
+/****************/
+
+/******EXO 7*****/
+SELECT nom, prénom, type_compte
+FROM Credit_Agricole_db
+where  type_compte in ('Courant','Épargne');
+/****************/
+
+/******EXO 8*****/
+SELECT nom, prénom, age
+FROM Credit_Agricole_db
+where age BETWEEN 25 and 35
+order by age ASC;
+/****************/
+
+/******EXO 9*****/
+SELECT nom, prénom
+FROM Credit_Agricole_db
+where nom LIKE 'L%';
+/****************/
+
+/******EXO 10*****/
+select nom, prénom, email
+from Credit_Agricole_db
+where email like '%@gmail.com';
+/****************/
+
+/******EXO 11*****/
+SELECT nom, prénom, type_compte
+FROM Credit_Agricole_db
+WHERE prénom like 'A%'
+and type_compte in ('Épargne','Investissement');
+/****************/
+
+/******EXO 12*****/
+SELECT nom, prénom, age, solde_compte
+from Credit_Agricole_db
+where age > 40
+and solde_compte >10000;
+/****************/
+
+/******EXO 13*****/
+SELECT nom, prénom, statut_client
+FROM Credit_Agricole_db
+where statut_client = 'Inactif' 
+or statut_client = 'Suspendu';
+/****************/
+
+/******EXO 14***** 
+Le résultat affiché dans la colonne revenu_annuel ne correspond pas à la
+condition spécifiée dans la requête SQL */
+SELECT nom, prénom, prêt_en_cours, revenu_annuel
+from Credit_Agricole_db
+where not  prêt_en_cours = 'Non'
+ and revenu_annuel < 30000 or revenu_annuel > 100000;
+
+/****************/
+
+/******EXO 15*****/
+SELECT nom, prénom, type_compte
+FROM Credit_Agricole_db
+where type_compte not in ('Courant');
+/****************/
+
+/******EXO 16*****/
+SELECT nom, prénom, age, prêt_en_cours
+FROM Credit_Agricole_db 
+where age < 30
+and prêt_en_cours <>'Oui'
+ORDER by age asc;
+/****************/
+
+/******EXO 17***** 
+Le résultat affiché dans la colonne revenu_annuel ne correspond pas à la
+condition spécifiée dans la requête SQL. */
+SELECT nom, prénom, crédit_score, revenu_annuel, sexe
+FROM Credit_Agricole_db
+where sexe <>'Homme'
+And crédit_score>750
+or revenu_annuel <50000;
+/****************/
+
+/******EXO 18*****/
+
+SELECT nom, prénom, age,
+CASE
+WHEN age < 30 then 'Jeune'
+when  age BETWEEN 30 and  60 then 'Adulte'
+else 'Senior'
+end as 'Catégorie_Age'
+from Credit_Agricole_db;
+/****************/
+/*Le résultat affiché ne correspond pas à la
+condition spécifiée dans la requête SQL*/
+/******EXO 19*****/
+SELECT nom, prénom, revenu_annuel,
+CASE
+WHEN revenu_annuel < 50.000 then 'Bas'
+when revenu_annuel BETWEEN '50000' and  '100000' then 'Moyen'
+ELSE 'Élevé'
+end as 'Catégorie_Age'
+FROM Credit_Agricole_db;
+/****************/
+
+/******EXO 20*****/
+SELECT nom, prénom, solde_compte,
+CASE
+when solde_compte > 0 then 'Actif'
+else 'Inactif'
+end AS'État_Compte'
+FROM Credit_Agricole_db;
+/****************/
+
+/******EXO 21*****/
+SELECT nom, prénom, crédit_score,
+CASE
+when crédit_score < 600 then 'Faible'
+when crédit_score BETWEEN 600 and 750  then 'Moyen'
+else 'Élevé'
+end as 'Fiabilité_Crédit'
+FROM Credit_Agricole_db;
+/****************/
+/** 04. Exercices avancés  **/
+/******      EXO 22          *****/
+/* Le résultat affiché dans la colonne revenu_annuel ne correspond pas à la
+condition spécifiée dans la requête SQL.*/
+SELECT nom, prénom, age, revenu_annuel, nombre_transactions_annuelles
+FROM Credit_Agricole_db 
+where  age > 50
+and revenu_annuel < 75000
+and nombre_transactions_annuelles > 10;
+/****************/
+/******      EXO 23          *****/
+/* Le résultat affiché dans la colonne revenu_annuel ne correspond pas à la
+condition spécifiée dans la requête SQL.*/
+SELECT nom, prénom, crédit_score, revenu_annuel, type_compte
+FROM Credit_Agricole_db 
+where  crédit_score > 700 or  revenu_annuel > 100000
+AND not type_compte in ('Courant','Épargne');
+/****************/
+
+/******      EXO 24          *****/
+/* Le résultat affiché  ne correspond pas à la
+condition spécifiée dans la requête SQL.*/
+SELECT nom, prénom, prêt_en_cours, solde_compte
+FROM Credit_Agricole_db
+where prêt_en_cours !='Oui'
+and solde_compte <1000 or solde_compte > 50000; 
+/****************/
+
+/******      EXO 25         *****/
+/*Dans le résultat il affiche tous les nombres <20
+mais il affiche aussi le nombre 100 just une fois  */
+SELECT nom, prénom,  age, nombre_transactions_annuelles
+from Credit_Agricole_db
+where nom like 'M%'
+and  age BETWEEN 30 and 40 
+and nombre_transactions_annuelles <20 ;
+/****************/
+
+/******      EXO 26         *****/
+SELECT nom, prénom, age, crédit_score
+FROM Credit_Agricole_db
+where age BETWEEN 18 AND 25 
+Or age BETWEEN 65 and 75 
+AND crédit_score > 650 ;
+/****************/
+
+/******      EXO 27        *****/
+SELECT nom, prénom, statut_client, revenu_annuel, crédit_score, 
+CASE
+WHEN revenu_annuel > 100000 then 'Oui'
+ELSE 'Non'
+End AS 'Statut_Privilégié'
+FROM Credit_Agricole_db
+where statut_client ='Actif'  and crédit_score > 750;
+/****************/
+
+/******      EXO 28        *****/
+/* Le résultat affiché dans la colonne nombre_transactions_annuelles  ne correspond pas à la
+condition "> 20"  spécifiée dans la requête SQL.*/
+SELECT nom, prénom,age ,nombre_transactions_annuelles, solde_compte, 
+CASE
+when solde_compte >50000 THEN' Haute'
+else 'Normale'
+END AS 'Priorité_Client'
+FROM Credit_Agricole_db 
+where age <35 and  nombre_transactions_annuelles >20 ;
+/****************/
+
+/******      EXO 29       *****/
+SELECT nom, prénom, prêt_en_cours,  type_compte, solde_compte,
+CASE
+when type_compte in ('Courant', 'Épargne') or solde_compte >30000 then 'Oui'
+else 'Non'
+End AS '"Eligible_Offre_Speciale'
+FROM Credit_Agricole_db
+where  nom like 'L%' And 
+prêt_en_cours != 'Oui';
+/****************/
+
+/******      EXO 30       *****/
+select nom, prénom, date_ouverture_compte
+FROM Credit_Agricole_db
+where date_ouverture_compte > '01/01/2020';
+/****************/
+
+/******      EXO 31       *****/
+SELECT nom, prénom, date_dernière_transaction
+FROM Credit_Agricole_db
+where date_dernière_transaction >= '01/01/2023' and
+date_dernière_transaction < '02/01/2023' ;
+/****************/
+
+/******      EXO 32       *****/
+SELECT *
+from Credit_Agricole_db
+where age >30 and age <60
+and  type_compte in ('Épargne','Courant') and not type_compte = 'Investissement'
+and revenu_annuel > 40000 and revenu_annuel < 100000 
+and crédit_score>400 and not crédit_score <800
+and date_ouverture_compte < '01/01/2018'
+and nombre_transactions_annuelles > 100 and not nombre_transactions_annuelles <10000;	
+                       
+
+
+
+
+
+
+
+

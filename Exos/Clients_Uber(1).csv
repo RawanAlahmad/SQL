@@ -1,0 +1,1501 @@
+ID_Client,Date_Inscription,Moyen_Paiement,Préférences,Evaluations_Chauffeurs,Préférences_Musique,Dépense_Totale,Nombre_Trajets,Compte_Vérifié
+1,2019-07-05 16:09:26,Espèces,Famille,3.34,Pop,2283.02,56,True
+2,2018-07-19 23:54:02,Carte de Crédit,Eco,2.86,Rock,4076.82,100,True
+3,2021-09-29 09:27:00,Espèces,Eco,2.84,Aucune,3669.13,90,True
+4,2018-10-05 07:31:38,PayPal,Standard,3.22,Classique,529.99,13,True
+5,2020-06-23 17:14:00,Espèces,Standard,1.46,Classique,1386.12,34,False
+6,2021-05-29 02:05:12,PayPal,Eco,4.24,Classique,693.06,17,False
+7,2018-02-13 00:40:46,Carte de Crédit,Famille,3.4,Hip-Hop,3139.15,77,False
+8,2019-12-18 23:25:53,Carte de Crédit,VIP,2.11,Classique,5870.61,144,True
+9,2022-10-18 17:07:39,Espèces,Standard,3.43,Aucune,3832.21,94,True
+10,2019-05-16 04:36:31,Espèces,VIP,1.14,Hip-Hop,7460.57,183,False
+11,2019-09-29 16:38:47,Carte de Crédit,Famille,4.67,Hip-Hop,1916.1,47,True
+12,2020-09-29 02:03:54,Espèces,VIP,4.49,Rock,3872.97,95,False
+13,2021-06-04 07:17:05,PayPal,Standard,4.58,Pop,6767.51,166,True
+14,2021-08-22 08:58:56,Carte de Crédit,Standard,1.88,Classique,6726.75,165,True
+15,2022-02-01 03:16:23,PayPal,Standard,4.3,Rock,4566.03,112,True
+16,2019-05-19 16:03:24,PayPal,Standard,2.02,Hip-Hop,4647.57,114,False
+17,2022-08-07 23:10:26,PayPal,Famille,1.21,Pop,3220.68,79,False
+18,2020-05-06 00:32:39,PayPal,Famille,3.47,Classique,163.07,4,False
+19,2019-12-02 18:47:10,Carte de Crédit,Famille,3.71,Aucune,2853.77,70,True
+20,2018-01-22 13:56:12,Carte de Crédit,VIP,3.66,Jazz,3179.92,78,True
+21,2020-05-04 04:36:10,Carte de Crédit,Standard,1.31,Jazz,4647.57,114,True
+22,2019-10-23 11:12:51,PayPal,Famille,4.21,Aucune,4688.34,115,True
+23,2021-05-09 08:00:27,Espèces,Eco,1.56,Hip-Hop,1263.81,31,False
+24,2018-05-27 04:04:44,PayPal,Famille,1.73,Pop,2323.78,57,True
+25,2018-06-26 19:48:49,PayPal,VIP,4.98,Hip-Hop,7542.11,185,False
+26,2018-08-22 16:20:54,Espèces,Eco,4.67,Hip-Hop,3383.76,83,True
+27,2022-10-08 12:59:47,PayPal,Standard,4.35,Rock,81.54,2,True
+28,2021-07-26 12:58:40,Carte de Crédit,VIP,3.47,Classique,2609.16,64,True
+29,2020-01-13 17:44:05,Carte de Crédit,VIP,3.53,Pop,2160.71,53,True
+30,2018-02-10 04:13:08,PayPal,Standard,1.74,Hip-Hop,3709.9,91,False
+31,2019-02-24 05:53:41,Carte de Crédit,Standard,2.63,Classique,1019.2,25,True
+32,2022-01-20 10:45:00,PayPal,Famille,4.8,Hip-Hop,733.83,18,False
+33,2018-04-06 18:27:10,Carte de Crédit,VIP,2.35,Hip-Hop,4729.11,116,True
+34,2020-12-16 15:58:03,Espèces,Standard,1.13,Classique,1712.26,42,True
+35,2021-03-09 19:17:39,Espèces,Standard,2.41,Aucune,2160.71,53,True
+36,2022-03-16 15:33:43,Espèces,Famille,1.84,Jazz,6645.21,163,True
+37,2020-01-18 18:18:35,Espèces,Famille,3.05,Rock,693.06,17,True
+38,2022-05-01 06:20:40,Espèces,Standard,1.74,Aucune,407.68,10,False
+39,2019-02-18 04:20:15,PayPal,Famille,1.86,Rock,6808.28,167,True
+40,2019-05-19 17:03:14,Carte de Crédit,Standard,1.97,Hip-Hop,5748.31,141,False
+41,2018-03-21 05:35:41,PayPal,Famille,1.62,Aucune,163.07,4,True
+42,2020-01-10 06:14:26,PayPal,Eco,2.93,Pop,2813.0,69,True
+43,2019-08-04 18:15:25,Espèces,Standard,4.31,Hip-Hop,203.84,5,False
+44,2022-08-18 22:11:15,Espèces,Eco,3.94,Pop,3872.97,95,True
+45,2019-05-04 04:31:07,Carte de Crédit,Famille,4.86,Pop,1304.58,32,True
+46,2019-09-07 08:42:27,Espèces,Eco,1.57,Jazz,5707.54,140,False
+47,2019-04-02 23:53:50,PayPal,VIP,2.64,Hip-Hop,4158.35,102,True
+48,2020-07-29 15:36:53,PayPal,Standard,1.11,Classique,4973.71,122,False
+49,2021-12-02 12:26:49,PayPal,Standard,3.33,Classique,7297.5,179,True
+50,2020-02-19 05:16:26,Espèces,VIP,3.37,Classique,1100.74,27,True
+51,2020-07-08 15:07:16,Espèces,Standard,4.67,Classique,7623.65,187,False
+52,2022-05-19 08:51:30,Carte de Crédit,Famille,2.96,Jazz,2242.25,55,True
+53,2021-08-21 13:27:08,Carte de Crédit,Famille,3.5,Classique,2038.41,50,True
+54,2021-03-20 18:40:59,Carte de Crédit,Famille,1.31,Aucune,3954.51,97,True
+55,2018-09-19 12:32:08,Espèces,Famille,1.91,Classique,3139.15,77,False
+56,2019-11-18 09:35:07,PayPal,VIP,1.4,Hip-Hop,1997.64,49,True
+57,2020-02-04 05:37:01,Carte de Crédit,Standard,2.93,Classique,7379.04,181,False
+58,2019-12-06 07:59:57,PayPal,VIP,2.96,Hip-Hop,7215.96,177,True
+59,2022-09-14 14:47:48,Carte de Crédit,VIP,3.18,Hip-Hop,733.83,18,True
+60,2018-12-09 12:13:13,Espèces,Eco,4.17,Aucune,3587.6,88,True
+61,2019-12-02 17:13:00,PayPal,Eco,3.76,Rock,2038.41,50,False
+62,2022-11-24 02:41:57,PayPal,Standard,4.83,Jazz,366.91,9,True
+63,2020-03-15 07:57:46,PayPal,Famille,2.41,Pop,326.15,8,True
+64,2020-01-27 11:38:11,Espèces,VIP,2.59,Aucune,2160.71,53,True
+65,2019-03-16 01:23:53,PayPal,VIP,4.58,Jazz,122.3,3,True
+66,2018-03-11 14:55:35,Carte de Crédit,VIP,1.31,Jazz,1753.03,43,True
+67,2018-10-27 16:44:53,Espèces,VIP,2.86,Hip-Hop,2364.55,58,True
+68,2018-07-24 02:40:16,Espèces,Eco,3.5,Hip-Hop,3791.44,93,True
+69,2022-08-10 05:07:34,PayPal,Eco,1.55,Rock,611.52,15,True
+70,2021-10-10 22:09:39,PayPal,Standard,3.63,Aucune,6685.98,164,True
+71,2018-02-09 12:29:39,Carte de Crédit,Standard,3.96,Hip-Hop,6685.98,164,True
+72,2020-12-20 12:27:41,Carte de Crédit,Famille,3.73,Jazz,7868.25,193,False
+73,2021-02-28 06:29:49,Espèces,Eco,1.56,Hip-Hop,4688.34,115,True
+74,2019-03-08 06:03:55,Carte de Crédit,Famille,1.75,Jazz,611.52,15,True
+75,2019-04-25 03:45:38,Carte de Crédit,Famille,3.67,Pop,6645.21,163,False
+76,2018-02-04 22:54:44,PayPal,Famille,4.96,Aucune,5177.56,127,True
+77,2019-12-19 09:28:24,Carte de Crédit,Standard,2.84,Classique,6563.67,161,True
+78,2020-10-24 02:46:46,Espèces,Eco,2.06,Jazz,6400.6,157,True
+79,2019-10-29 07:48:09,Espèces,Standard,3.84,Classique,4158.35,102,True
+80,2018-08-27 19:39:31,PayPal,Eco,4.92,Hip-Hop,3179.92,78,True
+81,2020-08-27 07:25:20,Carte de Crédit,Standard,4.96,Classique,2731.47,67,True
+82,2022-02-10 13:07:16,Carte de Crédit,Standard,3.78,Rock,2976.08,73,True
+83,2019-06-30 02:38:26,PayPal,Eco,2.24,Jazz,3995.28,98,True
+84,2020-07-27 11:24:07,PayPal,VIP,1.89,Classique,7134.43,175,True
+85,2022-12-12 02:37:41,Espèces,Famille,1.65,Hip-Hop,3383.76,83,True
+86,2020-10-25 07:22:41,Espèces,VIP,4.94,Jazz,2649.93,65,True
+87,2022-10-08 14:03:37,Espèces,Famille,4.21,Hip-Hop,2486.86,61,True
+88,2018-03-21 04:14:02,Carte de Crédit,Standard,3.88,Jazz,3383.76,83,True
+89,2022-10-04 15:05:04,PayPal,VIP,2.15,Classique,896.9,22,True
+90,2019-06-19 12:28:17,Carte de Crédit,Famille,1.88,Hip-Hop,1875.34,46,True
+91,2021-11-02 06:07:49,PayPal,Standard,1.13,Jazz,2405.32,59,False
+92,2022-07-27 21:37:34,PayPal,Famille,4.15,Pop,2976.08,73,True
+93,2022-03-23 23:19:31,Espèces,Standard,3.42,Rock,4280.66,105,True
+94,2019-10-01 17:44:32,Carte de Crédit,Eco,2.72,Jazz,4280.66,105,False
+95,2021-12-30 04:14:42,PayPal,VIP,4.1,Hip-Hop,5503.7,135,True
+96,2020-10-17 04:35:56,Carte de Crédit,VIP,2.06,Hip-Hop,7582.88,186,True
+97,2019-09-09 23:46:58,PayPal,Famille,3.36,Hip-Hop,937.67,23,True
+98,2021-10-17 23:07:16,Carte de Crédit,Eco,3.67,Rock,7990.56,196,True
+99,2022-03-10 06:21:22,PayPal,Eco,1.04,Rock,1916.1,47,True
+100,2021-02-01 09:24:34,Carte de Crédit,Famille,2.53,Pop,7419.8,182,True
+101,2019-12-23 17:39:57,Carte de Crédit,VIP,4.31,Classique,2283.02,56,False
+102,2019-08-10 17:15:47,Carte de Crédit,Famille,2.94,Pop,0.0,0,True
+103,2022-04-05 23:49:58,PayPal,Standard,3.09,Rock,7786.72,191,False
+104,2019-08-28 07:07:01,Carte de Crédit,Famille,2.55,Aucune,6930.59,170,False
+105,2018-02-03 23:27:06,Carte de Crédit,VIP,2.05,Aucune,5585.24,137,True
+106,2021-09-17 16:43:40,Carte de Crédit,Famille,1.24,Classique,2976.08,73,True
+107,2021-06-02 16:28:56,PayPal,Famille,3.52,Jazz,2160.71,53,True
+108,2022-01-31 18:33:32,PayPal,Eco,3.85,Pop,81.54,2,True
+109,2020-05-06 21:27:09,PayPal,VIP,4.98,Rock,7705.18,189,True
+110,2021-12-29 20:36:12,PayPal,Eco,3.15,Hip-Hop,5218.32,128,False
+111,2020-10-15 22:42:23,PayPal,Eco,4.04,Classique,1386.12,34,True
+112,2021-04-06 07:10:59,Espèces,Famille,1.32,Aucune,122.3,3,True
+113,2020-11-11 21:41:34,Carte de Crédit,Eco,3.1,Classique,2079.18,51,True
+114,2022-07-26 21:05:51,Carte de Crédit,Eco,1.66,Pop,7052.89,173,False
+115,2019-01-21 09:54:21,PayPal,VIP,1.34,Pop,3669.13,90,True
+116,2018-09-02 18:17:33,Espèces,Standard,1.49,Jazz,3057.61,75,True
+117,2022-06-04 14:39:54,Carte de Crédit,Standard,1.08,Pop,6685.98,164,True
+118,2020-05-24 23:59:07,PayPal,Eco,4.4,Jazz,3220.68,79,True
+119,2022-05-27 22:53:30,Carte de Crédit,Famille,1.01,Hip-Hop,7786.72,191,False
+120,2021-06-05 03:42:21,Carte de Crédit,VIP,1.46,Classique,7215.96,177,False
+121,2018-06-08 04:42:20,Espèces,Eco,1.23,Aucune,6930.59,170,True
+122,2020-11-01 16:24:15,Carte de Crédit,Eco,3.64,Pop,1753.03,43,True
+123,2019-05-08 22:19:17,PayPal,Eco,2.84,Rock,5544.47,136,True
+124,2022-05-27 12:54:55,Carte de Crédit,VIP,3.96,Aucune,366.91,9,True
+125,2021-04-11 07:11:30,PayPal,Famille,4.32,Jazz,4484.5,110,True
+126,2022-07-13 05:04:48,Carte de Crédit,Famille,4.64,Jazz,1834.57,45,False
+127,2018-08-31 18:27:37,Espèces,Eco,4.12,Pop,6074.46,149,False
+128,2021-11-19 19:23:15,Carte de Crédit,Standard,4.22,Rock,244.61,6,True
+129,2021-07-01 14:22:38,PayPal,VIP,2.27,Aucune,7827.49,192,True
+130,2020-11-07 14:39:37,Carte de Crédit,Famille,2.34,Classique,1753.03,43,True
+131,2018-02-12 13:03:33,PayPal,Standard,3.65,Rock,6685.98,164,True
+132,2022-09-06 14:53:03,Espèces,Standard,3.32,Jazz,6359.83,156,True
+133,2018-09-30 21:54:38,PayPal,VIP,3.51,Aucune,1467.65,36,True
+134,2020-09-13 21:39:02,PayPal,Famille,3.95,Rock,5177.56,127,False
+135,2019-10-06 22:34:01,PayPal,VIP,3.68,Hip-Hop,1426.89,35,False
+136,2022-02-04 10:58:29,Carte de Crédit,VIP,2.43,Classique,5707.54,140,True
+137,2021-03-20 00:00:37,Carte de Crédit,Famille,4.62,Aucune,1019.2,25,True
+138,2019-07-31 19:22:24,PayPal,Famille,3.2,Hip-Hop,7338.27,180,True
+139,2021-11-27 19:33:13,PayPal,VIP,2.9,Rock,3995.28,98,True
+140,2019-11-03 08:39:35,Carte de Crédit,VIP,4.93,Pop,4484.5,110,False
+141,2020-06-14 15:14:12,Carte de Crédit,Famille,1.76,Aucune,6155.99,151,False
+142,2022-11-09 05:00:47,Espèces,Standard,1.6,Rock,5340.63,131,True
+143,2021-12-19 14:23:25,Espèces,Eco,3.14,Hip-Hop,2119.94,52,True
+144,2021-01-15 15:40:52,Espèces,Standard,2.01,Aucune,3261.45,80,False
+145,2018-09-16 03:16:05,Carte de Crédit,VIP,2.34,Pop,652.29,16,False
+146,2020-06-10 15:05:46,PayPal,VIP,1.65,Hip-Hop,6196.76,152,False
+147,2019-08-14 04:54:11,Espèces,VIP,3.48,Jazz,5422.16,133,False
+148,2018-10-24 16:56:23,Espèces,Famille,1.13,Rock,4199.12,103,True
+149,2019-08-07 17:39:14,Carte de Crédit,VIP,4.23,Hip-Hop,5503.7,135,True
+150,2018-09-26 13:11:20,Carte de Crédit,Eco,1.37,Classique,5381.4,132,True
+151,2022-03-25 04:40:38,Carte de Crédit,Famille,3.34,Pop,5544.47,136,False
+152,2018-11-25 08:32:58,PayPal,VIP,2.84,Hip-Hop,2527.63,62,False
+153,2021-01-16 02:31:43,Espèces,Eco,3.43,Pop,4769.87,117,True
+154,2019-09-29 03:30:59,Carte de Crédit,VIP,3.92,Hip-Hop,2649.93,65,True
+155,2022-04-19 01:12:05,Carte de Crédit,Standard,3.32,Aucune,122.3,3,False
+156,2018-07-23 22:32:46,Espèces,Standard,4.58,Hip-Hop,6889.82,169,False
+157,2019-02-17 19:40:03,Carte de Crédit,Standard,4.52,Aucune,2731.47,67,False
+158,2022-03-28 13:13:20,PayPal,VIP,2.49,Rock,2160.71,53,False
+159,2020-09-24 16:21:02,Espèces,Standard,4.08,Aucune,8031.33,197,False
+160,2022-11-20 12:11:31,Carte de Crédit,Eco,2.95,Classique,2119.94,52,False
+161,2020-04-13 19:18:37,PayPal,Famille,1.72,Classique,2201.48,54,False
+162,2021-11-06 19:49:40,PayPal,Famille,2.82,Pop,1141.51,28,True
+163,2021-05-09 06:07:27,PayPal,Famille,2.89,Rock,3424.53,84,True
+164,2018-02-22 19:38:39,PayPal,Standard,4.73,Jazz,4443.73,109,True
+165,2018-09-15 18:53:14,PayPal,Standard,3.71,Aucune,7705.18,189,True
+166,2022-11-05 00:21:22,Carte de Crédit,Eco,3.35,Pop,1671.49,41,False
+167,2018-01-03 22:30:02,PayPal,VIP,2.81,Hip-Hop,570.75,14,False
+168,2019-06-30 03:59:28,PayPal,VIP,3.54,Classique,6441.37,158,True
+169,2019-09-02 11:23:16,Carte de Crédit,Eco,1.53,Aucune,5870.61,144,False
+170,2022-03-10 00:33:10,Carte de Crédit,Eco,2.92,Jazz,7745.95,190,False
+171,2020-10-07 14:04:50,Espèces,VIP,4.93,Pop,6482.14,159,False
+172,2021-04-03 23:35:34,PayPal,VIP,1.02,Pop,1141.51,28,True
+173,2021-05-30 17:03:17,Espèces,Standard,2.91,Classique,3220.68,79,True
+174,2022-06-01 11:05:43,PayPal,Famille,4.73,Aucune,1304.58,32,False
+175,2018-03-03 16:24:22,Espèces,Eco,3.55,Hip-Hop,1793.8,44,True
+176,2020-09-19 10:26:45,Carte de Crédit,Eco,2.95,Classique,4688.34,115,True
+177,2022-09-17 15:15:00,Carte de Crédit,VIP,4.37,Rock,3098.38,76,True
+178,2021-06-20 02:02:08,Espèces,Standard,3.58,Pop,285.38,7,True
+179,2021-03-31 16:45:55,PayPal,Famille,4.72,Classique,7338.27,180,True
+180,2022-05-30 08:55:22,Carte de Crédit,VIP,3.88,Classique,5748.31,141,True
+181,2022-05-28 04:31:58,Espèces,VIP,1.81,Aucune,2160.71,53,False
+182,2018-05-17 02:01:12,Carte de Crédit,Eco,2.24,Rock,4647.57,114,True
+183,2019-04-15 10:29:47,Carte de Crédit,Famille,3.89,Jazz,3709.9,91,True
+184,2018-08-10 02:04:11,PayPal,VIP,1.93,Rock,7705.18,189,True
+185,2019-06-01 09:40:16,Carte de Crédit,Standard,4.0,Jazz,4810.64,118,False
+186,2019-11-07 07:03:51,Carte de Crédit,Standard,1.44,Jazz,407.68,10,True
+187,2022-04-08 03:24:26,PayPal,Eco,4.33,Jazz,7827.49,192,False
+188,2021-11-12 19:35:02,PayPal,VIP,3.61,Classique,4158.35,102,False
+189,2019-10-19 09:39:29,PayPal,Famille,3.36,Rock,2201.48,54,True
+190,2020-04-22 19:13:51,Espèces,Eco,3.97,Pop,5503.7,135,False
+191,2020-07-01 14:37:49,PayPal,Standard,2.12,Pop,3302.22,81,True
+192,2022-05-29 18:43:44,Carte de Crédit,Famille,4.61,Hip-Hop,856.13,21,True
+193,2020-08-01 08:42:22,Carte de Crédit,Standard,4.78,Rock,4769.87,117,True
+194,2019-05-14 12:00:00,PayPal,VIP,1.08,Aucune,2976.08,73,False
+195,2022-04-16 17:33:48,Espèces,Eco,4.19,Rock,2976.08,73,True
+196,2020-07-24 04:07:19,Espèces,Standard,2.32,Pop,5136.79,126,True
+197,2019-05-22 22:37:25,Espèces,Standard,3.62,Jazz,4525.27,111,True
+198,2018-10-07 05:34:57,Carte de Crédit,VIP,4.95,Classique,6359.83,156,False
+199,2022-05-19 06:27:35,Espèces,Eco,4.38,Classique,4729.11,116,True
+200,2019-06-20 01:22:14,Espèces,Famille,2.05,Jazz,6319.06,155,True
+201,2019-05-29 23:18:17,PayPal,VIP,2.4,Rock,896.9,22,True
+202,2022-01-13 07:03:50,Espèces,VIP,4.58,Hip-Hop,6767.51,166,True
+203,2020-12-30 18:01:00,PayPal,VIP,4.6,Hip-Hop,2976.08,73,True
+204,2019-02-12 20:06:55,Carte de Crédit,Eco,3.1,Pop,774.59,19,False
+205,2022-11-10 01:33:33,Espèces,Eco,3.54,Aucune,5177.56,127,True
+206,2021-12-17 22:37:13,Espèces,Standard,3.37,Jazz,6400.6,157,True
+207,2018-12-27 12:04:47,Espèces,Famille,1.56,Rock,7134.43,175,True
+208,2021-05-22 05:26:59,Carte de Crédit,Standard,4.93,Classique,5136.79,126,True
+209,2022-02-22 20:53:17,Carte de Crédit,Famille,4.81,Hip-Hop,815.36,20,True
+210,2022-05-06 00:35:49,Espèces,VIP,1.85,Hip-Hop,6767.51,166,True
+211,2018-03-17 04:51:12,Espèces,Standard,1.92,Jazz,2731.47,67,True
+212,2019-05-01 21:08:04,Carte de Crédit,VIP,3.26,Classique,6808.28,167,True
+213,2020-01-02 03:41:46,Carte de Crédit,Eco,3.48,Hip-Hop,7705.18,189,True
+214,2021-12-13 13:46:48,Espèces,VIP,4.29,Aucune,7093.66,174,True
+215,2018-09-22 14:36:58,Espèces,Standard,1.36,Rock,6930.59,170,False
+216,2021-04-06 04:55:13,Carte de Crédit,Famille,4.45,Jazz,7338.27,180,True
+217,2020-07-24 20:02:49,Carte de Crédit,Standard,4.27,Pop,2527.63,62,False
+218,2020-12-09 16:21:23,Espèces,Famille,1.08,Jazz,4892.18,120,True
+219,2018-04-28 00:30:18,Espèces,VIP,3.87,Rock,6645.21,163,False
+220,2021-09-25 18:37:26,Espèces,Eco,1.7,Classique,5462.93,134,True
+221,2022-06-22 17:17:45,Espèces,VIP,4.46,Rock,7338.27,180,True
+222,2022-06-28 19:22:16,Carte de Crédit,Standard,3.21,Rock,7297.5,179,False
+223,2020-06-17 04:53:12,PayPal,Famille,3.43,Classique,774.59,19,True
+224,2019-04-06 00:55:08,PayPal,VIP,1.95,Jazz,2690.7,66,True
+225,2019-12-10 11:41:16,PayPal,Famille,4.98,Classique,4810.64,118,True
+226,2018-04-01 09:58:10,PayPal,VIP,4.84,Classique,122.3,3,True
+227,2020-12-08 22:19:43,PayPal,VIP,1.2,Pop,6645.21,163,False
+228,2020-06-24 17:14:44,Carte de Crédit,Famille,4.7,Pop,3750.67,92,True
+229,2018-05-15 14:09:00,Carte de Crédit,Famille,3.38,Rock,5992.92,147,True
+230,2022-04-25 06:17:13,Espèces,Eco,1.33,Rock,2649.93,65,True
+231,2021-06-12 15:14:40,PayPal,Eco,1.07,Aucune,570.75,14,True
+232,2018-04-28 17:34:22,Carte de Crédit,Eco,2.91,Rock,3872.97,95,True
+233,2019-08-13 13:29:42,Carte de Crédit,Standard,4.99,Rock,2976.08,73,True
+234,2018-11-12 02:37:44,Espèces,Eco,4.06,Rock,8112.86,199,True
+235,2022-12-02 18:06:36,PayPal,Standard,3.49,Hip-Hop,7379.04,181,True
+236,2022-04-05 04:03:28,Carte de Crédit,VIP,1.62,Classique,7664.41,188,True
+237,2019-02-23 00:24:10,PayPal,Eco,3.98,Jazz,5422.16,133,False
+238,2020-02-10 16:07:25,PayPal,Standard,2.13,Aucune,2894.54,71,True
+239,2018-11-26 20:44:11,Carte de Crédit,Famille,3.2,Hip-Hop,4688.34,115,False
+240,2020-08-01 13:31:31,Espèces,Standard,1.76,Jazz,4199.12,103,True
+241,2022-06-17 16:57:45,Espèces,Standard,3.73,Aucune,4647.57,114,True
+242,2021-03-31 19:50:27,PayPal,Standard,3.61,Jazz,5952.15,146,True
+243,2020-04-21 04:42:23,Carte de Crédit,VIP,3.39,Hip-Hop,978.44,24,True
+244,2022-06-06 02:50:24,PayPal,Eco,4.06,Hip-Hop,2609.16,64,False
+245,2022-08-05 18:31:36,Espèces,Famille,2.64,Rock,489.22,12,True
+246,2018-03-29 20:04:54,PayPal,Eco,3.44,Jazz,7786.72,191,True
+247,2021-11-24 09:46:14,PayPal,Eco,2.24,Hip-Hop,6319.06,155,True
+248,2020-03-10 02:24:33,Espèces,Famille,2.13,Pop,3709.9,91,True
+249,2022-10-14 20:06:53,PayPal,Standard,1.12,Pop,1753.03,43,True
+250,2021-05-25 04:53:30,PayPal,Standard,3.75,Classique,2731.47,67,True
+251,2021-06-11 00:55:53,Espèces,Famille,3.8,Aucune,1956.87,48,False
+252,2022-07-18 05:13:17,Espèces,Eco,1.14,Rock,7501.34,184,False
+253,2019-05-17 01:59:02,Carte de Crédit,VIP,1.69,Jazz,4280.66,105,False
+254,2022-07-22 04:36:13,Carte de Crédit,VIP,3.29,Rock,1100.74,27,True
+255,2020-06-21 04:44:00,Espèces,VIP,3.18,Hip-Hop,6767.51,166,True
+256,2021-06-11 11:44:10,Carte de Crédit,VIP,2.54,Jazz,4443.73,109,True
+257,2021-11-11 08:19:02,Espèces,Standard,1.74,Classique,5503.7,135,True
+258,2019-04-11 04:08:23,Espèces,Famille,2.11,Classique,5992.92,147,True
+259,2022-11-06 11:55:32,PayPal,VIP,3.06,Pop,4117.58,101,False
+260,2018-06-03 07:06:11,Espèces,VIP,2.5,Classique,1100.74,27,True
+261,2018-09-24 00:24:58,PayPal,VIP,4.49,Pop,5585.24,137,True
+262,2020-12-05 15:05:36,Carte de Crédit,Standard,4.07,Pop,4076.82,100,True
+263,2018-05-21 06:26:35,Espèces,Eco,1.23,Aucune,7419.8,182,True
+264,2020-09-09 03:43:29,Espèces,Famille,3.86,Aucune,4239.89,104,False
+265,2022-04-17 20:28:11,PayPal,Eco,3.82,Rock,2731.47,67,False
+266,2020-08-28 20:51:16,PayPal,Famille,3.09,Aucune,5177.56,127,True
+267,2020-06-19 12:13:56,Carte de Crédit,Famille,4.38,Classique,6115.22,150,True
+268,2019-04-30 15:55:13,Espèces,Standard,1.54,Jazz,81.54,2,True
+269,2022-01-15 22:16:13,PayPal,Eco,3.27,Rock,6074.46,149,False
+270,2020-05-19 09:01:36,PayPal,Famille,1.84,Hip-Hop,5829.85,143,False
+271,2018-05-14 10:11:24,Espèces,Standard,2.36,Aucune,5259.09,129,False
+272,2021-07-02 22:47:25,Espèces,VIP,2.11,Jazz,1019.2,25,True
+273,2019-04-30 03:43:31,PayPal,Famille,2.35,Pop,81.54,2,True
+274,2019-11-02 12:04:42,Espèces,VIP,3.54,Classique,3465.29,85,True
+275,2022-07-18 16:41:41,PayPal,Standard,4.65,Pop,2568.39,63,False
+276,2020-08-25 10:10:26,Carte de Crédit,Standard,2.39,Hip-Hop,978.44,24,True
+277,2020-09-05 14:21:21,PayPal,Standard,4.79,Hip-Hop,122.3,3,False
+278,2018-10-31 14:37:18,Espèces,Famille,4.41,Hip-Hop,2690.7,66,True
+279,2019-09-07 04:16:59,Carte de Crédit,Standard,1.22,Classique,6155.99,151,False
+280,2021-08-29 08:27:17,Espèces,VIP,4.39,Pop,2772.23,68,True
+281,2022-04-10 06:47:26,Espèces,Famille,3.14,Pop,693.06,17,True
+282,2022-09-29 19:44:27,PayPal,VIP,1.75,Hip-Hop,815.36,20,True
+283,2018-02-07 03:37:25,Espèces,Famille,1.51,Classique,3261.45,80,True
+284,2019-04-06 14:54:38,Espèces,VIP,2.69,Classique,5952.15,146,True
+285,2020-05-05 15:59:42,Espèces,VIP,4.69,Aucune,856.13,21,True
+286,2019-02-28 08:45:48,Espèces,Eco,1.6,Aucune,5544.47,136,False
+287,2022-02-23 21:38:37,PayPal,Eco,1.89,Pop,5136.79,126,False
+288,2021-04-20 05:18:21,Carte de Crédit,VIP,3.27,Pop,7297.5,179,True
+289,2022-02-15 21:50:27,Espèces,Eco,4.34,Pop,2242.25,55,True
+290,2018-02-14 14:58:50,PayPal,Standard,1.11,Jazz,8072.09,198,True
+291,2022-07-05 00:42:24,PayPal,Eco,4.83,Pop,5585.24,137,False
+292,2020-05-29 21:58:51,Espèces,Standard,1.6,Jazz,5585.24,137,True
+293,2020-12-30 03:04:58,Espèces,Famille,3.5,Jazz,3709.9,91,True
+294,2019-03-19 11:46:29,Carte de Crédit,Famille,2.83,Aucune,2772.23,68,False
+295,2022-07-26 09:19:45,Carte de Crédit,Eco,2.48,Hip-Hop,4973.71,122,True
+296,2019-01-12 14:49:11,PayPal,Famille,4.65,Jazz,1916.1,47,True
+297,2019-05-21 19:19:00,PayPal,VIP,2.18,Aucune,6237.53,153,False
+298,2020-11-22 04:15:27,Carte de Crédit,VIP,1.16,Aucune,7419.8,182,True
+299,2022-12-07 10:26:04,PayPal,VIP,2.49,Hip-Hop,6808.28,167,True
+300,2020-07-29 18:19:37,Espèces,Eco,2.5,Aucune,3057.61,75,True
+301,2019-08-19 23:55:44,PayPal,Famille,1.65,Classique,1508.42,37,True
+302,2020-05-27 23:18:30,Espèces,Standard,3.38,Pop,5462.93,134,True
+303,2022-08-12 10:46:53,Carte de Crédit,Eco,1.6,Pop,1875.34,46,False
+304,2022-11-06 07:58:51,Espèces,Eco,1.53,Aucune,2364.55,58,True
+305,2022-10-19 15:26:59,PayPal,Famille,2.13,Pop,7949.79,195,True
+306,2019-02-08 07:29:22,Espèces,Standard,1.66,Jazz,5259.09,129,True
+307,2020-01-19 20:20:37,Espèces,Standard,2.99,Hip-Hop,7093.66,174,True
+308,2020-01-30 18:54:38,Espèces,Famille,4.0,Aucune,1549.19,38,True
+309,2018-12-28 04:44:23,PayPal,VIP,2.68,Hip-Hop,163.07,4,False
+310,2022-04-14 12:55:59,PayPal,VIP,2.27,Jazz,3587.6,88,True
+311,2022-09-29 20:59:21,Espèces,Famille,4.26,Aucune,1386.12,34,False
+312,2020-09-29 18:30:52,Carte de Crédit,Famille,3.88,Rock,2935.31,72,False
+313,2019-10-15 06:52:22,PayPal,VIP,4.31,Aucune,7745.95,190,False
+314,2021-01-02 18:00:09,Carte de Crédit,Eco,2.47,Aucune,652.29,16,True
+315,2019-05-27 14:28:56,Carte de Crédit,Famille,2.5,Classique,8031.33,197,True
+316,2021-02-14 01:25:39,Espèces,Standard,1.88,Classique,3342.99,82,False
+317,2022-10-07 04:07:16,Espèces,Famille,1.48,Rock,570.75,14,False
+318,2021-09-03 23:50:58,Carte de Crédit,Famille,2.46,Hip-Hop,2486.86,61,True
+319,2018-11-22 21:02:41,PayPal,Famille,2.09,Hip-Hop,5626.01,138,True
+320,2022-09-22 02:34:04,Espèces,Eco,3.94,Classique,774.59,19,True
+321,2018-11-29 02:53:06,Carte de Crédit,Standard,1.74,Jazz,937.67,23,False
+322,2022-03-30 15:57:32,Espèces,Famille,3.69,Classique,937.67,23,True
+323,2019-07-26 22:53:56,Espèces,Standard,2.55,Aucune,8072.09,198,True
+324,2022-08-19 00:37:13,Carte de Crédit,Famille,2.12,Aucune,1386.12,34,True
+325,2022-10-06 18:06:17,Espèces,Standard,4.36,Classique,4076.82,100,True
+326,2019-09-05 03:33:23,PayPal,Famille,4.15,Jazz,7664.41,188,False
+327,2022-11-18 00:29:35,PayPal,VIP,1.03,Aucune,1467.65,36,False
+328,2018-09-05 21:31:08,Espèces,Eco,1.49,Pop,1386.12,34,False
+329,2020-01-31 18:24:32,Carte de Crédit,VIP,4.43,Jazz,7501.34,184,True
+330,2020-06-14 08:23:55,Espèces,Standard,2.57,Pop,1141.51,28,False
+331,2021-02-01 13:39:03,Carte de Crédit,Standard,2.16,Classique,5626.01,138,True
+332,2020-10-16 02:24:20,Carte de Crédit,Famille,3.79,Rock,2079.18,51,True
+333,2019-11-19 16:39:52,Espèces,VIP,1.84,Hip-Hop,5014.48,123,True
+334,2019-01-08 20:35:49,PayPal,Eco,1.85,Aucune,2813.0,69,True
+335,2020-04-01 09:31:08,Carte de Crédit,Eco,3.89,Hip-Hop,40.77,1,True
+336,2020-08-05 18:00:22,Carte de Crédit,Eco,3.91,Pop,3832.21,94,True
+337,2019-11-01 11:30:21,Carte de Crédit,Eco,2.72,Hip-Hop,6155.99,151,True
+338,2019-05-14 14:40:23,PayPal,Eco,5.0,Rock,6930.59,170,True
+339,2019-12-03 08:02:50,PayPal,VIP,1.55,Rock,693.06,17,True
+340,2021-03-08 03:29:34,Espèces,Standard,1.82,Rock,896.9,22,True
+341,2020-02-15 09:55:27,PayPal,Famille,3.38,Classique,81.54,2,False
+342,2020-07-11 00:20:25,Espèces,Standard,2.51,Hip-Hop,163.07,4,False
+343,2018-09-18 15:32:36,PayPal,Famille,4.96,Hip-Hop,7379.04,181,True
+344,2022-09-21 01:24:49,Espèces,Famille,4.01,Classique,1875.34,46,True
+345,2018-07-21 12:28:12,Espèces,Famille,1.76,Pop,3587.6,88,False
+346,2018-11-14 03:18:59,Espèces,Famille,4.98,Classique,7705.18,189,True
+347,2020-03-04 08:32:48,PayPal,Standard,4.64,Hip-Hop,1059.97,26,True
+348,2018-02-08 09:21:33,Espèces,Standard,3.26,Rock,3832.21,94,False
+349,2020-03-16 07:57:17,PayPal,Standard,3.04,Aucune,856.13,21,True
+350,2018-01-10 13:04:57,Espèces,Standard,3.43,Aucune,4525.27,111,False
+351,2021-11-02 12:11:09,PayPal,Famille,3.9,Hip-Hop,1304.58,32,True
+352,2020-02-13 00:33:02,Espèces,Eco,3.42,Aucune,6604.44,162,True
+353,2021-08-04 06:00:57,PayPal,VIP,2.52,Rock,1019.2,25,True
+354,2020-08-18 23:16:12,PayPal,Famille,2.23,Aucune,5014.48,123,True
+355,2018-04-12 15:05:33,PayPal,Standard,4.41,Rock,407.68,10,False
+356,2019-02-27 13:26:11,Espèces,Eco,2.55,Pop,3709.9,91,True
+357,2018-08-26 08:17:48,Carte de Crédit,Eco,2.62,Hip-Hop,1386.12,34,True
+358,2018-01-26 08:02:44,Carte de Crédit,Famille,2.47,Jazz,7745.95,190,False
+359,2022-10-20 21:51:32,PayPal,Eco,3.03,Hip-Hop,1875.34,46,True
+360,2018-07-13 20:37:37,Carte de Crédit,VIP,4.76,Classique,7827.49,192,True
+361,2020-08-09 02:30:18,PayPal,VIP,4.18,Hip-Hop,6889.82,169,True
+362,2020-12-15 13:04:55,PayPal,Eco,2.17,Jazz,6604.44,162,True
+363,2018-03-31 17:38:39,PayPal,Eco,3.88,Jazz,6726.75,165,True
+364,2020-12-04 08:14:07,Espèces,Standard,3.15,Pop,2283.02,56,False
+365,2018-08-07 15:25:54,Espèces,Famille,1.19,Pop,7134.43,175,True
+366,2022-05-30 07:53:38,Carte de Crédit,Eco,2.23,Classique,5218.32,128,True
+367,2018-12-01 14:24:02,Carte de Crédit,Famille,1.89,Hip-Hop,2527.63,62,True
+368,2021-01-22 12:32:16,Espèces,Famille,2.89,Jazz,4892.18,120,False
+369,2018-01-10 00:35:06,Espèces,VIP,3.29,Pop,5952.15,146,True
+370,2019-04-03 11:20:51,Carte de Crédit,Famille,1.2,Jazz,1467.65,36,False
+371,2022-07-21 19:19:06,Carte de Crédit,Famille,3.68,Classique,5218.32,128,True
+372,2021-09-17 14:01:47,Espèces,VIP,4.59,Rock,3220.68,79,True
+373,2020-03-25 16:25:56,Espèces,VIP,1.94,Aucune,40.77,1,True
+374,2021-05-06 01:59:39,Carte de Crédit,Eco,1.25,Pop,3669.13,90,True
+375,2022-07-28 05:02:28,Espèces,VIP,3.36,Jazz,570.75,14,True
+376,2020-01-27 22:26:17,Espèces,Standard,4.17,Hip-Hop,4239.89,104,False
+377,2021-02-04 03:15:15,PayPal,Eco,2.67,Hip-Hop,2649.93,65,True
+378,2021-02-25 03:23:16,PayPal,Standard,1.27,Aucune,4892.18,120,True
+379,2019-01-16 08:33:18,PayPal,Eco,3.44,Classique,2894.54,71,True
+380,2019-04-20 17:44:49,Carte de Crédit,Famille,1.94,Classique,366.91,9,False
+381,2018-05-10 16:07:29,PayPal,Standard,4.29,Jazz,1712.26,42,False
+382,2022-04-04 22:09:31,PayPal,VIP,3.97,Pop,1834.57,45,True
+383,2020-01-13 19:50:53,PayPal,Standard,1.16,Jazz,4117.58,101,False
+384,2020-11-05 00:31:28,Espèces,VIP,2.63,Hip-Hop,6359.83,156,True
+385,2020-01-18 07:44:24,PayPal,VIP,3.58,Jazz,6522.9,160,False
+386,2019-06-16 03:07:11,Carte de Crédit,Standard,4.28,Pop,6033.69,148,True
+387,2022-04-19 22:55:34,Carte de Crédit,Eco,2.88,Rock,7256.73,178,True
+388,2019-06-19 03:38:49,Carte de Crédit,VIP,2.79,Hip-Hop,7256.73,178,False
+389,2020-04-02 21:30:42,Carte de Crédit,Eco,1.48,Rock,1956.87,48,True
+390,2020-02-12 23:42:49,Espèces,Famille,3.97,Hip-Hop,5585.24,137,False
+391,2019-09-27 20:19:35,PayPal,VIP,1.42,Aucune,3872.97,95,True
+392,2020-06-30 02:01:56,PayPal,Famille,3.06,Jazz,1589.96,39,True
+393,2022-01-26 07:42:13,Espèces,VIP,3.4,Aucune,7338.27,180,True
+394,2022-02-07 12:35:57,Carte de Crédit,Famille,3.12,Classique,2527.63,62,True
+395,2018-11-15 06:16:29,Carte de Crédit,Standard,3.54,Hip-Hop,2568.39,63,True
+396,2020-06-07 13:31:35,Espèces,VIP,1.42,Classique,4729.11,116,True
+397,2019-08-26 20:36:18,PayPal,Eco,4.54,Classique,5666.77,139,True
+398,2021-09-22 13:02:17,Carte de Crédit,Standard,4.1,Pop,1304.58,32,True
+399,2018-07-16 18:40:00,Espèces,Famille,4.05,Pop,611.52,15,True
+400,2019-03-07 08:15:00,PayPal,Standard,3.48,Classique,6685.98,164,False
+401,2018-04-13 08:46:48,PayPal,Eco,2.62,Pop,3791.44,93,True
+402,2021-06-10 02:07:55,PayPal,VIP,2.55,Jazz,3872.97,95,False
+403,2019-06-25 17:01:29,Espèces,Eco,4.72,Hip-Hop,4932.95,121,False
+404,2020-09-25 13:33:42,PayPal,Standard,4.27,Aucune,4647.57,114,False
+405,2020-05-14 17:14:53,Espèces,Eco,4.89,Classique,7012.12,172,True
+406,2018-08-21 17:39:32,PayPal,Eco,1.54,Hip-Hop,4280.66,105,False
+407,2018-01-27 22:23:38,Carte de Crédit,Famille,2.82,Pop,1753.03,43,False
+408,2022-11-28 08:52:00,Espèces,Eco,3.14,Classique,5096.02,125,True
+409,2021-07-25 15:34:19,Espèces,Eco,4.78,Pop,7256.73,178,True
+410,2020-09-20 00:52:54,PayPal,Standard,2.59,Aucune,3995.28,98,True
+411,2022-02-19 17:17:03,Carte de Crédit,Eco,3.2,Hip-Hop,4362.19,107,True
+412,2021-10-08 06:24:42,PayPal,Eco,1.38,Aucune,6726.75,165,True
+413,2019-04-01 05:49:42,Espèces,Standard,3.04,Hip-Hop,1589.96,39,True
+414,2020-06-16 00:28:32,Carte de Crédit,Famille,2.74,Jazz,2894.54,71,True
+415,2022-04-09 10:13:11,PayPal,Eco,2.1,Jazz,7215.96,177,False
+416,2020-02-20 15:39:23,Espèces,VIP,2.35,Aucune,978.44,24,True
+417,2021-05-29 11:09:34,Espèces,VIP,1.38,Pop,6115.22,150,True
+418,2018-03-23 07:33:29,PayPal,Famille,3.49,Jazz,7215.96,177,True
+419,2019-03-17 08:33:08,Espèces,VIP,1.07,Jazz,1100.74,27,True
+420,2021-04-20 18:21:45,PayPal,Eco,1.22,Classique,4729.11,116,True
+421,2018-09-13 08:39:21,Espèces,VIP,2.28,Hip-Hop,3098.38,76,False
+422,2022-06-07 01:03:11,PayPal,Standard,2.11,Hip-Hop,2283.02,56,False
+423,2019-10-18 10:29:36,PayPal,VIP,2.83,Rock,1589.96,39,True
+424,2019-07-27 23:53:42,Carte de Crédit,Eco,3.85,Classique,5870.61,144,False
+425,2021-07-01 10:57:44,Carte de Crédit,Standard,3.85,Hip-Hop,733.83,18,True
+426,2022-03-09 08:16:26,PayPal,VIP,3.22,Aucune,1875.34,46,True
+427,2022-12-10 22:49:12,PayPal,Standard,1.38,Aucune,4769.87,117,True
+428,2019-12-23 20:51:14,Carte de Crédit,Famille,3.47,Jazz,5259.09,129,True
+429,2019-10-08 13:06:22,Carte de Crédit,Eco,2.79,Aucune,4973.71,122,True
+430,2021-04-02 18:33:38,PayPal,Standard,2.56,Pop,2976.08,73,True
+431,2021-01-09 19:35:15,Carte de Crédit,Famille,1.34,Hip-Hop,4566.03,112,True
+432,2022-08-01 20:55:40,PayPal,VIP,1.18,Pop,4484.5,110,True
+433,2021-12-28 02:29:27,Carte de Crédit,Famille,2.1,Hip-Hop,6767.51,166,False
+434,2021-08-15 00:01:19,PayPal,Eco,2.43,Aucune,2038.41,50,True
+435,2021-10-31 11:59:19,Carte de Crédit,Eco,2.35,Pop,3587.6,88,False
+436,2018-10-16 01:46:39,Carte de Crédit,Famille,4.54,Jazz,6196.76,152,True
+437,2021-12-21 10:50:29,Carte de Crédit,Famille,1.07,Rock,1263.81,31,True
+438,2019-08-26 07:55:20,PayPal,Famille,1.56,Aucune,7419.8,182,False
+439,2018-05-22 14:47:23,Espèces,Famille,2.1,Pop,7582.88,186,True
+440,2022-04-18 05:53:52,Espèces,Famille,4.48,Rock,6522.9,160,False
+441,2019-07-02 11:04:15,Carte de Crédit,Standard,4.64,Hip-Hop,5055.25,124,False
+442,2020-12-24 21:47:35,Carte de Crédit,Famille,3.0,Aucune,2813.0,69,True
+443,2019-08-10 02:18:53,Carte de Crédit,Eco,2.65,Aucune,2242.25,55,True
+444,2021-10-23 12:29:33,Espèces,Eco,2.0,Rock,366.91,9,True
+445,2021-05-12 20:01:49,PayPal,Famille,3.39,Aucune,244.61,6,True
+446,2021-12-13 21:46:45,PayPal,VIP,3.89,Aucune,4239.89,104,True
+447,2019-04-28 06:51:06,Carte de Crédit,VIP,2.21,Hip-Hop,5340.63,131,True
+448,2020-09-28 02:43:55,PayPal,VIP,3.04,Aucune,2486.86,61,True
+449,2021-01-17 11:33:30,Carte de Crédit,Eco,4.16,Pop,4810.64,118,True
+450,2022-03-20 11:12:53,PayPal,Eco,1.27,Classique,2935.31,72,False
+451,2019-07-04 18:40:35,Espèces,Eco,1.36,Hip-Hop,6849.05,168,False
+452,2022-08-08 03:10:52,PayPal,VIP,2.27,Rock,2649.93,65,False
+453,2018-11-01 20:03:10,Espèces,Standard,1.31,Aucune,6645.21,163,True
+454,2022-07-29 01:11:55,Espèces,Famille,4.86,Pop,7134.43,175,True
+455,2019-09-04 07:12:08,Espèces,VIP,4.54,Jazz,448.45,11,True
+456,2018-12-01 00:38:37,Carte de Crédit,Eco,1.02,Hip-Hop,4525.27,111,True
+457,2020-12-14 17:52:06,Carte de Crédit,VIP,1.95,Rock,7379.04,181,True
+458,2022-11-17 17:29:33,Carte de Crédit,VIP,1.98,Jazz,1223.04,30,True
+459,2019-06-20 02:21:13,Espèces,Famille,2.12,Jazz,326.15,8,True
+460,2018-08-31 23:59:50,Espèces,VIP,4.07,Aucune,3465.29,85,True
+461,2022-12-05 07:47:03,Carte de Crédit,VIP,1.64,Classique,5381.4,132,True
+462,2021-04-03 16:36:15,PayPal,Eco,3.73,Rock,4158.35,102,True
+463,2019-10-29 23:08:48,PayPal,VIP,3.87,Jazz,3302.22,81,True
+464,2021-07-27 14:19:59,Carte de Crédit,Famille,2.9,Hip-Hop,7460.57,183,False
+465,2019-04-23 09:36:59,Espèces,VIP,4.29,Aucune,6808.28,167,False
+466,2020-05-25 00:13:12,Espèces,Famille,3.38,Jazz,1059.97,26,True
+467,2018-07-04 03:15:45,PayPal,Eco,2.85,Pop,1793.8,44,True
+468,2018-11-07 19:27:18,Carte de Crédit,Famille,3.09,Classique,5055.25,124,False
+469,2021-02-20 06:16:53,Espèces,VIP,1.37,Rock,4484.5,110,False
+470,2019-07-31 07:05:45,Carte de Crédit,Standard,2.66,Aucune,4729.11,116,True
+471,2022-04-28 03:44:47,PayPal,Eco,4.78,Rock,3302.22,81,False
+472,2020-07-27 08:04:23,PayPal,Eco,1.77,Rock,7338.27,180,False
+473,2019-08-19 04:40:23,PayPal,Standard,4.24,Hip-Hop,4158.35,102,True
+474,2022-09-09 13:52:12,Espèces,VIP,1.15,Hip-Hop,5952.15,146,True
+475,2020-05-27 01:44:45,Carte de Crédit,Standard,4.31,Aucune,5666.77,139,True
+476,2019-12-05 14:50:23,Carte de Crédit,Standard,1.59,Rock,2853.77,70,True
+477,2021-06-29 09:37:27,PayPal,VIP,2.36,Classique,5911.38,145,True
+478,2021-09-15 14:53:42,PayPal,Famille,2.26,Aucune,7827.49,192,False
+479,2020-12-02 11:31:51,Espèces,Standard,4.42,Hip-Hop,3750.67,92,True
+480,2021-10-21 07:18:28,Espèces,VIP,1.42,Jazz,1100.74,27,False
+481,2018-06-22 11:37:52,Espèces,VIP,2.64,Hip-Hop,6033.69,148,True
+482,2020-08-13 00:42:46,Carte de Crédit,VIP,4.66,Jazz,5992.92,147,True
+483,2019-05-02 16:17:40,PayPal,VIP,2.2,Aucune,6889.82,169,True
+484,2021-01-11 15:34:25,Carte de Crédit,Famille,4.07,Pop,1997.64,49,True
+485,2018-11-22 00:51:08,Espèces,VIP,3.06,Jazz,7705.18,189,False
+486,2019-04-20 19:50:42,Espèces,Eco,2.26,Rock,7175.2,176,False
+487,2021-02-23 10:52:13,PayPal,Eco,1.12,Pop,3098.38,76,True
+488,2021-02-10 15:17:06,PayPal,Eco,1.93,Pop,7745.95,190,True
+489,2020-06-30 04:31:00,Espèces,Standard,1.82,Hip-Hop,6441.37,158,True
+490,2021-07-16 17:49:27,Carte de Crédit,VIP,2.82,Pop,6522.9,160,True
+491,2021-12-31 00:29:32,Espèces,Famille,1.03,Pop,7745.95,190,True
+492,2018-11-12 10:11:22,PayPal,Eco,4.59,Hip-Hop,3016.84,74,True
+493,2019-04-11 17:17:48,PayPal,Famille,1.17,Jazz,5544.47,136,True
+494,2021-08-10 08:25:02,Carte de Crédit,VIP,1.88,Jazz,2486.86,61,False
+495,2019-09-06 04:15:02,Espèces,Eco,4.25,Pop,6563.67,161,False
+496,2020-02-26 02:32:03,Espèces,Famille,2.15,Hip-Hop,7012.12,172,True
+497,2018-09-19 20:08:27,Espèces,VIP,4.04,Pop,4851.41,119,True
+498,2018-01-15 12:00:07,Carte de Crédit,Standard,4.43,Hip-Hop,7745.95,190,True
+499,2019-05-05 21:17:23,Espèces,Standard,3.31,Pop,7582.88,186,False
+500,2018-09-03 21:58:11,Carte de Crédit,Standard,3.89,Classique,2119.94,52,True
+501,2020-03-26 00:44:38,Espèces,Standard,4.05,Jazz,3628.37,89,True
+502,2019-09-08 11:16:07,Espèces,Eco,2.06,Rock,6074.46,149,False
+503,2020-12-18 06:53:38,PayPal,Eco,3.34,Aucune,7664.41,188,True
+504,2020-11-13 19:33:13,Espèces,Standard,3.62,Rock,3383.76,83,True
+505,2020-09-28 11:44:20,Carte de Crédit,Standard,2.76,Pop,5911.38,145,True
+506,2022-05-29 06:43:54,PayPal,Eco,2.91,Rock,4932.95,121,True
+507,2021-05-09 22:53:37,Espèces,Standard,2.67,Classique,3954.51,97,True
+508,2022-06-26 17:48:36,PayPal,Standard,2.79,Rock,2813.0,69,True
+509,2018-10-10 01:00:44,Carte de Crédit,Standard,1.15,Classique,2568.39,63,True
+510,2019-01-21 09:49:01,PayPal,VIP,1.6,Aucune,2283.02,56,True
+511,2018-12-12 10:18:51,PayPal,VIP,4.83,Rock,5707.54,140,True
+512,2022-10-28 09:36:26,PayPal,Famille,4.84,Jazz,1059.97,26,True
+513,2021-05-06 02:22:08,PayPal,Famille,3.52,Rock,1059.97,26,False
+514,2020-03-13 00:16:08,Espèces,Standard,4.18,Hip-Hop,7175.2,176,False
+515,2018-06-24 02:49:23,Carte de Crédit,VIP,2.63,Hip-Hop,2813.0,69,False
+516,2022-04-29 08:08:17,Espèces,Eco,1.68,Aucune,3709.9,91,True
+517,2020-10-25 02:29:53,PayPal,Standard,1.47,Rock,0.0,0,False
+518,2021-08-29 12:15:17,Carte de Crédit,Standard,1.43,Classique,7175.2,176,True
+519,2021-05-25 06:29:01,Espèces,Famille,2.57,Classique,6196.76,152,True
+520,2020-04-17 08:20:55,Carte de Crédit,Standard,4.11,Jazz,1793.8,44,True
+521,2020-12-10 00:23:47,Espèces,Famille,4.87,Pop,4484.5,110,True
+522,2021-02-26 07:49:12,Carte de Crédit,VIP,3.68,Hip-Hop,5911.38,145,True
+523,2019-08-01 08:01:43,Espèces,Famille,1.13,Rock,1589.96,39,True
+524,2020-04-09 06:07:43,Carte de Crédit,Famille,2.03,Jazz,2242.25,55,True
+525,2020-10-11 10:30:00,Carte de Crédit,VIP,4.82,Hip-Hop,4158.35,102,True
+526,2019-02-12 06:04:23,Carte de Crédit,Eco,4.43,Rock,7745.95,190,False
+527,2022-08-23 01:30:01,Espèces,Standard,2.8,Classique,3424.53,84,True
+528,2022-12-30 08:34:11,Espèces,Standard,4.94,Jazz,5585.24,137,True
+529,2021-09-13 22:30:02,Espèces,Eco,3.69,Pop,2690.7,66,False
+530,2021-01-15 12:08:42,Carte de Crédit,Eco,2.48,Pop,3506.06,86,True
+531,2019-10-20 13:45:34,PayPal,VIP,1.13,Aucune,7827.49,192,True
+532,2022-11-28 03:54:09,PayPal,Standard,3.69,Rock,3750.67,92,False
+533,2020-06-21 06:22:16,PayPal,Famille,3.95,Aucune,448.45,11,True
+534,2020-11-23 16:31:18,Carte de Crédit,Famille,3.53,Hip-Hop,4932.95,121,True
+535,2020-11-23 08:26:41,Carte de Crédit,Eco,3.7,Aucune,5870.61,144,True
+536,2019-11-04 10:27:33,Carte de Crédit,Eco,2.38,Hip-Hop,5218.32,128,True
+537,2021-02-05 18:26:19,Espèces,Standard,1.27,Rock,5789.08,142,True
+538,2020-05-03 02:25:02,Carte de Crédit,Famille,3.94,Hip-Hop,2364.55,58,True
+539,2021-10-16 10:19:59,Espèces,VIP,4.25,Hip-Hop,1997.64,49,True
+540,2020-11-08 10:58:43,Carte de Crédit,VIP,4.44,Pop,7012.12,172,True
+541,2021-07-04 18:25:28,PayPal,Standard,4.57,Jazz,2446.09,60,False
+542,2018-07-12 19:16:20,Carte de Crédit,VIP,4.68,Classique,3913.74,96,True
+543,2019-07-01 00:40:43,Carte de Crédit,Famille,2.21,Jazz,1997.64,49,False
+544,2018-10-30 17:53:39,Carte de Crédit,Eco,4.41,Pop,3954.51,97,True
+545,2020-05-17 13:36:43,PayPal,Eco,1.25,Pop,5748.31,141,True
+546,2018-05-30 10:11:24,Espèces,Famille,4.37,Aucune,326.15,8,False
+547,2019-04-07 00:05:07,Carte de Crédit,VIP,3.5,Pop,5992.92,147,False
+548,2018-12-15 21:07:26,Espèces,Standard,2.38,Hip-Hop,3791.44,93,True
+549,2021-03-03 02:43:03,Carte de Crédit,Eco,4.54,Aucune,3791.44,93,True
+550,2019-09-11 12:09:20,Espèces,Standard,2.84,Pop,7990.56,196,True
+551,2022-02-22 08:10:21,Espèces,Standard,1.68,Pop,4076.82,100,True
+552,2018-12-09 14:48:14,Carte de Crédit,Standard,1.74,Jazz,1671.49,41,True
+553,2022-08-14 14:14:35,PayPal,Standard,1.92,Classique,7827.49,192,False
+554,2019-12-23 11:00:43,Espèces,VIP,2.04,Pop,5014.48,123,True
+555,2018-10-07 07:08:59,Espèces,VIP,2.56,Classique,733.83,18,True
+556,2018-02-26 04:44:17,Carte de Crédit,Standard,4.0,Hip-Hop,6074.46,149,False
+557,2018-03-03 20:58:15,Espèces,Standard,1.35,Aucune,7419.8,182,False
+558,2019-10-07 13:22:08,PayPal,Standard,2.53,Rock,733.83,18,True
+559,2020-08-22 00:51:36,PayPal,VIP,2.93,Aucune,7705.18,189,True
+560,2022-06-28 19:33:38,Espèces,Eco,3.3,Jazz,163.07,4,False
+561,2022-03-07 00:06:20,PayPal,Standard,3.94,Pop,1467.65,36,True
+562,2021-02-23 22:49:56,Carte de Crédit,Standard,2.52,Hip-Hop,7868.25,193,True
+563,2018-01-03 11:48:09,Espèces,VIP,1.08,Pop,8112.86,199,False
+564,2020-04-16 05:19:13,Espèces,Famille,2.19,Hip-Hop,1100.74,27,True
+565,2022-02-09 20:55:32,Espèces,Standard,3.23,Jazz,6441.37,158,True
+566,2021-04-28 19:00:16,PayPal,VIP,4.33,Jazz,4932.95,121,True
+567,2022-05-24 04:46:19,PayPal,VIP,4.01,Pop,4402.96,108,True
+568,2021-05-27 08:45:33,Espèces,Eco,2.54,Classique,5666.77,139,True
+569,2019-12-23 11:07:15,Espèces,Eco,3.57,Rock,4851.41,119,True
+570,2022-08-03 17:39:50,Carte de Crédit,Famille,3.52,Classique,7215.96,177,True
+571,2020-11-29 19:11:21,Carte de Crédit,Famille,4.42,Rock,5381.4,132,False
+572,2020-06-29 09:27:12,Espèces,VIP,4.27,Jazz,1508.42,37,True
+573,2019-04-05 06:56:42,Espèces,Famille,4.85,Pop,1467.65,36,False
+574,2018-02-07 09:31:14,Espèces,Famille,2.6,Aucune,5829.85,143,True
+575,2022-05-08 00:40:31,Espèces,Eco,2.52,Hip-Hop,1304.58,32,True
+576,2022-06-27 05:34:07,PayPal,VIP,2.18,Rock,7175.2,176,False
+577,2018-03-21 01:04:56,Carte de Crédit,VIP,3.93,Jazz,2649.93,65,True
+578,2018-08-15 10:11:17,PayPal,VIP,5.0,Pop,2976.08,73,True
+579,2021-02-25 19:03:12,Espèces,Famille,4.11,Pop,4443.73,109,True
+580,2021-11-27 03:06:53,PayPal,Eco,4.9,Rock,6115.22,150,True
+581,2019-09-24 11:15:32,Carte de Crédit,VIP,3.7,Hip-Hop,5626.01,138,False
+582,2020-06-27 13:32:07,PayPal,Standard,2.39,Hip-Hop,407.68,10,True
+583,2022-10-18 17:50:19,Carte de Crédit,Famille,4.14,Pop,1956.87,48,True
+584,2019-06-21 19:14:03,PayPal,Standard,3.46,Pop,1059.97,26,True
+585,2019-08-16 15:30:12,Carte de Crédit,Eco,1.13,Pop,1834.57,45,True
+586,2022-02-06 18:22:11,PayPal,Eco,4.84,Rock,1671.49,41,False
+587,2020-10-14 10:42:17,PayPal,Famille,4.58,Pop,366.91,9,False
+588,2018-08-22 09:20:42,Espèces,Standard,4.86,Rock,5136.79,126,False
+589,2021-09-22 17:08:24,Carte de Crédit,Eco,4.17,Jazz,3669.13,90,True
+590,2020-10-30 15:34:13,Espèces,VIP,1.15,Pop,611.52,15,False
+591,2019-02-15 17:51:35,PayPal,Eco,2.26,Classique,4892.18,120,True
+592,2018-08-11 18:34:06,PayPal,Eco,1.35,Pop,3872.97,95,False
+593,2022-09-18 00:12:30,Espèces,Famille,1.37,Aucune,2935.31,72,True
+594,2022-04-21 10:51:19,PayPal,VIP,1.86,Classique,1793.8,44,True
+595,2020-05-25 06:40:14,Carte de Crédit,Standard,4.26,Jazz,2853.77,70,True
+596,2020-03-04 03:03:13,Espèces,VIP,3.4,Rock,81.54,2,True
+597,2021-06-01 03:15:48,Carte de Crédit,Famille,3.68,Jazz,7134.43,175,True
+598,2022-02-16 02:29:14,Espèces,Famille,1.89,Pop,6155.99,151,True
+599,2018-12-13 01:13:05,PayPal,Eco,1.37,Rock,3750.67,92,False
+600,2018-10-17 17:50:39,Espèces,Eco,1.45,Aucune,1426.89,35,True
+601,2018-01-08 03:17:25,Espèces,VIP,2.37,Jazz,5259.09,129,True
+602,2018-04-08 02:03:27,Espèces,Standard,3.57,Jazz,3995.28,98,True
+603,2018-10-27 09:31:02,Carte de Crédit,VIP,3.4,Rock,7745.95,190,True
+604,2022-11-20 06:50:46,Espèces,Standard,3.16,Hip-Hop,244.61,6,False
+605,2022-04-06 16:40:20,Espèces,Eco,2.25,Classique,5136.79,126,True
+606,2022-03-27 17:16:56,Espèces,Standard,4.01,Pop,8112.86,199,False
+607,2018-11-02 07:33:49,Carte de Crédit,Eco,1.13,Pop,407.68,10,True
+608,2019-10-12 04:53:41,PayPal,VIP,1.95,Aucune,8031.33,197,False
+609,2018-02-02 21:02:57,Espèces,Famille,4.71,Jazz,6033.69,148,False
+610,2021-09-01 15:06:13,PayPal,Famille,1.65,Aucune,1223.04,30,True
+611,2019-02-05 20:39:12,PayPal,VIP,4.34,Hip-Hop,2813.0,69,True
+612,2021-11-19 01:15:40,PayPal,Standard,2.65,Hip-Hop,4851.41,119,True
+613,2020-08-26 07:32:48,PayPal,Eco,4.17,Aucune,7379.04,181,False
+614,2020-07-25 21:56:45,Espèces,Famille,4.88,Aucune,366.91,9,True
+615,2022-03-08 01:02:40,Carte de Crédit,VIP,2.03,Aucune,2446.09,60,True
+616,2020-02-16 16:17:20,Espèces,Famille,4.94,Jazz,2690.7,66,False
+617,2018-06-28 04:56:21,Espèces,Famille,2.1,Pop,6278.3,154,True
+618,2018-01-18 20:28:06,PayPal,Famille,3.6,Pop,978.44,24,True
+619,2020-02-01 14:50:15,PayPal,Famille,2.75,Jazz,6033.69,148,True
+620,2018-03-08 12:02:43,Carte de Crédit,Eco,3.7,Jazz,1753.03,43,True
+621,2018-03-26 07:36:10,Carte de Crédit,Eco,3.42,Classique,3913.74,96,True
+622,2022-10-19 12:47:02,PayPal,VIP,4.19,Rock,1386.12,34,False
+623,2022-07-26 10:27:59,Carte de Crédit,VIP,4.53,Rock,6889.82,169,True
+624,2022-12-26 14:55:24,Carte de Crédit,Standard,4.05,Hip-Hop,7990.56,196,True
+625,2022-04-10 06:48:16,Espèces,Eco,4.73,Hip-Hop,366.91,9,True
+626,2018-02-23 02:45:25,Espèces,Standard,1.56,Classique,1630.73,40,True
+627,2022-09-27 17:22:00,PayPal,Standard,4.58,Rock,5422.16,133,False
+628,2021-01-05 17:03:49,Espèces,Standard,3.13,Classique,7052.89,173,True
+629,2019-09-01 14:49:09,Espèces,Eco,1.56,Jazz,7542.11,185,False
+630,2020-05-21 23:41:52,PayPal,Standard,4.94,Pop,1019.2,25,True
+631,2021-09-27 00:12:10,Espèces,Eco,4.49,Classique,896.9,22,False
+632,2020-07-10 01:03:37,Carte de Crédit,Eco,1.62,Aucune,4117.58,101,True
+633,2022-12-07 22:00:25,Espèces,Famille,3.21,Pop,4443.73,109,True
+634,2018-12-29 13:10:47,Espèces,Famille,4.79,Rock,6889.82,169,True
+635,2021-01-11 16:34:34,PayPal,Eco,1.07,Hip-Hop,1753.03,43,True
+636,2019-09-22 00:16:30,PayPal,Famille,3.95,Hip-Hop,8031.33,197,True
+637,2020-04-23 16:21:15,Carte de Crédit,Famille,1.37,Rock,6767.51,166,True
+638,2019-04-15 16:41:53,PayPal,Eco,3.27,Classique,7990.56,196,True
+639,2018-12-21 16:51:04,Carte de Crédit,Eco,1.29,Hip-Hop,7052.89,173,False
+640,2019-02-13 04:16:55,Carte de Crédit,Famille,2.93,Classique,5096.02,125,True
+641,2018-03-05 15:25:32,Espèces,VIP,2.63,Aucune,326.15,8,True
+642,2021-08-09 23:17:02,Espèces,Eco,4.07,Hip-Hop,3302.22,81,True
+643,2022-05-10 20:48:13,Carte de Crédit,VIP,1.55,Jazz,407.68,10,True
+644,2020-07-27 09:30:24,Espèces,Famille,1.91,Pop,6726.75,165,False
+645,2018-01-01 15:07:29,Carte de Crédit,Eco,4.92,Jazz,3506.06,86,True
+646,2022-05-31 13:06:12,Carte de Crédit,Famille,1.07,Jazz,2242.25,55,True
+647,2021-10-03 02:01:40,PayPal,Standard,1.82,Pop,733.83,18,True
+648,2019-05-21 01:23:43,Espèces,Famille,4.87,Aucune,1304.58,32,False
+649,2020-05-18 20:40:44,Espèces,Famille,2.78,Classique,2853.77,70,True
+650,2019-05-07 15:36:27,Carte de Crédit,VIP,3.44,Classique,3791.44,93,True
+651,2021-11-24 06:35:59,PayPal,Standard,1.33,Rock,4892.18,120,True
+652,2018-11-20 06:49:24,PayPal,Standard,2.4,Jazz,1753.03,43,False
+653,2018-03-27 08:06:35,PayPal,Standard,2.11,Rock,4851.41,119,True
+654,2021-08-14 06:56:03,Carte de Crédit,Eco,1.54,Pop,733.83,18,False
+655,2021-07-01 10:47:20,Espèces,VIP,3.2,Pop,4729.11,116,True
+656,2022-03-25 00:42:25,Carte de Crédit,Standard,2.71,Pop,6359.83,156,False
+657,2019-06-21 03:08:08,PayPal,VIP,1.78,Pop,6645.21,163,False
+658,2019-07-24 00:34:31,Espèces,VIP,1.43,Rock,6930.59,170,True
+659,2018-05-24 06:22:27,Carte de Crédit,Standard,4.36,Hip-Hop,2813.0,69,False
+660,2021-09-09 10:19:19,Espèces,VIP,4.15,Jazz,1875.34,46,True
+661,2019-04-28 00:41:25,Carte de Crédit,Famille,2.34,Aucune,815.36,20,True
+662,2018-01-20 14:10:24,Espèces,Standard,1.77,Pop,0.0,0,True
+663,2022-05-03 16:08:35,PayPal,VIP,2.22,Hip-Hop,3709.9,91,True
+664,2021-09-21 13:37:27,PayPal,Eco,2.05,Rock,3954.51,97,False
+665,2019-06-06 13:55:14,Carte de Crédit,Standard,2.02,Jazz,8112.86,199,True
+666,2020-07-03 00:08:30,Espèces,Eco,1.7,Hip-Hop,3261.45,80,True
+667,2022-05-04 06:58:06,Carte de Crédit,Eco,3.43,Classique,7990.56,196,True
+668,2020-10-09 11:07:31,Espèces,Standard,3.79,Classique,7379.04,181,False
+669,2018-04-04 14:11:04,PayPal,VIP,2.34,Pop,4280.66,105,True
+670,2021-05-12 02:22:39,Espèces,Famille,2.69,Aucune,5218.32,128,False
+671,2019-04-13 13:43:28,PayPal,Famille,3.86,Hip-Hop,1508.42,37,True
+672,2018-06-20 22:41:51,PayPal,Famille,4.89,Pop,4606.8,113,True
+673,2020-08-05 12:27:59,Carte de Crédit,Standard,2.3,Pop,3791.44,93,True
+674,2020-01-01 11:21:45,PayPal,Eco,2.09,Hip-Hop,6359.83,156,True
+675,2018-02-05 20:35:51,PayPal,Standard,4.45,Hip-Hop,1916.1,47,True
+676,2019-09-21 11:11:43,Espèces,Standard,1.73,Rock,5503.7,135,True
+677,2020-05-16 15:24:50,Carte de Crédit,Famille,1.67,Rock,5626.01,138,False
+678,2021-02-16 18:32:14,PayPal,VIP,1.13,Classique,1386.12,34,True
+679,2020-05-22 11:03:48,PayPal,Eco,3.1,Hip-Hop,4810.64,118,True
+680,2020-09-25 01:12:24,Espèces,VIP,2.09,Classique,6074.46,149,True
+681,2019-03-18 10:40:58,PayPal,VIP,2.61,Hip-Hop,6522.9,160,True
+682,2021-10-10 18:52:21,PayPal,Eco,3.83,Classique,2201.48,54,True
+683,2022-07-15 05:14:29,Espèces,Famille,4.1,Classique,3506.06,86,True
+684,2020-04-10 04:03:27,Espèces,Famille,2.96,Classique,978.44,24,True
+685,2020-11-17 14:45:12,Espèces,VIP,4.29,Pop,7215.96,177,False
+686,2018-12-01 11:50:27,Carte de Crédit,Standard,4.71,Hip-Hop,3832.21,94,True
+687,2022-08-24 22:38:24,PayPal,VIP,2.66,Rock,6971.35,171,True
+688,2019-06-27 17:00:33,Espèces,Eco,1.11,Hip-Hop,652.29,16,False
+689,2022-02-20 09:04:01,Carte de Crédit,Eco,3.52,Classique,203.84,5,True
+690,2018-10-02 23:14:47,Espèces,Eco,3.86,Jazz,570.75,14,True
+691,2022-01-04 02:03:39,Espèces,Famille,4.07,Jazz,6767.51,166,False
+692,2018-02-20 03:30:37,Carte de Crédit,Eco,4.24,Rock,7909.02,194,True
+693,2018-12-21 09:07:07,Espèces,VIP,4.0,Rock,774.59,19,True
+694,2021-09-13 16:07:27,Carte de Crédit,Famille,1.26,Pop,3179.92,78,True
+695,2020-08-07 14:05:06,PayPal,Famille,2.79,Hip-Hop,7786.72,191,True
+696,2021-11-07 09:18:34,PayPal,Standard,1.92,Hip-Hop,8072.09,198,True
+697,2021-09-18 06:57:37,Espèces,Standard,2.47,Hip-Hop,1549.19,38,False
+698,2022-01-03 04:10:19,Carte de Crédit,Famille,3.47,Hip-Hop,1059.97,26,True
+699,2019-12-04 21:13:26,Carte de Crédit,Famille,4.42,Aucune,4036.05,99,False
+700,2022-07-01 13:18:31,PayPal,Famille,4.87,Pop,4932.95,121,True
+701,2022-01-01 04:46:43,Espèces,Standard,3.02,Hip-Hop,7256.73,178,True
+702,2020-12-22 00:40:47,Carte de Crédit,Standard,4.38,Jazz,7297.5,179,True
+703,2018-08-29 07:31:50,Espèces,Eco,3.19,Classique,5870.61,144,True
+704,2019-11-22 00:36:43,PayPal,Famille,3.25,Pop,693.06,17,True
+705,2018-01-09 21:53:02,Espèces,Eco,3.63,Aucune,7175.2,176,True
+706,2022-11-09 10:51:24,Carte de Crédit,VIP,3.29,Classique,1141.51,28,False
+707,2019-05-09 12:56:13,Carte de Crédit,Standard,1.74,Jazz,4036.05,99,True
+708,2020-05-20 10:05:47,Espèces,Famille,4.22,Classique,6889.82,169,True
+709,2021-02-23 15:04:21,Carte de Crédit,VIP,1.47,Aucune,5259.09,129,True
+710,2019-04-14 23:14:28,Carte de Crédit,VIP,4.31,Jazz,5381.4,132,True
+711,2020-06-05 15:13:27,PayPal,Famille,1.79,Hip-Hop,1671.49,41,True
+712,2020-04-28 04:21:47,PayPal,Standard,3.94,Pop,1793.8,44,False
+713,2022-05-28 06:30:39,PayPal,Standard,2.42,Classique,5789.08,142,True
+714,2019-01-27 14:27:02,PayPal,Standard,1.64,Hip-Hop,40.77,1,False
+715,2019-10-27 14:36:51,Carte de Crédit,Standard,1.47,Rock,7052.89,173,True
+716,2019-06-12 15:54:38,Carte de Crédit,Famille,3.74,Jazz,7134.43,175,False
+717,2021-06-09 18:57:11,Carte de Crédit,Standard,2.01,Jazz,3750.67,92,True
+718,2022-01-13 19:42:39,PayPal,Eco,3.91,Jazz,6115.22,150,True
+719,2020-04-18 11:36:23,Carte de Crédit,VIP,4.6,Pop,5055.25,124,True
+720,2020-11-14 21:32:20,Espèces,Standard,3.81,Classique,7134.43,175,True
+721,2022-09-25 19:52:45,PayPal,Eco,3.05,Hip-Hop,1467.65,36,True
+722,2021-03-22 20:24:21,PayPal,Standard,3.61,Aucune,5299.86,130,True
+723,2020-08-31 23:52:58,Carte de Crédit,Standard,2.57,Pop,6441.37,158,False
+724,2020-09-25 02:45:44,Carte de Crédit,Eco,1.87,Hip-Hop,1549.19,38,True
+725,2018-08-13 12:46:14,PayPal,VIP,2.85,Pop,5136.79,126,True
+726,2022-11-22 08:41:48,PayPal,Famille,4.59,Jazz,7705.18,189,False
+727,2019-04-20 10:42:53,Carte de Crédit,VIP,1.23,Jazz,2568.39,63,False
+728,2022-10-09 02:28:05,PayPal,Famille,2.75,Classique,1875.34,46,False
+729,2022-12-15 02:19:36,PayPal,Eco,2.55,Rock,2283.02,56,False
+730,2022-12-08 23:17:20,PayPal,Famille,1.39,Aucune,7256.73,178,False
+731,2019-06-16 11:18:07,Espèces,Standard,3.92,Pop,3669.13,90,False
+732,2020-08-22 10:40:53,PayPal,Famille,1.98,Jazz,1467.65,36,True
+733,2019-06-20 13:53:14,Carte de Crédit,Standard,3.53,Jazz,3098.38,76,True
+734,2020-07-01 22:47:46,PayPal,Eco,4.18,Rock,693.06,17,True
+735,2018-07-20 08:09:41,Espèces,VIP,1.75,Hip-Hop,2446.09,60,True
+736,2018-04-23 07:11:21,Espèces,Standard,1.27,Aucune,5299.86,130,True
+737,2019-03-28 02:04:01,Carte de Crédit,Famille,4.88,Jazz,7052.89,173,True
+738,2022-06-11 04:07:56,PayPal,Standard,1.2,Pop,4199.12,103,True
+739,2019-07-29 01:13:34,Espèces,VIP,3.52,Pop,3098.38,76,False
+740,2018-08-04 20:35:46,PayPal,Standard,2.59,Hip-Hop,1100.74,27,True
+741,2021-04-24 07:17:13,PayPal,VIP,3.8,Aucune,6196.76,152,True
+742,2022-06-15 10:46:57,PayPal,Standard,4.79,Classique,5503.7,135,True
+743,2020-12-12 06:18:58,Carte de Crédit,Standard,1.18,Classique,3220.68,79,False
+744,2021-11-17 10:10:31,Carte de Crédit,Famille,3.2,Hip-Hop,3669.13,90,True
+745,2022-09-25 07:22:00,Espèces,Standard,2.26,Pop,1753.03,43,True
+746,2021-11-15 18:27:42,Espèces,Eco,1.46,Hip-Hop,3872.97,95,True
+747,2022-07-23 19:31:55,Espèces,Eco,3.48,Pop,693.06,17,True
+748,2019-10-17 19:38:06,Espèces,Standard,4.32,Pop,6115.22,150,False
+749,2020-11-03 06:16:53,Carte de Crédit,Standard,2.59,Aucune,326.15,8,True
+750,2020-12-05 15:21:56,PayPal,VIP,1.88,Pop,2853.77,70,False
+751,2018-12-09 03:22:53,Espèces,Famille,3.95,Pop,5748.31,141,True
+752,2018-06-22 13:30:18,Carte de Crédit,Eco,3.62,Hip-Hop,2242.25,55,False
+753,2021-01-09 21:45:43,PayPal,Standard,1.11,Pop,1589.96,39,True
+754,2018-02-26 15:09:42,Espèces,Eco,3.11,Classique,7256.73,178,False
+755,2021-09-27 22:24:45,Espèces,VIP,2.93,Aucune,7215.96,177,False
+756,2018-04-25 07:56:48,Carte de Crédit,Famille,2.36,Hip-Hop,6930.59,170,True
+757,2021-10-21 11:36:14,Espèces,Standard,1.58,Rock,2079.18,51,True
+758,2019-10-25 21:32:49,Carte de Crédit,VIP,1.85,Aucune,7256.73,178,False
+759,2020-10-29 23:47:55,Espèces,Famille,1.51,Jazz,1426.89,35,True
+760,2021-04-11 12:18:25,Espèces,Eco,4.9,Aucune,3465.29,85,True
+761,2018-05-11 02:26:52,Carte de Crédit,Standard,4.89,Hip-Hop,2201.48,54,True
+762,2018-06-08 01:21:33,Espèces,Eco,2.24,Aucune,6074.46,149,True
+763,2022-04-02 05:33:38,Carte de Crédit,VIP,2.67,Classique,5585.24,137,True
+764,2020-11-17 19:58:48,PayPal,Famille,4.88,Aucune,1304.58,32,True
+765,2018-05-06 13:44:13,Espèces,Famille,2.97,Jazz,693.06,17,False
+766,2021-01-10 06:32:23,Carte de Crédit,Famille,2.06,Jazz,489.22,12,False
+767,2021-06-24 05:44:11,PayPal,Standard,2.2,Aucune,3220.68,79,True
+768,2018-01-28 19:22:31,Carte de Crédit,Eco,3.49,Rock,122.3,3,True
+769,2022-12-16 23:55:54,Carte de Crédit,Eco,1.0,Hip-Hop,5462.93,134,True
+770,2019-06-07 10:39:41,Espèces,Standard,4.77,Aucune,2853.77,70,False
+771,2019-07-31 10:00:43,PayPal,Standard,3.62,Classique,2283.02,56,True
+772,2020-07-10 09:06:19,Espèces,Famille,3.2,Hip-Hop,1263.81,31,True
+773,2022-12-14 01:15:41,Carte de Crédit,VIP,1.55,Hip-Hop,3383.76,83,True
+774,2021-05-24 11:06:53,Carte de Crédit,VIP,4.22,Aucune,163.07,4,False
+775,2022-07-12 21:03:40,PayPal,VIP,1.31,Jazz,7379.04,181,True
+776,2022-08-02 08:08:56,Carte de Crédit,Famille,4.79,Classique,6196.76,152,True
+777,2022-07-10 19:42:59,Carte de Crédit,Eco,3.81,Pop,3913.74,96,False
+778,2022-03-28 18:06:11,Espèces,Standard,3.93,Jazz,652.29,16,True
+779,2021-04-07 17:16:44,PayPal,Standard,4.25,Hip-Hop,6849.05,168,False
+780,2018-08-06 03:50:33,PayPal,Famille,1.83,Classique,4892.18,120,True
+781,2019-05-18 06:43:48,Espèces,VIP,1.06,Rock,2486.86,61,False
+782,2022-06-11 02:23:19,PayPal,Eco,1.01,Hip-Hop,489.22,12,True
+783,2020-08-20 23:05:11,Carte de Crédit,VIP,1.66,Aucune,81.54,2,True
+784,2019-08-31 06:47:51,Espèces,Famille,4.88,Classique,2772.23,68,False
+785,2022-12-13 23:48:41,Espèces,VIP,3.74,Jazz,6278.3,154,True
+786,2018-01-02 22:45:29,Espèces,Standard,2.43,Rock,6033.69,148,True
+787,2022-03-10 02:25:40,PayPal,VIP,2.52,Aucune,2364.55,58,False
+788,2021-12-21 03:38:56,PayPal,Eco,2.52,Rock,2323.78,57,True
+789,2018-02-19 06:17:22,Espèces,VIP,2.75,Pop,4076.82,100,True
+790,2018-02-23 22:40:57,Carte de Crédit,Famille,1.59,Pop,163.07,4,False
+791,2022-08-14 18:31:37,Carte de Crédit,Eco,2.8,Rock,3057.61,75,True
+792,2022-09-29 19:52:48,Carte de Crédit,VIP,2.1,Hip-Hop,3872.97,95,True
+793,2019-03-31 17:15:33,PayPal,VIP,1.53,Rock,856.13,21,True
+794,2019-08-23 03:59:55,Espèces,Standard,4.98,Jazz,5462.93,134,True
+795,2022-05-15 18:20:39,Espèces,VIP,1.53,Pop,326.15,8,True
+796,2022-07-12 20:00:54,Espèces,Famille,4.94,Aucune,4402.96,108,True
+797,2018-06-10 13:28:41,PayPal,Famille,3.82,Aucune,4932.95,121,True
+798,2022-03-21 09:13:21,PayPal,Famille,4.43,Aucune,2976.08,73,True
+799,2018-02-18 00:11:56,Espèces,Eco,4.63,Pop,1630.73,40,True
+800,2021-09-05 08:59:15,Carte de Crédit,Famille,4.21,Aucune,3709.9,91,True
+801,2021-08-29 08:26:09,PayPal,VIP,1.85,Jazz,3139.15,77,True
+802,2021-11-05 01:54:16,Espèces,VIP,2.83,Classique,3506.06,86,False
+803,2019-07-12 02:28:35,PayPal,Standard,3.65,Rock,1508.42,37,True
+804,2018-02-10 22:50:40,Espèces,Famille,2.53,Aucune,3261.45,80,False
+805,2019-05-16 14:09:25,PayPal,Standard,3.9,Aucune,6400.6,157,False
+806,2020-05-06 22:17:04,Carte de Crédit,VIP,4.04,Pop,1753.03,43,True
+807,2018-06-27 00:52:46,Espèces,Eco,1.98,Rock,6889.82,169,False
+808,2022-09-17 00:46:28,Carte de Crédit,Eco,4.89,Hip-Hop,2119.94,52,True
+809,2020-04-27 15:19:23,Espèces,Standard,2.59,Rock,2853.77,70,True
+810,2018-11-12 19:54:47,Carte de Crédit,Standard,1.39,Aucune,4362.19,107,True
+811,2022-11-12 20:03:32,Espèces,VIP,2.67,Rock,1141.51,28,True
+812,2022-10-06 19:47:32,Espèces,VIP,4.13,Jazz,7460.57,183,True
+813,2018-10-07 15:39:36,Carte de Crédit,Standard,1.23,Classique,5585.24,137,True
+814,2021-10-21 09:45:24,Espèces,Famille,4.12,Aucune,2894.54,71,False
+815,2021-03-08 23:38:52,Carte de Crédit,VIP,1.21,Hip-Hop,5707.54,140,True
+816,2022-05-14 21:14:48,PayPal,VIP,4.81,Aucune,1671.49,41,True
+817,2020-05-11 10:29:17,PayPal,VIP,4.28,Rock,652.29,16,False
+818,2019-03-15 18:12:24,Espèces,Famille,3.46,Hip-Hop,2242.25,55,False
+819,2020-05-07 17:45:17,Espèces,VIP,1.27,Rock,1141.51,28,False
+820,2018-01-25 22:01:58,Carte de Crédit,VIP,3.69,Jazz,2690.7,66,False
+821,2020-09-21 12:01:19,PayPal,VIP,3.03,Pop,5340.63,131,True
+822,2019-09-27 14:11:21,Carte de Crédit,Eco,4.61,Rock,4484.5,110,True
+823,2020-05-05 04:52:44,PayPal,Eco,4.67,Rock,5829.85,143,True
+824,2018-05-15 15:51:04,PayPal,Standard,4.88,Rock,6767.51,166,True
+825,2018-10-16 13:26:44,Carte de Crédit,VIP,4.11,Classique,6482.14,159,True
+826,2018-11-30 09:13:16,Espèces,Famille,3.48,Classique,5422.16,133,True
+827,2022-08-30 03:54:39,Carte de Crédit,Standard,4.61,Hip-Hop,285.38,7,False
+828,2020-11-15 01:30:26,Espèces,Eco,3.74,Jazz,1834.57,45,True
+829,2020-07-29 23:00:09,Espèces,Famille,3.27,Aucune,5096.02,125,True
+830,2018-04-21 18:55:34,Carte de Crédit,VIP,1.13,Classique,7664.41,188,True
+831,2020-06-22 19:19:56,PayPal,Famille,1.89,Classique,285.38,7,True
+832,2020-04-11 07:57:35,PayPal,Famille,2.44,Pop,6604.44,162,False
+833,2018-02-05 08:59:03,Espèces,Standard,1.57,Classique,5096.02,125,True
+834,2020-03-15 23:21:30,Espèces,VIP,2.71,Rock,5626.01,138,True
+835,2022-09-23 16:43:41,PayPal,Standard,2.28,Hip-Hop,4036.05,99,True
+836,2020-10-05 16:32:32,Espèces,Eco,3.02,Pop,6400.6,157,True
+837,2020-12-30 14:35:11,PayPal,Eco,3.3,Hip-Hop,5911.38,145,True
+838,2018-06-01 00:09:27,Espèces,VIP,4.24,Pop,1589.96,39,True
+839,2020-10-30 03:25:42,PayPal,Eco,3.01,Hip-Hop,6726.75,165,True
+840,2019-11-05 20:07:29,PayPal,Standard,2.45,Pop,1467.65,36,True
+841,2018-12-30 14:47:04,Espèces,Eco,2.36,Hip-Hop,5218.32,128,True
+842,2019-05-19 10:15:10,PayPal,Standard,1.28,Pop,5462.93,134,True
+843,2020-12-15 17:28:37,Carte de Crédit,Eco,3.64,Jazz,4566.03,112,False
+844,2022-01-28 18:00:59,Carte de Crédit,Eco,3.41,Aucune,2364.55,58,False
+845,2021-06-16 18:19:45,Espèces,Standard,4.06,Jazz,4606.8,113,True
+846,2020-02-24 16:20:34,Carte de Crédit,VIP,3.67,Classique,529.99,13,True
+847,2020-03-12 10:04:08,Espèces,VIP,3.17,Hip-Hop,2242.25,55,False
+848,2019-02-12 20:50:16,Carte de Crédit,VIP,2.17,Rock,5177.56,127,True
+849,2022-05-23 17:55:00,Carte de Crédit,Eco,3.73,Jazz,4647.57,114,True
+850,2022-01-05 16:08:15,Espèces,Standard,4.23,Classique,1875.34,46,False
+851,2018-11-23 03:44:25,PayPal,Famille,4.9,Hip-Hop,4036.05,99,True
+852,2020-12-06 16:01:19,Espèces,Famille,1.12,Jazz,6522.9,160,True
+853,2022-04-04 14:16:16,Carte de Crédit,Standard,4.69,Jazz,81.54,2,True
+854,2021-11-03 01:30:04,Espèces,Eco,3.78,Pop,8112.86,199,True
+855,2021-04-16 04:27:16,Espèces,Standard,1.26,Jazz,1875.34,46,True
+856,2018-09-07 07:13:46,PayPal,Famille,1.64,Classique,7338.27,180,True
+857,2020-06-19 11:32:44,Espèces,Standard,3.48,Aucune,5666.77,139,False
+858,2020-11-11 23:45:12,Espèces,Eco,2.44,Hip-Hop,5585.24,137,False
+859,2021-10-20 05:03:06,Carte de Crédit,VIP,1.54,Jazz,2649.93,65,False
+860,2019-09-24 10:05:08,PayPal,Famille,4.22,Classique,5299.86,130,True
+861,2020-12-03 07:47:37,Espèces,Standard,1.3,Hip-Hop,7419.8,182,True
+862,2022-10-25 12:48:27,Carte de Crédit,Eco,3.22,Jazz,5870.61,144,False
+863,2021-12-17 10:05:53,Espèces,Famille,3.15,Classique,6115.22,150,True
+864,2021-04-11 10:51:04,Carte de Crédit,Eco,3.37,Classique,8031.33,197,False
+865,2018-11-08 10:36:20,Espèces,Standard,3.17,Aucune,6278.3,154,False
+866,2022-07-22 13:05:58,Espèces,VIP,2.02,Aucune,7909.02,194,True
+867,2018-12-19 21:58:05,PayPal,Famille,4.6,Classique,7052.89,173,True
+868,2022-05-27 10:36:10,Carte de Crédit,VIP,2.03,Jazz,4158.35,102,False
+869,2022-08-02 07:22:29,Carte de Crédit,Eco,2.8,Rock,1753.03,43,True
+870,2021-12-30 14:08:53,PayPal,Famille,3.09,Hip-Hop,285.38,7,False
+871,2019-12-19 03:38:35,Espèces,Eco,1.42,Classique,1630.73,40,True
+872,2019-02-20 20:22:57,PayPal,Standard,4.81,Pop,7215.96,177,False
+873,2022-03-16 09:51:23,PayPal,VIP,4.51,Rock,7868.25,193,True
+874,2019-12-15 17:17:31,PayPal,VIP,1.03,Jazz,7582.88,186,True
+875,2019-05-28 21:00:30,Espèces,Famille,4.15,Jazz,6115.22,150,True
+876,2020-03-23 13:32:56,PayPal,VIP,1.91,Pop,5340.63,131,True
+877,2019-02-27 11:31:38,Espèces,Standard,3.73,Pop,4158.35,102,False
+878,2021-09-22 09:54:52,Espèces,Famille,1.57,Classique,2813.0,69,True
+879,2018-12-08 14:04:04,PayPal,Standard,1.69,Pop,163.07,4,True
+880,2019-07-15 08:37:33,Carte de Crédit,Standard,1.54,Rock,7460.57,183,False
+881,2021-12-17 08:09:57,Espèces,VIP,3.59,Hip-Hop,3709.9,91,False
+882,2021-04-09 19:19:15,PayPal,Famille,2.45,Aucune,5177.56,127,True
+883,2019-07-03 04:36:37,PayPal,VIP,2.8,Pop,5462.93,134,False
+884,2020-06-17 11:51:57,PayPal,Eco,1.54,Hip-Hop,1916.1,47,True
+885,2019-06-20 11:02:51,PayPal,Standard,3.36,Rock,2649.93,65,True
+886,2018-11-12 17:11:37,Carte de Crédit,Standard,2.13,Pop,4525.27,111,True
+887,2022-03-07 17:09:42,Espèces,Standard,2.73,Pop,7215.96,177,False
+888,2022-01-07 04:44:10,Carte de Crédit,Eco,1.14,Rock,2609.16,64,True
+889,2021-07-22 08:19:50,Espèces,Standard,4.55,Classique,6685.98,164,True
+890,2018-01-14 06:15:19,Espèces,VIP,1.27,Jazz,3302.22,81,True
+891,2022-03-23 19:50:13,Carte de Crédit,Eco,4.44,Jazz,1997.64,49,True
+892,2018-05-21 18:24:56,Espèces,Eco,2.31,Pop,4443.73,109,True
+893,2022-12-17 00:42:11,Espèces,Standard,4.72,Jazz,6849.05,168,True
+894,2020-12-16 16:01:22,Espèces,Eco,2.78,Rock,1467.65,36,True
+895,2019-02-24 11:53:23,PayPal,VIP,3.11,Classique,4402.96,108,False
+896,2022-04-04 04:00:48,Carte de Crédit,Standard,3.05,Jazz,2323.78,57,True
+897,2020-03-13 07:00:50,Carte de Crédit,Standard,2.49,Pop,1793.8,44,True
+898,2021-11-26 01:44:17,Carte de Crédit,Standard,4.75,Aucune,6971.35,171,True
+899,2018-07-14 21:35:16,Espèces,Eco,3.5,Hip-Hop,7623.65,187,True
+900,2018-09-26 04:40:40,Espèces,VIP,5.0,Classique,3669.13,90,True
+901,2019-09-10 12:44:06,PayPal,Famille,3.75,Hip-Hop,4525.27,111,True
+902,2022-06-02 04:35:32,PayPal,Famille,1.03,Pop,1386.12,34,False
+903,2021-01-21 21:45:55,Espèces,Eco,3.75,Pop,7501.34,184,True
+904,2022-02-17 20:59:44,Espèces,Famille,3.3,Rock,2976.08,73,False
+905,2021-07-12 18:12:55,Espèces,Famille,4.78,Classique,937.67,23,False
+906,2022-03-26 18:49:27,PayPal,Standard,1.37,Hip-Hop,529.99,13,False
+907,2018-07-02 13:04:17,PayPal,VIP,3.91,Rock,2976.08,73,True
+908,2021-12-26 05:28:26,Espèces,VIP,3.74,Pop,3709.9,91,False
+909,2019-09-01 16:44:37,PayPal,VIP,1.98,Hip-Hop,1059.97,26,True
+910,2020-12-25 11:19:27,PayPal,Eco,1.05,Classique,7664.41,188,True
+911,2022-08-21 20:17:24,Carte de Crédit,Standard,1.02,Hip-Hop,3179.92,78,True
+912,2018-08-19 15:52:10,PayPal,Standard,3.63,Aucune,7745.95,190,False
+913,2020-07-13 13:40:13,Espèces,Eco,4.21,Classique,5055.25,124,True
+914,2018-02-14 05:57:42,PayPal,VIP,2.11,Hip-Hop,3587.6,88,False
+915,2018-07-03 12:48:24,Espèces,Standard,2.22,Pop,6196.76,152,False
+916,2020-04-28 23:15:22,Espèces,Eco,1.11,Hip-Hop,5218.32,128,False
+917,2021-05-27 06:17:34,Espèces,VIP,4.26,Hip-Hop,7460.57,183,True
+918,2020-02-09 18:18:17,Espèces,VIP,1.13,Rock,203.84,5,True
+919,2021-09-06 23:40:51,Carte de Crédit,Famille,4.37,Classique,6359.83,156,False
+920,2019-07-24 01:15:18,Espèces,Famille,4.6,Classique,5136.79,126,True
+921,2022-08-31 17:30:11,PayPal,Standard,4.81,Pop,6400.6,157,False
+922,2019-07-09 18:30:45,Espèces,Standard,3.43,Classique,4076.82,100,True
+923,2018-02-26 03:47:22,Carte de Crédit,Famille,3.98,Aucune,4688.34,115,True
+924,2022-02-01 22:03:03,Espèces,VIP,4.69,Hip-Hop,6849.05,168,True
+925,2018-08-15 14:29:39,PayPal,Eco,3.91,Classique,3179.92,78,False
+926,2018-06-01 20:29:40,PayPal,Eco,1.53,Pop,1182.28,29,True
+927,2019-12-06 19:06:46,Espèces,Famille,3.78,Rock,3750.67,92,True
+928,2020-07-06 03:56:34,PayPal,Famille,1.48,Rock,2568.39,63,True
+929,2018-12-29 13:13:20,Carte de Crédit,Standard,2.61,Aucune,6115.22,150,False
+930,2019-11-28 06:50:18,Carte de Crédit,VIP,4.9,Rock,7623.65,187,True
+931,2018-05-22 07:46:34,Espèces,Eco,1.01,Aucune,3628.37,89,False
+932,2018-04-04 12:43:47,Espèces,Eco,3.82,Rock,81.54,2,True
+933,2022-09-06 05:59:30,Carte de Crédit,Eco,2.29,Pop,1834.57,45,True
+934,2019-09-11 18:45:47,Espèces,Standard,4.05,Aucune,3709.9,91,True
+935,2018-03-24 04:57:34,PayPal,Famille,4.85,Jazz,3261.45,80,True
+936,2020-07-19 05:57:48,Carte de Crédit,Standard,3.83,Jazz,4566.03,112,True
+937,2020-04-18 06:14:08,Carte de Crédit,Famille,1.57,Classique,2242.25,55,True
+938,2022-05-31 20:06:16,Carte de Crédit,Eco,2.76,Rock,6033.69,148,False
+939,2020-11-07 14:04:39,Espèces,Standard,2.24,Classique,815.36,20,True
+940,2019-05-01 03:56:13,Espèces,Standard,2.61,Pop,3302.22,81,True
+941,2018-05-28 14:12:02,PayPal,Eco,2.99,Aucune,3750.67,92,False
+942,2022-01-03 04:27:46,Espèces,Eco,2.0,Hip-Hop,5422.16,133,True
+943,2022-11-14 23:35:24,PayPal,VIP,3.84,Jazz,896.9,22,True
+944,2020-01-13 02:49:40,Carte de Crédit,VIP,1.26,Rock,5299.86,130,True
+945,2020-06-02 14:22:52,Espèces,Standard,4.08,Aucune,3546.83,87,True
+946,2022-01-27 23:59:28,Espèces,Famille,4.71,Hip-Hop,3098.38,76,True
+947,2022-11-26 21:44:49,Espèces,Standard,2.03,Pop,5992.92,147,True
+948,2021-03-05 07:09:22,PayPal,Famille,1.91,Pop,5585.24,137,True
+949,2019-07-09 08:42:14,Espèces,Famille,1.23,Classique,0.0,0,True
+950,2020-04-20 12:58:22,Espèces,VIP,1.79,Jazz,3669.13,90,False
+951,2019-01-16 04:35:16,Carte de Crédit,Standard,3.56,Aucune,2201.48,54,False
+952,2019-11-13 05:50:33,PayPal,VIP,3.64,Hip-Hop,7134.43,175,True
+953,2018-11-30 15:39:20,Carte de Crédit,Eco,3.11,Pop,5299.86,130,True
+954,2022-10-04 05:49:01,PayPal,VIP,4.55,Hip-Hop,6278.3,154,True
+955,2018-02-28 16:07:40,Carte de Crédit,Eco,1.42,Aucune,1223.04,30,False
+956,2022-05-31 09:49:17,Espèces,Famille,1.31,Rock,489.22,12,True
+957,2019-04-23 07:06:55,Espèces,Famille,3.76,Jazz,2568.39,63,True
+958,2021-02-19 16:40:20,Espèces,Standard,2.84,Classique,6726.75,165,True
+959,2021-08-30 18:55:35,PayPal,Standard,4.38,Pop,3913.74,96,True
+960,2022-10-10 11:05:19,Carte de Crédit,Standard,2.59,Pop,1182.28,29,False
+961,2019-03-18 03:17:19,PayPal,VIP,1.81,Hip-Hop,815.36,20,True
+962,2018-08-10 23:20:56,PayPal,Famille,4.07,Pop,3791.44,93,True
+963,2021-07-19 12:52:38,Carte de Crédit,Standard,4.69,Rock,7745.95,190,True
+964,2022-05-11 12:07:10,PayPal,Famille,1.7,Hip-Hop,4362.19,107,True
+965,2021-09-03 11:47:15,Espèces,VIP,4.73,Hip-Hop,3995.28,98,True
+966,2021-08-03 02:31:01,PayPal,Famille,1.47,Classique,4647.57,114,True
+967,2020-06-03 16:05:31,Carte de Crédit,Famille,4.02,Jazz,6319.06,155,True
+968,2019-12-24 09:16:13,Carte de Crédit,Standard,4.53,Rock,6849.05,168,False
+969,2022-07-27 00:55:38,PayPal,Famille,4.73,Pop,1059.97,26,True
+970,2019-06-01 02:36:38,Carte de Crédit,Standard,4.53,Jazz,407.68,10,True
+971,2022-05-04 21:08:58,Carte de Crédit,Standard,2.7,Pop,937.67,23,True
+972,2021-04-11 13:34:59,PayPal,VIP,2.9,Classique,7175.2,176,False
+973,2022-08-12 05:18:18,PayPal,VIP,1.05,Hip-Hop,1019.2,25,False
+974,2018-07-16 20:00:16,Carte de Crédit,Standard,2.59,Hip-Hop,3139.15,77,False
+975,2022-03-31 10:27:13,Espèces,Standard,3.1,Classique,4647.57,114,True
+976,2020-09-01 18:29:46,Carte de Crédit,Standard,4.03,Rock,6604.44,162,False
+977,2020-06-20 07:32:06,Carte de Crédit,Eco,2.37,Classique,2813.0,69,True
+978,2018-02-18 09:44:54,Carte de Crédit,Standard,1.42,Pop,2813.0,69,False
+979,2019-11-16 09:51:18,Espèces,Standard,4.06,Pop,6033.69,148,False
+980,2018-11-07 22:45:55,Espèces,Famille,1.51,Classique,4647.57,114,False
+981,2020-03-20 09:58:56,Espèces,Eco,1.15,Jazz,7664.41,188,False
+982,2018-09-30 02:52:09,Espèces,Standard,4.08,Rock,122.3,3,True
+983,2019-02-12 00:51:12,PayPal,Eco,2.29,Aucune,652.29,16,True
+984,2021-03-19 21:00:48,PayPal,Famille,3.66,Rock,896.9,22,True
+985,2021-04-11 12:29:46,PayPal,Standard,2.01,Pop,5992.92,147,True
+986,2018-09-21 15:23:29,Espèces,Standard,2.79,Aucune,2976.08,73,True
+987,2021-11-21 03:58:00,Espèces,Standard,3.41,Classique,6767.51,166,False
+988,2021-10-26 23:19:38,PayPal,Standard,2.62,Classique,6767.51,166,False
+989,2020-05-12 00:21:53,Espèces,Famille,3.73,Pop,4158.35,102,True
+990,2019-09-12 19:38:00,Carte de Crédit,VIP,4.35,Hip-Hop,407.68,10,True
+991,2019-03-06 11:32:17,Espèces,VIP,3.85,Rock,4973.71,122,False
+992,2018-10-02 23:35:00,PayPal,Standard,3.62,Hip-Hop,6359.83,156,False
+993,2021-02-19 05:00:36,Espèces,VIP,4.84,Classique,3669.13,90,False
+994,2020-12-12 12:27:20,Carte de Crédit,Famille,4.16,Pop,1223.04,30,False
+995,2020-09-20 09:34:30,PayPal,Famille,3.54,Hip-Hop,7012.12,172,False
+996,2018-02-26 03:48:18,Espèces,VIP,3.48,Classique,7175.2,176,False
+997,2022-07-22 19:33:24,PayPal,Standard,3.82,Pop,1059.97,26,True
+998,2018-05-25 13:57:23,Espèces,Eco,1.51,Rock,6563.67,161,True
+999,2020-09-03 08:01:40,Carte de Crédit,Famille,3.29,Classique,3098.38,76,True
+1000,2018-02-27 11:42:02,Espèces,Eco,2.75,Pop,3872.97,95,False
+1001,2018-07-31 20:19:22,Carte de Crédit,VIP,2.03,Hip-Hop,2690.7,66,True
+1002,2021-07-09 13:30:36,Espèces,VIP,3.23,Aucune,2405.32,59,True
+1003,2018-04-14 08:44:15,Carte de Crédit,Famille,4.85,Rock,7745.95,190,False
+1004,2021-01-23 04:21:29,Espèces,VIP,1.56,Pop,7786.72,191,True
+1005,2018-06-25 05:28:22,Carte de Crédit,Eco,1.98,Aucune,6237.53,153,True
+1006,2021-12-06 18:02:25,Espèces,Eco,3.34,Hip-Hop,163.07,4,True
+1007,2018-09-22 00:58:35,PayPal,Famille,3.97,Pop,1956.87,48,True
+1008,2019-11-25 12:12:24,PayPal,VIP,2.44,Hip-Hop,4321.42,106,True
+1009,2022-06-08 12:42:12,Carte de Crédit,Eco,1.54,Jazz,7664.41,188,True
+1010,2020-04-12 22:00:23,Espèces,Famille,3.32,Aucune,6522.9,160,True
+1011,2022-02-04 15:36:55,PayPal,Famille,1.37,Classique,3832.21,94,False
+1012,2020-03-06 08:42:42,PayPal,Famille,1.4,Rock,2813.0,69,True
+1013,2022-10-01 22:00:49,Carte de Crédit,VIP,2.71,Aucune,3016.84,74,False
+1014,2022-06-10 12:37:31,Carte de Crédit,Famille,3.99,Classique,5666.77,139,True
+1015,2021-03-29 09:53:10,Espèces,Eco,4.96,Pop,7501.34,184,False
+1016,2018-10-21 11:57:20,PayPal,Famille,4.44,Aucune,2323.78,57,False
+1017,2018-05-23 21:41:44,PayPal,Famille,4.18,Pop,366.91,9,True
+1018,2020-04-14 11:07:55,Espèces,VIP,4.33,Rock,1589.96,39,True
+1019,2019-06-30 20:40:45,Espèces,Eco,3.78,Rock,5585.24,137,False
+1020,2018-08-20 14:07:51,PayPal,VIP,3.46,Classique,4321.42,106,False
+1021,2022-02-17 02:37:45,PayPal,VIP,3.12,Classique,7012.12,172,True
+1022,2022-06-28 01:42:33,Espèces,Standard,4.71,Aucune,1141.51,28,True
+1023,2018-11-06 05:25:32,Espèces,Standard,2.76,Hip-Hop,6726.75,165,False
+1024,2021-06-28 17:06:07,Carte de Crédit,Standard,4.43,Aucune,6645.21,163,False
+1025,2020-04-14 17:48:44,Carte de Crédit,Famille,4.93,Aucune,4036.05,99,False
+1026,2021-08-23 11:13:25,Carte de Crédit,Eco,4.83,Pop,2568.39,63,False
+1027,2018-09-10 19:20:29,Espèces,VIP,3.67,Rock,7501.34,184,True
+1028,2018-05-17 11:27:39,PayPal,Eco,3.38,Classique,1712.26,42,True
+1029,2021-01-15 01:25:33,Carte de Crédit,VIP,4.15,Pop,5585.24,137,False
+1030,2019-02-12 00:30:40,PayPal,Famille,2.99,Rock,4688.34,115,False
+1031,2019-01-25 12:58:28,PayPal,Standard,2.75,Hip-Hop,611.52,15,True
+1032,2018-05-22 08:17:19,Carte de Crédit,Famille,4.02,Rock,1875.34,46,False
+1033,2018-03-26 06:54:45,PayPal,VIP,1.3,Classique,7705.18,189,True
+1034,2021-01-23 10:57:39,Carte de Crédit,Standard,4.82,Jazz,2609.16,64,False
+1035,2019-08-08 09:17:15,PayPal,Famille,2.04,Aucune,2283.02,56,True
+1036,2018-10-15 22:49:10,Carte de Crédit,Famille,1.38,Rock,4402.96,108,True
+1037,2020-11-17 12:54:41,Carte de Crédit,Standard,1.38,Jazz,6074.46,149,True
+1038,2019-01-04 23:32:18,PayPal,VIP,2.78,Jazz,978.44,24,False
+1039,2019-08-27 14:11:37,PayPal,Standard,2.28,Pop,3709.9,91,True
+1040,2020-12-04 07:23:16,Carte de Crédit,VIP,1.17,Aucune,3383.76,83,True
+1041,2022-05-04 02:42:59,Espèces,Standard,2.64,Rock,7419.8,182,False
+1042,2018-06-26 00:44:01,PayPal,Eco,4.77,Rock,7542.11,185,True
+1043,2022-05-01 00:22:15,PayPal,Standard,4.64,Rock,1712.26,42,False
+1044,2020-12-05 08:42:37,Carte de Crédit,Standard,1.4,Pop,3628.37,89,True
+1045,2019-08-08 17:22:47,Carte de Crédit,Standard,1.65,Aucune,6319.06,155,True
+1046,2020-03-10 18:32:35,Carte de Crédit,Famille,2.71,Hip-Hop,1589.96,39,False
+1047,2019-06-30 04:42:29,Espèces,VIP,1.93,Pop,4443.73,109,True
+1048,2020-01-06 05:47:31,PayPal,Standard,2.66,Hip-Hop,937.67,23,False
+1049,2019-02-20 00:00:16,Espèces,Famille,3.59,Rock,2690.7,66,True
+1050,2018-05-31 06:05:24,PayPal,Famille,3.07,Aucune,7582.88,186,False
+1051,2021-03-01 10:24:01,PayPal,Eco,3.2,Aucune,6767.51,166,True
+1052,2022-11-10 16:15:04,Carte de Crédit,Famille,3.65,Hip-Hop,2323.78,57,False
+1053,2018-05-06 03:34:59,Espèces,Eco,2.75,Jazz,1508.42,37,True
+1054,2018-03-04 07:47:12,Carte de Crédit,Eco,4.82,Aucune,2609.16,64,True
+1055,2019-03-20 23:06:26,Espèces,Standard,3.71,Pop,3709.9,91,False
+1056,2018-11-01 03:53:49,Espèces,Eco,2.55,Aucune,5626.01,138,False
+1057,2022-12-10 06:44:04,Carte de Crédit,Famille,2.83,Aucune,4851.41,119,True
+1058,2021-04-14 13:04:43,Carte de Crédit,VIP,1.16,Aucune,4932.95,121,True
+1059,2021-11-23 19:06:47,Carte de Crédit,Famille,3.96,Hip-Hop,122.3,3,True
+1060,2019-12-18 21:24:09,Carte de Crédit,Eco,3.19,Aucune,5340.63,131,True
+1061,2019-02-22 05:53:46,PayPal,Standard,4.51,Hip-Hop,5707.54,140,False
+1062,2020-08-18 16:46:03,PayPal,Standard,4.11,Jazz,7623.65,187,True
+1063,2020-03-04 06:08:43,Carte de Crédit,Eco,3.43,Aucune,1834.57,45,True
+1064,2022-04-09 12:39:55,PayPal,Standard,4.29,Pop,2323.78,57,True
+1065,2021-10-19 10:22:33,Espèces,Eco,4.05,Aucune,1793.8,44,True
+1066,2019-12-31 12:05:19,Espèces,Eco,1.31,Rock,611.52,15,True
+1067,2019-08-15 08:25:58,Carte de Crédit,Famille,2.59,Pop,7012.12,172,True
+1068,2020-06-16 21:20:00,Espèces,Eco,4.09,Rock,3628.37,89,False
+1069,2019-10-03 04:59:02,Espèces,Famille,4.14,Aucune,3261.45,80,False
+1070,2021-11-22 03:58:30,Espèces,Eco,4.52,Classique,7909.02,194,True
+1071,2019-02-03 02:53:04,Carte de Crédit,Famille,4.22,Pop,1712.26,42,True
+1072,2019-09-28 09:44:08,Espèces,Eco,1.24,Aucune,3832.21,94,True
+1073,2018-04-06 05:10:48,Carte de Crédit,Famille,2.19,Hip-Hop,3465.29,85,True
+1074,2019-11-17 00:37:47,PayPal,VIP,4.07,Hip-Hop,5870.61,144,False
+1075,2018-01-06 07:04:54,Espèces,Standard,3.94,Rock,5422.16,133,False
+1076,2018-10-03 08:34:54,Carte de Crédit,Eco,2.96,Pop,7745.95,190,False
+1077,2020-06-30 19:23:04,Carte de Crédit,Famille,1.93,Hip-Hop,3954.51,97,True
+1078,2018-12-04 09:17:06,Espèces,Famille,2.94,Hip-Hop,3913.74,96,False
+1079,2020-04-20 06:49:56,Carte de Crédit,Standard,2.64,Pop,8031.33,197,True
+1080,2018-08-30 02:42:19,PayPal,Standard,4.74,Hip-Hop,7990.56,196,True
+1081,2018-02-18 04:32:23,Carte de Crédit,Standard,3.33,Pop,570.75,14,True
+1082,2020-08-08 00:44:39,Carte de Crédit,VIP,2.17,Classique,1549.19,38,False
+1083,2018-03-28 16:36:39,PayPal,Eco,2.99,Rock,7542.11,185,False
+1084,2022-10-14 15:53:04,Espèces,VIP,4.84,Classique,4525.27,111,False
+1085,2018-09-15 01:19:55,Espèces,Standard,4.4,Rock,1467.65,36,True
+1086,2021-01-06 09:04:52,Espèces,Eco,2.3,Aucune,2201.48,54,False
+1087,2022-08-16 21:41:04,Espèces,Eco,3.8,Hip-Hop,5626.01,138,True
+1088,2020-10-04 11:10:58,PayPal,VIP,4.36,Hip-Hop,203.84,5,True
+1089,2020-04-29 22:44:57,Carte de Crédit,VIP,2.64,Jazz,5503.7,135,True
+1090,2021-04-15 18:05:33,PayPal,Standard,3.82,Jazz,5259.09,129,False
+1091,2018-11-04 13:14:34,Espèces,Standard,1.11,Hip-Hop,611.52,15,True
+1092,2022-02-08 01:06:50,Carte de Crédit,Eco,1.53,Pop,7582.88,186,True
+1093,2020-07-07 07:09:50,Espèces,VIP,1.67,Pop,5055.25,124,True
+1094,2021-09-05 21:54:20,PayPal,Standard,2.14,Pop,3098.38,76,True
+1095,2018-07-31 05:17:35,Carte de Crédit,Standard,3.73,Pop,1793.8,44,True
+1096,2018-09-02 01:25:04,Carte de Crédit,Eco,1.84,Hip-Hop,5055.25,124,True
+1097,2022-01-07 18:46:27,PayPal,VIP,1.26,Jazz,4769.87,117,True
+1098,2020-06-15 20:29:36,PayPal,Famille,1.35,Hip-Hop,7460.57,183,True
+1099,2018-12-05 09:10:37,Carte de Crédit,Standard,4.93,Hip-Hop,448.45,11,True
+1100,2018-10-16 10:33:56,PayPal,Eco,2.01,Aucune,7501.34,184,True
+1101,2020-03-11 10:20:40,Espèces,VIP,3.24,Aucune,1223.04,30,False
+1102,2021-06-14 10:33:15,Espèces,Eco,2.32,Hip-Hop,4239.89,104,True
+1103,2022-02-25 04:04:32,Carte de Crédit,Famille,1.8,Aucune,5503.7,135,True
+1104,2019-01-19 08:15:43,Espèces,Eco,1.31,Rock,3913.74,96,True
+1105,2022-09-18 06:15:45,PayPal,Standard,3.9,Rock,2527.63,62,True
+1106,2022-07-13 21:41:06,PayPal,Eco,4.11,Rock,1712.26,42,True
+1107,2019-06-30 04:40:26,Espèces,VIP,2.83,Pop,3424.53,84,True
+1108,2021-04-11 14:57:31,PayPal,Standard,1.24,Pop,3179.92,78,False
+1109,2022-12-10 21:37:39,Espèces,Eco,2.92,Rock,6930.59,170,False
+1110,2019-05-12 01:11:50,Carte de Crédit,Standard,2.64,Aucune,2813.0,69,True
+1111,2018-04-25 11:26:57,PayPal,Eco,3.28,Aucune,4525.27,111,False
+1112,2020-05-18 17:56:24,Carte de Crédit,Famille,1.48,Hip-Hop,2242.25,55,True
+1113,2018-05-11 09:01:00,PayPal,Eco,1.63,Pop,7705.18,189,True
+1114,2020-12-31 21:31:05,PayPal,Eco,1.41,Pop,1141.51,28,True
+1115,2020-07-09 15:27:20,PayPal,VIP,3.54,Pop,6074.46,149,True
+1116,2018-04-18 07:35:40,Espèces,Standard,4.17,Rock,2242.25,55,True
+1117,2018-07-08 03:02:37,Carte de Crédit,Eco,3.42,Aucune,1997.64,49,True
+1118,2020-12-14 09:20:51,Carte de Crédit,Standard,4.83,Rock,5462.93,134,False
+1119,2020-10-14 08:22:35,PayPal,Standard,4.38,Hip-Hop,5055.25,124,False
+1120,2019-05-15 20:32:01,Espèces,Famille,1.29,Hip-Hop,3628.37,89,True
+1121,2018-11-15 15:50:24,PayPal,Famille,3.94,Aucune,6482.14,159,False
+1122,2020-11-29 13:39:09,Carte de Crédit,Eco,3.03,Hip-Hop,1467.65,36,True
+1123,2018-05-22 13:08:02,Carte de Crédit,Standard,1.37,Rock,1304.58,32,False
+1124,2018-01-11 04:20:53,PayPal,Standard,1.51,Pop,163.07,4,False
+1125,2019-06-22 10:58:52,Carte de Crédit,VIP,1.17,Hip-Hop,4402.96,108,False
+1126,2022-09-10 14:58:42,PayPal,Eco,3.22,Pop,6849.05,168,False
+1127,2018-05-17 03:13:19,Carte de Crédit,Eco,4.47,Jazz,4525.27,111,True
+1128,2018-08-27 19:36:05,PayPal,Standard,2.51,Aucune,2201.48,54,True
+1129,2019-05-31 12:11:16,PayPal,Famille,2.63,Pop,652.29,16,True
+1130,2019-06-20 22:11:34,Espèces,VIP,4.97,Pop,1467.65,36,False
+1131,2022-11-30 18:35:33,Carte de Crédit,Famille,4.5,Hip-Hop,2976.08,73,True
+1132,2019-06-09 03:43:05,Espèces,Eco,4.83,Classique,856.13,21,True
+1133,2018-10-07 10:22:00,Carte de Crédit,VIP,4.31,Rock,570.75,14,True
+1134,2021-01-04 02:11:02,Espèces,Famille,4.33,Jazz,5096.02,125,False
+1135,2022-04-07 07:30:22,PayPal,Eco,4.59,Classique,1671.49,41,True
+1136,2022-06-21 02:03:17,PayPal,Standard,4.53,Pop,5911.38,145,True
+1137,2021-12-07 22:13:15,Carte de Crédit,VIP,1.14,Pop,4729.11,116,True
+1138,2018-11-14 20:33:57,PayPal,VIP,2.86,Jazz,7093.66,174,False
+1139,2019-03-06 01:55:43,Espèces,VIP,4.9,Pop,1712.26,42,True
+1140,2021-12-14 06:50:29,Carte de Crédit,Famille,2.28,Aucune,1426.89,35,False
+1141,2020-12-08 21:09:36,Espèces,Standard,2.64,Rock,978.44,24,True
+1142,2018-03-27 10:04:32,PayPal,Standard,4.41,Jazz,1386.12,34,True
+1143,2018-01-07 16:40:29,Carte de Crédit,Eco,4.38,Rock,3913.74,96,True
+1144,2020-11-01 10:30:44,Carte de Crédit,VIP,3.3,Classique,8031.33,197,True
+1145,2020-02-12 15:30:15,PayPal,Famille,3.62,Pop,6889.82,169,True
+1146,2018-08-22 21:13:40,PayPal,Standard,2.65,Jazz,7909.02,194,False
+1147,2019-10-01 07:18:53,PayPal,VIP,1.92,Pop,4566.03,112,True
+1148,2019-04-19 04:03:12,Espèces,VIP,4.98,Classique,570.75,14,True
+1149,2020-10-11 22:49:49,Carte de Crédit,Eco,4.67,Pop,611.52,15,True
+1150,2020-04-22 20:23:43,Carte de Crédit,VIP,2.13,Rock,529.99,13,True
+1151,2022-09-20 15:44:12,PayPal,Famille,2.49,Rock,4606.8,113,True
+1152,2019-12-29 20:04:17,PayPal,Eco,3.85,Aucune,4117.58,101,True
+1153,2020-01-31 12:30:13,Espèces,Standard,2.76,Aucune,7134.43,175,False
+1154,2021-09-08 00:39:18,Carte de Crédit,VIP,4.77,Aucune,611.52,15,True
+1155,2022-07-11 18:37:04,Carte de Crédit,VIP,2.65,Aucune,4973.71,122,False
+1156,2020-09-23 17:52:22,Espèces,VIP,1.15,Aucune,3628.37,89,False
+1157,2021-02-25 18:05:31,Espèces,VIP,2.91,Jazz,4443.73,109,True
+1158,2018-02-18 22:25:03,PayPal,VIP,3.97,Jazz,7582.88,186,True
+1159,2022-02-20 14:53:55,Espèces,Standard,1.06,Jazz,5096.02,125,True
+1160,2019-08-29 05:37:10,Espèces,Famille,1.81,Classique,7990.56,196,False
+1161,2020-06-14 19:38:31,PayPal,Standard,4.93,Hip-Hop,2323.78,57,True
+1162,2021-07-31 04:07:25,PayPal,Famille,2.55,Rock,5666.77,139,True
+1163,2022-02-14 19:34:03,Espèces,Eco,2.38,Classique,7664.41,188,False
+1164,2022-12-19 06:45:49,Espèces,VIP,1.17,Hip-Hop,1223.04,30,True
+1165,2018-01-14 11:43:37,Espèces,Standard,4.08,Aucune,3506.06,86,True
+1166,2020-12-06 04:15:30,PayPal,Eco,4.69,Classique,6685.98,164,False
+1167,2018-06-24 14:19:55,Espèces,Eco,1.72,Hip-Hop,4076.82,100,True
+1168,2020-09-29 06:31:43,Espèces,Eco,2.62,Rock,5544.47,136,True
+1169,2019-09-06 19:31:35,PayPal,Standard,4.09,Hip-Hop,7786.72,191,False
+1170,2021-11-08 11:01:10,PayPal,Standard,3.58,Aucune,3220.68,79,True
+1171,2019-05-15 03:29:48,Carte de Crédit,Famille,4.6,Hip-Hop,3954.51,97,False
+1172,2022-11-19 06:40:42,PayPal,Standard,3.28,Jazz,5503.7,135,True
+1173,2019-05-27 03:45:27,Espèces,Eco,4.67,Aucune,4606.8,113,True
+1174,2019-10-05 14:38:15,PayPal,Standard,1.26,Hip-Hop,4199.12,103,True
+1175,2021-03-26 06:05:49,PayPal,Eco,2.53,Pop,40.77,1,True
+1176,2020-11-25 11:18:55,PayPal,Famille,4.35,Aucune,4321.42,106,True
+1177,2022-07-14 18:09:32,PayPal,Eco,4.76,Aucune,978.44,24,False
+1178,2018-09-03 21:29:00,PayPal,Eco,1.39,Classique,3587.6,88,True
+1179,2020-01-18 22:51:36,PayPal,Famille,1.14,Jazz,8072.09,198,True
+1180,2019-12-10 03:29:39,Espèces,Famille,1.37,Jazz,6563.67,161,True
+1181,2020-12-14 03:31:24,PayPal,Famille,4.1,Aucune,7012.12,172,True
+1182,2021-07-26 05:31:47,PayPal,VIP,1.86,Classique,4525.27,111,True
+1183,2020-10-10 18:37:09,PayPal,Famille,2.43,Classique,4117.58,101,True
+1184,2021-09-23 10:53:54,Carte de Crédit,VIP,1.52,Aucune,5789.08,142,True
+1185,2022-12-25 04:38:48,PayPal,Famille,2.57,Pop,2731.47,67,True
+1186,2020-12-31 03:25:26,Carte de Crédit,Standard,3.91,Aucune,4076.82,100,True
+1187,2019-11-29 19:59:06,Espèces,Standard,3.01,Pop,5870.61,144,False
+1188,2019-06-25 02:02:55,Carte de Crédit,VIP,2.25,Jazz,6645.21,163,True
+1189,2022-10-11 06:11:39,Espèces,Famille,3.04,Jazz,5748.31,141,True
+1190,2019-09-21 22:21:48,PayPal,Eco,4.66,Pop,6645.21,163,True
+1191,2022-10-15 14:42:46,PayPal,Eco,2.87,Hip-Hop,7093.66,174,False
+1192,2020-01-03 07:56:14,Carte de Crédit,VIP,1.97,Classique,6726.75,165,False
+1193,2021-09-20 07:09:15,Espèces,Standard,4.82,Aucune,3791.44,93,True
+1194,2018-05-12 12:19:49,Espèces,VIP,1.14,Jazz,5911.38,145,True
+1195,2018-05-12 22:57:11,PayPal,Famille,1.83,Pop,733.83,18,True
+1196,2018-06-20 15:35:21,Espèces,Standard,3.04,Aucune,7990.56,196,True
+1197,2021-07-25 14:57:35,Espèces,VIP,1.31,Aucune,1223.04,30,False
+1198,2021-08-26 05:35:19,PayPal,Famille,3.31,Classique,1100.74,27,True
+1199,2018-11-07 10:13:14,Espèces,VIP,4.44,Aucune,5789.08,142,True
+1200,2020-04-12 02:57:57,Carte de Crédit,VIP,2.74,Jazz,2609.16,64,True
+1201,2022-10-30 13:56:01,Espèces,Standard,1.23,Rock,1834.57,45,True
+1202,2022-05-13 20:48:25,Carte de Crédit,Eco,1.45,Rock,2690.7,66,True
+1203,2020-11-04 20:35:41,Espèces,Eco,2.46,Aucune,2119.94,52,True
+1204,2022-12-13 12:23:40,PayPal,Famille,2.43,Jazz,5136.79,126,False
+1205,2018-05-14 04:05:40,PayPal,Eco,4.52,Aucune,2079.18,51,True
+1206,2020-09-19 23:07:09,PayPal,Famille,2.77,Jazz,2976.08,73,True
+1207,2018-09-07 02:33:34,PayPal,Famille,2.34,Pop,5259.09,129,True
+1208,2021-12-15 00:43:49,Espèces,Eco,1.64,Pop,815.36,20,True
+1209,2021-10-15 03:39:27,Espèces,VIP,1.49,Classique,366.91,9,False
+1210,2019-11-13 06:59:08,Espèces,Standard,2.69,Classique,2446.09,60,True
+1211,2022-06-27 01:29:55,Espèces,Eco,1.56,Aucune,1182.28,29,False
+1212,2018-07-25 22:28:01,Carte de Crédit,VIP,1.56,Rock,2364.55,58,True
+1213,2020-02-29 04:25:11,Espèces,Famille,4.09,Rock,7460.57,183,True
+1214,2020-08-30 06:02:57,PayPal,Eco,3.54,Aucune,8072.09,198,True
+1215,2018-09-13 10:17:45,Carte de Crédit,Standard,3.67,Jazz,4117.58,101,True
+1216,2022-09-19 13:52:46,PayPal,Eco,4.03,Aucune,7215.96,177,True
+1217,2021-06-03 17:36:27,Carte de Crédit,Standard,3.73,Jazz,1589.96,39,True
+1218,2020-06-05 21:51:31,Espèces,Standard,3.23,Classique,2405.32,59,True
+1219,2022-01-25 06:45:17,Carte de Crédit,Famille,1.47,Classique,7664.41,188,True
+1220,2022-05-10 05:43:08,Carte de Crédit,Eco,3.78,Pop,2772.23,68,True
+1221,2021-06-04 21:06:41,Carte de Crédit,Standard,4.33,Classique,3383.76,83,True
+1222,2019-04-17 01:19:45,Espèces,Standard,3.43,Jazz,7705.18,189,False
+1223,2020-04-25 09:05:55,PayPal,Standard,2.11,Jazz,5299.86,130,True
+1224,2018-03-11 20:28:00,Carte de Crédit,Standard,3.46,Hip-Hop,3791.44,93,True
+1225,2018-04-21 05:57:25,Espèces,VIP,2.22,Rock,4443.73,109,False
+1226,2020-01-24 14:24:04,Carte de Crédit,VIP,3.8,Classique,4729.11,116,False
+1227,2018-11-21 00:51:14,Espèces,VIP,3.64,Hip-Hop,5503.7,135,True
+1228,2018-05-11 17:27:10,PayPal,Standard,4.56,Classique,4321.42,106,True
+1229,2022-03-14 06:09:10,Espèces,Standard,4.4,Rock,4810.64,118,True
+1230,2022-09-05 09:40:38,PayPal,Standard,4.43,Pop,3709.9,91,True
+1231,2019-05-10 21:28:22,Carte de Crédit,Standard,2.1,Aucune,6930.59,170,False
+1232,2020-07-16 19:17:30,PayPal,Famille,1.83,Rock,3179.92,78,True
+1233,2018-06-24 22:07:41,Espèces,Eco,1.88,Aucune,6685.98,164,False
+1234,2020-05-26 15:06:40,Espèces,VIP,3.53,Aucune,2527.63,62,True
+1235,2021-12-14 21:02:36,Carte de Crédit,VIP,1.42,Jazz,2935.31,72,True
+1236,2020-01-02 17:17:50,Espèces,Eco,3.47,Pop,6522.9,160,False
+1237,2019-02-18 10:42:50,Carte de Crédit,Famille,1.44,Hip-Hop,5299.86,130,True
+1238,2018-01-13 09:58:44,Carte de Crédit,Eco,1.25,Rock,3954.51,97,True
+1239,2019-04-12 06:39:05,Espèces,Eco,3.73,Hip-Hop,1386.12,34,True
+1240,2021-09-25 13:02:00,Espèces,Famille,2.75,Jazz,6522.9,160,True
+1241,2019-08-23 08:52:16,Carte de Crédit,VIP,3.87,Classique,1019.2,25,False
+1242,2022-11-10 22:58:28,PayPal,Famille,1.76,Hip-Hop,2609.16,64,True
+1243,2021-03-09 17:18:49,Carte de Crédit,Standard,4.14,Aucune,5136.79,126,False
+1244,2021-04-28 13:53:51,PayPal,Eco,1.64,Classique,1875.34,46,True
+1245,2018-09-12 15:47:19,Espèces,Standard,3.33,Hip-Hop,203.84,5,True
+1246,2021-10-08 05:34:18,PayPal,VIP,4.0,Hip-Hop,6808.28,167,True
+1247,2021-01-16 20:44:59,Espèces,VIP,2.59,Classique,6522.9,160,False
+1248,2019-05-08 15:42:47,Carte de Crédit,VIP,1.04,Rock,2568.39,63,True
+1249,2020-07-09 05:03:41,PayPal,Famille,1.72,Pop,6359.83,156,True
+1250,2022-07-23 02:59:26,Espèces,Famille,2.03,Aucune,815.36,20,True
+1251,2020-04-23 11:01:46,Espèces,Standard,3.87,Aucune,2772.23,68,True
+1252,2022-09-16 20:11:33,Espèces,Standard,4.58,Classique,4076.82,100,True
+1253,2019-03-12 01:44:43,PayPal,Famille,2.94,Rock,5136.79,126,False
+1254,2020-05-20 15:36:03,Espèces,Standard,1.57,Rock,6155.99,151,True
+1255,2022-02-02 20:29:30,Carte de Crédit,Eco,3.6,Aucune,1059.97,26,True
+1256,2019-06-15 06:07:27,Espèces,Eco,1.95,Classique,5789.08,142,True
+1257,2019-04-27 17:20:15,PayPal,Standard,3.68,Rock,203.84,5,False
+1258,2020-12-26 16:50:13,PayPal,Standard,3.26,Rock,815.36,20,True
+1259,2020-06-24 15:34:08,PayPal,VIP,3.42,Jazz,407.68,10,False
+1260,2018-08-24 01:07:07,PayPal,Standard,2.56,Classique,3709.9,91,False
+1261,2020-04-09 13:51:25,Carte de Crédit,VIP,2.85,Jazz,7786.72,191,False
+1262,2019-07-20 00:12:03,Espèces,Standard,1.91,Hip-Hop,5544.47,136,False
+1263,2021-12-03 12:54:09,PayPal,Famille,2.27,Pop,5381.4,132,True
+1264,2019-04-01 19:19:44,Carte de Crédit,Famille,4.33,Classique,7338.27,180,False
+1265,2018-12-19 09:00:57,Espèces,Standard,2.2,Pop,693.06,17,True
+1266,2020-04-19 18:36:16,Espèces,Standard,1.18,Pop,4932.95,121,False
+1267,2018-06-03 19:36:35,PayPal,Famille,2.73,Hip-Hop,6319.06,155,True
+1268,2019-10-12 22:14:41,Espèces,Eco,3.67,Classique,2935.31,72,False
+1269,2018-11-03 19:31:07,Espèces,VIP,3.61,Hip-Hop,7827.49,192,False
+1270,2018-09-13 20:13:28,Carte de Crédit,Standard,1.84,Rock,4443.73,109,True
+1271,2019-09-29 07:18:56,PayPal,Standard,2.66,Pop,7175.2,176,True
+1272,2021-01-21 08:39:14,PayPal,VIP,3.29,Pop,1304.58,32,True
+1273,2019-11-07 02:22:00,PayPal,VIP,3.42,Hip-Hop,4402.96,108,False
+1274,2019-09-03 12:24:58,Espèces,VIP,2.59,Aucune,7786.72,191,False
+1275,2021-03-29 03:18:48,PayPal,Famille,1.6,Hip-Hop,407.68,10,False
+1276,2022-02-16 21:55:03,Espèces,Famille,2.38,Classique,1100.74,27,True
+1277,2018-03-29 05:05:30,Carte de Crédit,Standard,2.53,Rock,4892.18,120,True
+1278,2022-02-09 05:52:55,PayPal,VIP,1.77,Jazz,4036.05,99,True
+1279,2018-01-10 06:46:35,Espèces,VIP,4.28,Hip-Hop,1141.51,28,True
+1280,2022-11-20 18:53:03,PayPal,VIP,1.53,Rock,1386.12,34,True
+1281,2022-08-14 04:22:17,Espèces,Famille,1.04,Hip-Hop,7460.57,183,True
+1282,2020-02-09 20:43:49,Espèces,Standard,2.2,Classique,1386.12,34,True
+1283,2019-07-28 07:02:55,Carte de Crédit,Standard,3.66,Classique,1059.97,26,True
+1284,2018-03-07 02:59:14,PayPal,Famille,4.26,Pop,3342.99,82,True
+1285,2020-07-06 18:51:03,PayPal,Famille,1.35,Pop,3954.51,97,False
+1286,2020-11-06 12:46:17,Espèces,Eco,2.16,Jazz,7745.95,190,False
+1287,2020-09-08 08:19:20,PayPal,VIP,4.19,Classique,6482.14,159,True
+1288,2019-04-06 08:38:52,Carte de Crédit,Famille,3.56,Aucune,6482.14,159,True
+1289,2021-06-07 12:59:49,Espèces,VIP,3.07,Classique,6971.35,171,True
+1290,2022-09-10 10:10:19,Espèces,VIP,3.03,Pop,5299.86,130,True
+1291,2022-04-15 07:57:09,Espèces,Standard,2.53,Classique,1671.49,41,True
+1292,2018-12-24 15:09:18,Carte de Crédit,Standard,1.36,Classique,1141.51,28,False
+1293,2018-06-20 07:20:14,Espèces,Famille,1.55,Classique,7623.65,187,True
+1294,2018-06-27 16:28:18,PayPal,Eco,3.99,Rock,5952.15,146,True
+1295,2019-07-10 20:59:16,Espèces,Eco,4.62,Hip-Hop,4239.89,104,True
+1296,2021-03-05 23:57:35,PayPal,Standard,4.28,Pop,5666.77,139,True
+1297,2019-07-04 17:03:43,Espèces,Eco,4.45,Jazz,4769.87,117,True
+1298,2019-08-10 03:41:00,PayPal,Eco,4.36,Hip-Hop,7705.18,189,False
+1299,2019-09-11 05:04:50,Espèces,Standard,1.8,Classique,1712.26,42,False
+1300,2021-01-24 06:52:05,Carte de Crédit,Eco,3.95,Aucune,3179.92,78,True
+1301,2019-12-30 10:28:00,PayPal,Standard,4.04,Jazz,5218.32,128,False
+1302,2020-03-10 20:23:46,PayPal,Eco,2.52,Pop,7705.18,189,True
+1303,2021-09-15 22:20:25,Carte de Crédit,Eco,3.09,Hip-Hop,2323.78,57,False
+1304,2018-04-25 18:11:31,PayPal,Standard,4.74,Pop,6767.51,166,True
+1305,2019-10-17 18:59:00,Espèces,Eco,1.89,Classique,1589.96,39,True
+1306,2022-05-01 07:02:13,Espèces,Famille,1.01,Hip-Hop,1508.42,37,True
+1307,2019-03-24 00:11:57,Espèces,Eco,4.17,Classique,2690.7,66,True
+1308,2022-02-08 13:53:23,Espèces,Eco,3.7,Classique,3669.13,90,True
+1309,2018-05-25 12:25:15,Carte de Crédit,Standard,2.35,Classique,570.75,14,True
+1310,2018-01-01 07:56:22,PayPal,Standard,2.22,Rock,4851.41,119,True
+1311,2020-11-22 02:15:53,PayPal,Famille,3.64,Classique,896.9,22,True
+1312,2018-01-23 10:06:52,Espèces,Standard,1.19,Hip-Hop,3057.61,75,True
+1313,2022-03-12 05:59:00,Espèces,Standard,2.71,Rock,4892.18,120,True
+1314,2018-01-19 18:48:18,Espèces,Standard,2.29,Classique,5299.86,130,False
+1315,2022-08-23 18:00:19,Espèces,Eco,3.89,Pop,1508.42,37,False
+1316,2020-01-26 00:18:55,Carte de Crédit,Famille,3.34,Classique,6278.3,154,True
+1317,2019-02-08 04:44:15,Carte de Crédit,Standard,4.42,Pop,4484.5,110,True
+1318,2019-11-23 20:51:49,Carte de Crédit,Standard,1.58,Pop,3628.37,89,True
+1319,2022-11-03 09:58:36,Espèces,Famille,2.69,Hip-Hop,3383.76,83,True
+1320,2018-01-14 20:43:40,Carte de Crédit,Famille,3.02,Rock,0.0,0,False
+1321,2019-07-02 08:35:18,Espèces,Standard,1.1,Pop,2446.09,60,True
+1322,2021-07-14 10:58:12,Carte de Crédit,Eco,3.77,Jazz,2690.7,66,True
+1323,2021-08-13 22:26:44,Espèces,VIP,3.9,Jazz,7623.65,187,False
+1324,2020-07-21 23:11:50,Espèces,Standard,3.46,Classique,5299.86,130,True
+1325,2018-03-18 12:26:30,Espèces,Famille,4.69,Classique,2201.48,54,True
+1326,2018-09-30 17:31:48,PayPal,Famille,1.28,Jazz,3098.38,76,True
+1327,2020-01-09 10:15:55,PayPal,VIP,4.75,Hip-Hop,4647.57,114,True
+1328,2020-07-30 03:21:57,Carte de Crédit,VIP,1.58,Rock,5177.56,127,True
+1329,2020-07-17 09:06:09,Espèces,VIP,1.04,Aucune,285.38,7,False
+1330,2018-07-04 08:41:58,Carte de Crédit,VIP,3.96,Aucune,448.45,11,False
+1331,2021-03-14 09:24:14,Espèces,Famille,2.4,Aucune,1386.12,34,True
+1332,2021-10-21 07:20:05,Espèces,VIP,1.1,Rock,7297.5,179,False
+1333,2022-03-30 11:23:59,Espèces,Eco,3.15,Rock,4076.82,100,False
+1334,2019-09-13 06:09:13,Carte de Crédit,Eco,3.61,Rock,4647.57,114,False
+1335,2022-05-25 12:16:53,PayPal,Eco,1.3,Aucune,7909.02,194,True
+1336,2020-08-28 11:50:04,Espèces,VIP,3.52,Hip-Hop,1263.81,31,True
+1337,2019-05-18 08:23:11,Espèces,Eco,4.93,Classique,1671.49,41,True
+1338,2021-12-17 21:18:40,PayPal,VIP,4.41,Hip-Hop,5381.4,132,False
+1339,2018-11-18 12:06:08,PayPal,Standard,4.5,Classique,2079.18,51,True
+1340,2018-07-08 13:02:53,PayPal,Standard,3.67,Rock,1753.03,43,False
+1341,2018-12-14 05:53:38,Carte de Crédit,VIP,4.46,Jazz,1019.2,25,True
+1342,2019-12-17 23:25:20,PayPal,Standard,4.88,Classique,326.15,8,True
+1343,2021-07-23 10:15:50,PayPal,Standard,4.56,Rock,2201.48,54,True
+1344,2022-07-07 00:52:28,Espèces,Famille,3.5,Hip-Hop,5422.16,133,True
+1345,2021-05-03 22:51:26,Carte de Crédit,VIP,1.21,Hip-Hop,3587.6,88,True
+1346,2021-08-26 04:55:01,Espèces,Famille,1.16,Classique,5381.4,132,False
+1347,2022-01-08 00:30:55,Espèces,VIP,1.39,Hip-Hop,6522.9,160,False
+1348,2022-07-18 10:22:19,Carte de Crédit,Standard,1.75,Rock,1141.51,28,False
+1349,2022-05-13 03:37:26,PayPal,Famille,1.12,Hip-Hop,4851.41,119,True
+1350,2019-06-29 11:21:17,Carte de Crédit,Eco,2.19,Rock,4729.11,116,True
+1351,2021-11-19 13:42:08,PayPal,Standard,1.33,Hip-Hop,6237.53,153,True
+1352,2019-02-08 21:37:03,Espèces,Eco,2.55,Classique,122.3,3,True
+1353,2019-06-25 17:45:25,Espèces,Standard,2.17,Aucune,4199.12,103,True
+1354,2018-01-14 22:09:39,Carte de Crédit,Standard,4.26,Aucune,1141.51,28,False
+1355,2019-03-28 03:59:14,Espèces,Famille,2.53,Rock,6155.99,151,True
+1356,2020-01-10 01:06:26,Espèces,VIP,4.95,Pop,7868.25,193,False
+1357,2021-02-27 19:37:06,Carte de Crédit,Eco,4.87,Rock,7379.04,181,True
+1358,2022-01-29 00:36:35,Carte de Crédit,Standard,4.6,Classique,2853.77,70,True
+1359,2018-04-17 03:56:45,Carte de Crédit,Standard,4.47,Hip-Hop,2609.16,64,True
+1360,2021-02-09 14:14:06,PayPal,Famille,2.71,Rock,4117.58,101,True
+1361,2022-08-21 23:03:21,Espèces,VIP,2.21,Classique,1793.8,44,True
+1362,2021-10-16 22:46:53,PayPal,VIP,2.61,Classique,5096.02,125,True
+1363,2022-03-18 00:18:57,PayPal,Eco,2.25,Rock,8072.09,198,True
+1364,2022-12-03 10:49:34,Espèces,Famille,4.97,Rock,3465.29,85,True
+1365,2019-12-01 14:34:44,Carte de Crédit,Eco,3.85,Jazz,5462.93,134,True
+1366,2021-10-09 12:38:07,Carte de Crédit,Standard,4.34,Aucune,2160.71,53,False
+1367,2019-03-22 20:14:12,Espèces,Famille,3.63,Jazz,6971.35,171,False
+1368,2018-07-26 22:03:53,PayPal,Famille,3.74,Rock,2038.41,50,True
+1369,2018-03-30 16:14:09,Carte de Crédit,VIP,3.36,Pop,3995.28,98,True
+1370,2020-04-20 18:02:24,PayPal,Standard,4.8,Rock,448.45,11,True
+1371,2021-09-13 13:34:16,PayPal,Standard,4.7,Jazz,2853.77,70,False
+1372,2020-06-25 15:12:10,Espèces,VIP,3.59,Hip-Hop,5952.15,146,True
+1373,2020-02-22 04:36:07,Carte de Crédit,Standard,4.08,Aucune,6645.21,163,False
+1374,2018-09-16 02:03:38,Espèces,Famille,3.87,Rock,7745.95,190,True
+1375,2018-12-07 00:08:17,Carte de Crédit,Standard,2.76,Pop,1467.65,36,True
+1376,2021-12-28 22:55:52,Carte de Crédit,Eco,2.88,Classique,5381.4,132,True
+1377,2018-08-13 13:14:14,PayPal,VIP,2.69,Aucune,2649.93,65,False
+1378,2022-02-25 03:38:29,Carte de Crédit,Famille,3.7,Pop,5626.01,138,False
+1379,2019-09-19 11:24:14,PayPal,VIP,2.21,Pop,5585.24,137,True
+1380,2021-10-23 23:43:27,Carte de Crédit,Standard,3.49,Classique,3709.9,91,True
+1381,2021-07-05 11:15:06,Carte de Crédit,Famille,2.24,Aucune,0.0,0,False
+1382,2018-11-06 20:18:25,Carte de Crédit,VIP,3.96,Hip-Hop,1059.97,26,True
+1383,2018-06-18 07:24:39,Espèces,Eco,4.0,Jazz,2446.09,60,True
+1384,2018-06-02 16:42:52,Espèces,Eco,1.96,Hip-Hop,3057.61,75,True
+1385,2019-04-18 17:12:32,Carte de Crédit,Famille,1.37,Pop,6726.75,165,False
+1386,2019-12-04 05:36:26,PayPal,Standard,2.09,Hip-Hop,7990.56,196,True
+1387,2019-11-14 01:35:43,Espèces,Eco,1.89,Jazz,2649.93,65,False
+1388,2019-09-17 10:27:58,Espèces,Standard,1.98,Classique,4606.8,113,False
+1389,2021-08-15 16:21:35,Espèces,VIP,2.71,Classique,6645.21,163,True
+1390,2020-02-19 02:03:56,Carte de Crédit,Standard,1.78,Classique,1100.74,27,True
+1391,2018-11-13 02:07:47,PayPal,Eco,2.4,Pop,2119.94,52,False
+1392,2020-05-23 11:55:40,Espèces,VIP,4.72,Classique,7501.34,184,True
+1393,2022-02-20 17:35:18,Espèces,Famille,1.35,Aucune,7093.66,174,True
+1394,2020-12-14 23:03:33,Carte de Crédit,Eco,1.94,Jazz,5585.24,137,False
+1395,2018-09-18 15:10:12,PayPal,Famille,1.67,Jazz,7134.43,175,False
+1396,2021-08-08 20:51:35,Espèces,Famille,3.79,Jazz,5136.79,126,True
+1397,2020-07-17 06:12:10,Carte de Crédit,Eco,3.79,Classique,4443.73,109,True
+1398,2022-06-21 11:58:03,Espèces,Eco,3.91,Hip-Hop,5707.54,140,True
+1399,2021-12-15 16:55:14,Carte de Crédit,Eco,3.15,Classique,2894.54,71,True
+1400,2018-03-01 19:30:28,PayPal,Eco,4.67,Hip-Hop,5055.25,124,False
+1401,2021-05-14 20:12:45,Espèces,VIP,2.43,Pop,4484.5,110,True
+1402,2019-10-24 15:13:30,Carte de Crédit,Eco,4.81,Rock,774.59,19,True
+1403,2022-03-02 02:01:56,Espèces,Famille,2.14,Aucune,1426.89,35,True
+1404,2018-11-30 09:18:49,PayPal,Standard,4.09,Classique,1712.26,42,True
+1405,2021-02-20 19:04:46,PayPal,Standard,4.12,Classique,693.06,17,True
+1406,2022-10-13 21:34:42,PayPal,Standard,4.33,Jazz,4851.41,119,True
+1407,2022-02-16 10:08:41,Carte de Crédit,Eco,2.98,Hip-Hop,5014.48,123,True
+1408,2018-08-19 07:40:44,PayPal,VIP,3.52,Jazz,6726.75,165,False
+1409,2021-03-04 08:27:28,Carte de Crédit,Famille,1.11,Rock,5503.7,135,False
+1410,2018-08-24 10:49:07,Espèces,Famille,3.82,Aucune,1875.34,46,True
+1411,2021-05-16 04:14:53,Carte de Crédit,Standard,1.58,Pop,3995.28,98,True
+1412,2018-09-29 08:58:38,PayPal,Famille,2.68,Pop,366.91,9,False
+1413,2019-10-06 15:19:49,Espèces,Eco,4.24,Jazz,4647.57,114,True
+1414,2022-12-25 01:54:06,PayPal,Standard,1.79,Jazz,326.15,8,True
+1415,2021-11-16 07:05:19,Carte de Crédit,Famille,3.86,Aucune,5707.54,140,False
+1416,2019-06-27 21:31:28,PayPal,VIP,3.85,Aucune,2690.7,66,True
+1417,2019-09-02 06:32:45,Carte de Crédit,VIP,4.05,Jazz,5014.48,123,True
+1418,2021-03-16 11:28:00,Espèces,Eco,1.26,Pop,1426.89,35,True
+1419,2022-08-08 20:35:29,Carte de Crédit,Standard,4.67,Jazz,6196.76,152,True
+1420,2022-09-26 17:46:38,Espèces,Eco,2.26,Pop,7419.8,182,False
+1421,2019-02-11 02:44:37,PayPal,Eco,2.91,Jazz,1916.1,47,True
+1422,2022-07-16 12:29:42,Carte de Crédit,Standard,4.58,Rock,203.84,5,True
+1423,2021-03-21 21:17:01,Carte de Crédit,Famille,3.21,Hip-Hop,5340.63,131,False
+1424,2021-10-04 08:57:36,Carte de Crédit,Eco,4.48,Rock,3954.51,97,False
+1425,2018-07-28 00:28:32,PayPal,Eco,3.4,Jazz,2649.93,65,True
+1426,2019-08-12 04:44:36,Espèces,Standard,3.68,Jazz,5096.02,125,True
+1427,2022-09-15 16:28:34,Carte de Crédit,Famille,3.61,Rock,7501.34,184,True
+1428,2022-05-19 18:49:28,PayPal,Standard,3.08,Jazz,7215.96,177,True
+1429,2022-05-16 17:52:40,Carte de Crédit,Standard,2.98,Aucune,5381.4,132,True
+1430,2022-01-08 20:08:36,PayPal,Eco,4.48,Rock,6074.46,149,True
+1431,2020-03-01 18:07:31,Carte de Crédit,Standard,2.74,Aucune,5503.7,135,True
+1432,2022-02-01 20:30:26,Espèces,Standard,3.57,Pop,2813.0,69,False
+1433,2020-01-20 17:27:27,PayPal,Eco,2.77,Hip-Hop,4892.18,120,True
+1434,2022-12-28 12:00:09,PayPal,VIP,2.01,Jazz,2772.23,68,True
+1435,2019-11-20 01:33:34,Carte de Crédit,Eco,4.69,Aucune,5096.02,125,False
+1436,2018-12-27 23:30:19,PayPal,Famille,2.38,Jazz,7949.79,195,False
+1437,2019-10-24 09:52:44,Espèces,Famille,4.97,Rock,6889.82,169,True
+1438,2018-12-04 05:17:48,PayPal,Famille,4.03,Jazz,1223.04,30,True
+1439,2022-06-26 14:10:26,Carte de Crédit,Famille,3.23,Jazz,2283.02,56,True
+1440,2018-01-04 22:55:36,Espèces,Famille,1.44,Jazz,3057.61,75,True
+1441,2019-09-05 14:59:51,Carte de Crédit,Famille,4.06,Aucune,3913.74,96,False
+1442,2020-02-06 02:48:49,PayPal,Standard,3.42,Rock,4362.19,107,False
+1443,2021-10-19 01:57:58,Carte de Crédit,Famille,1.9,Jazz,6726.75,165,False
+1444,2022-09-08 09:57:24,Espèces,VIP,3.85,Rock,1630.73,40,True
+1445,2018-08-30 23:22:50,PayPal,Eco,2.67,Classique,5503.7,135,False
+1446,2021-11-08 00:37:13,PayPal,VIP,1.05,Aucune,203.84,5,True
+1447,2018-09-13 23:29:02,Carte de Crédit,Eco,3.57,Hip-Hop,3016.84,74,True
+1448,2020-09-30 09:14:43,Espèces,Eco,1.91,Hip-Hop,3750.67,92,False
+1449,2022-02-17 16:20:19,PayPal,Famille,4.49,Aucune,6930.59,170,True
+1450,2019-07-17 09:33:31,Espèces,Eco,3.09,Pop,4117.58,101,True
+1451,2021-01-27 15:43:09,Espèces,VIP,1.16,Aucune,2731.47,67,False
+1452,2020-10-09 06:28:10,Espèces,Famille,2.45,Hip-Hop,7623.65,187,True
+1453,2022-06-18 14:25:41,Espèces,Standard,2.57,Rock,1671.49,41,False
+1454,2022-10-11 02:40:59,Espèces,VIP,1.69,Aucune,5666.77,139,True
+1455,2022-03-25 19:12:20,PayPal,Standard,2.36,Classique,8112.86,199,True
+1456,2022-02-18 01:35:30,PayPal,Eco,4.37,Rock,3709.9,91,True
+1457,2019-12-26 11:12:55,Carte de Crédit,Standard,3.94,Rock,2160.71,53,False
+1458,2021-01-05 12:31:55,PayPal,Standard,2.61,Aucune,4362.19,107,False
+1459,2021-08-14 09:44:22,PayPal,Eco,2.2,Pop,3139.15,77,False
+1460,2019-05-27 18:17:57,PayPal,VIP,1.48,Jazz,2323.78,57,False
+1461,2019-01-31 03:03:43,Carte de Crédit,VIP,4.47,Pop,5789.08,142,False
+1462,2021-01-10 05:15:57,PayPal,Famille,2.4,Aucune,0.0,0,False
+1463,2019-01-08 20:06:24,Espèces,Standard,3.96,Hip-Hop,5707.54,140,False
+1464,2021-11-23 10:14:54,Carte de Crédit,Standard,4.0,Jazz,5259.09,129,True
+1465,2018-09-13 12:00:16,Espèces,Famille,2.59,Jazz,4892.18,120,False
+1466,2021-01-12 04:40:19,Carte de Crédit,VIP,1.57,Pop,6808.28,167,True
+1467,2022-12-22 01:39:39,PayPal,VIP,4.12,Aucune,570.75,14,True
+1468,2021-11-28 12:34:59,Espèces,Famille,3.25,Classique,6930.59,170,False
+1469,2018-06-05 00:20:57,PayPal,VIP,3.17,Classique,652.29,16,True
+1470,2018-01-23 13:21:16,Espèces,Eco,2.87,Classique,7582.88,186,True
+1471,2021-01-02 03:01:54,Carte de Crédit,Standard,1.66,Hip-Hop,4892.18,120,False
+1472,2020-01-27 07:14:47,PayPal,VIP,1.43,Classique,5177.56,127,False
+1473,2022-06-10 21:51:48,Carte de Crédit,Standard,3.12,Rock,4280.66,105,False
+1474,2022-03-22 09:29:05,PayPal,VIP,4.61,Jazz,2201.48,54,True
+1475,2019-10-25 17:44:17,PayPal,Standard,4.2,Classique,1304.58,32,False
+1476,2021-10-07 18:33:13,Carte de Crédit,Standard,2.01,Classique,7827.49,192,True
+1477,2021-05-11 22:47:14,Espèces,Eco,1.18,Hip-Hop,2690.7,66,True
+1478,2020-10-12 20:56:56,Espèces,Eco,3.45,Pop,7052.89,173,True
+1479,2019-10-23 10:06:22,PayPal,Eco,3.64,Rock,489.22,12,True
+1480,2019-08-15 15:20:59,PayPal,VIP,1.56,Classique,978.44,24,False
+1481,2022-08-12 15:37:18,Espèces,Famille,5.0,Aucune,1712.26,42,False
+1482,2022-05-29 08:36:39,Carte de Crédit,Standard,4.87,Jazz,529.99,13,False
+1483,2021-10-17 05:56:51,PayPal,VIP,4.07,Pop,6971.35,171,True
+1484,2019-10-28 21:57:06,Carte de Crédit,Eco,3.3,Rock,3057.61,75,False
+1485,2022-03-13 09:52:10,Espèces,Standard,2.73,Jazz,6604.44,162,True
+1486,2020-09-20 16:06:23,Espèces,VIP,2.8,Rock,3506.06,86,True
+1487,2021-06-08 04:38:35,Espèces,Standard,2.0,Hip-Hop,6115.22,150,True
+1488,2018-12-09 21:27:15,Espèces,VIP,2.68,Classique,1059.97,26,True
+1489,2022-12-04 13:39:48,Espèces,Eco,2.93,Rock,652.29,16,True
+1490,2018-04-01 23:33:59,Espèces,VIP,1.36,Pop,7460.57,183,True
+1491,2021-09-18 17:35:43,Espèces,VIP,1.81,Classique,3709.9,91,True
+1492,2022-05-24 06:14:54,Espèces,Standard,4.11,Rock,7215.96,177,False
+1493,2021-04-09 15:24:45,Carte de Crédit,VIP,3.1,Rock,4402.96,108,True
+1494,2018-12-19 02:01:33,PayPal,Eco,1.17,Jazz,1916.1,47,True
+1495,2021-06-25 06:40:13,Espèces,Famille,3.75,Pop,7868.25,193,True
+1496,2018-03-20 14:10:18,PayPal,Famille,1.9,Pop,1263.81,31,True
+1497,2018-06-07 11:31:23,PayPal,Standard,2.86,Aucune,652.29,16,False
+1498,2021-10-25 23:41:08,Espèces,Eco,3.67,Pop,5177.56,127,True
+1499,2019-06-12 22:28:54,PayPal,VIP,3.6,Jazz,7582.88,186,True
+1500,2019-07-24 02:11:00,PayPal,VIP,4.02,Jazz,529.99,13,True

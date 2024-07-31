@@ -1,0 +1,1001 @@
+ID_Client,Pays,TypeAbonnement,AppareilPrincipal,StatutCompte,GenrePrefere,ModePaiement,LanguePreferee,DateInscription,DateDernierPaiement,DateDebutAbonnement,DateFinAbonnement,DureeTotaleVisionnage,NombreConnexionsMois,MontantDernierPaiement,AgeUtilisateur,NombreFilmsRegardes,NombreEpisodesRegardes
+1,Brésil,Standard,Tablette,Suspendu,Drame,Virement,Français,2020-08-17,2015-11-22,2018-12-18,2022-01-21,4096,96,9.69,20,90,219
+2,USA,Basic,Mobile,Suspendu,Comédie,Virement,Allemand,2015-12-16,2016-12-30,2016-04-19,2022-06-15,275,36,7.43,43,1,252
+3,Allemagne,Premium,Tablette,Actif,Sci-Fi,PayPal,Allemand,2021-07-04,2023-05-07,2019-12-01,2020-06-25,149,61,13.9,58,16,37
+4,Japon,Premium,Tablette,Annulé,Sci-Fi,Chèque,Français,2023-04-24,2023-08-05,2015-03-08,2018-07-12,1566,72,6.16,60,49,201
+5,Allemagne,Standard,TV,Annulé,Action,Chèque,Hindi,2016-07-17,2015-05-10,2022-03-25,2022-12-30,1312,19,8.28,32,62,283
+6,France,Premium,PC,Suspendu,Documentaire,Carte de crédit,Japonais,2018-01-26,2019-09-25,2023-09-11,2024-01-04,3515,61,15.89,36,20,283
+7,Canada,Standard,PC,Actif,Drame,Chèque,Allemand,2015-12-12,2023-06-09,2015-01-28,2018-07-02,1321,39,8.78,39,68,275
+8,Inde,Standard,TV,Actif,Drame,Virement,Français,2021-08-01,2016-08-12,2021-12-16,2022-11-21,3705,53,7.65,21,77,224
+9,France,Standard,Mobile,Suspendu,Drame,Carte de crédit,Français,2016-07-02,2020-09-19,2020-11-26,2020-12-23,1100,50,6.88,51,82,172
+10,Allemagne,Premium,TV,Suspendu,Comédie,Virement,Japonais,2016-04-14,2018-10-22,2017-09-29,2020-05-31,3791,71,14.16,36,38,44
+11,France,Standard,PC,Actif,Drame,Carte de crédit,Anglais,2015-05-27,2018-03-27,2016-04-29,2021-05-09,1727,62,9.94,54,29,273
+12,Brésil,Basic,PC,Actif,Comédie,Virement,Français,2019-02-02,2023-11-26,2021-05-11,2021-07-25,646,9,7.16,67,51,17
+13,USA,Standard,TV,Suspendu,Documentaire,PayPal,Anglais,2022-07-23,2020-06-29,2022-11-14,2023-02-16,3670,90,8.14,63,49,55
+14,Canada,Premium,Mobile,Annulé,Sci-Fi,Carte de crédit,Espagnol,2017-05-11,2015-01-03,2017-05-06,2017-05-06,3728,31,15.84,61,11,223
+15,France,Premium,TV,Actif,Comédie,PayPal,Espagnol,2018-10-03,2017-05-27,2017-09-08,2020-03-05,3074,62,13.37,68,17,154
+16,USA,Basic,Tablette,Annulé,Action,Virement,Allemand,2015-08-10,2015-03-17,2022-07-31,2022-12-05,2700,91,7.37,47,2,222
+17,France,Premium,Tablette,Annulé,Sci-Fi,Chèque,Hindi,2017-07-21,2017-11-14,2016-06-05,2023-06-24,2028,39,10.56,67,60,258
+18,Japon,Standard,TV,Actif,Comédie,PayPal,Hindi,2022-07-06,2021-06-30,2019-05-28,2022-06-23,1409,70,12.45,37,29,87
+19,Allemagne,Premium,PC,Annulé,Comédie,Virement,Hindi,2020-05-02,2018-09-09,2015-09-13,2021-09-25,4398,73,10.92,27,34,45
+20,Allemagne,Standard,Tablette,Actif,Documentaire,PayPal,Japonais,2016-03-20,2016-01-27,2020-02-26,2020-08-16,529,61,10.77,28,24,248
+21,Inde,Standard,Tablette,Suspendu,Documentaire,Carte de crédit,Français,2020-08-21,2020-09-26,2021-11-13,2022-05-02,4973,32,8.18,64,12,44
+22,Japon,Basic,Tablette,Annulé,Horreur,PayPal,Français,2021-11-17,2021-12-15,2023-04-09,2023-11-19,4895,24,14.87,54,27,50
+23,France,Premium,PC,Actif,Action,Carte de crédit,Espagnol,2023-03-21,2021-07-27,2022-05-14,2022-05-19,364,3,11.0,63,52,253
+24,Inde,Premium,Mobile,Annulé,Sci-Fi,PayPal,Espagnol,2018-07-21,2020-02-14,2016-04-01,2020-04-10,1858,51,13.54,69,16,47
+25,Brésil,Premium,PC,Suspendu,Documentaire,Carte de crédit,Allemand,2019-12-24,2018-03-10,2023-12-17,2024-03-02,4473,81,12.14,26,29,281
+26,France,Basic,Tablette,Actif,Action,Chèque,Allemand,2023-07-01,2023-08-19,2020-03-24,2020-12-24,4719,33,8.21,66,97,121
+27,Allemagne,Premium,TV,Actif,Drame,Carte de crédit,Hindi,2019-07-28,2023-12-02,2022-02-13,2022-05-31,1450,15,12.49,35,59,130
+28,Japon,Basic,Tablette,Annulé,Sci-Fi,Chèque,Espagnol,2016-02-27,2017-06-05,2021-10-20,2022-05-09,4412,87,13.0,57,36,255
+29,France,Standard,Tablette,Suspendu,Drame,Chèque,Français,2020-02-24,2016-04-16,2021-08-07,2022-04-12,808,38,8.91,54,40,55
+30,Japon,Premium,Mobile,Suspendu,Comédie,PayPal,Anglais,2016-02-11,2022-04-26,2016-03-15,2021-10-16,754,68,7.95,56,54,26
+31,Inde,Standard,Mobile,Actif,Documentaire,Carte de crédit,Français,2015-06-27,2021-05-14,2016-04-16,2021-11-27,79,76,12.15,48,72,121
+32,USA,Basic,Mobile,Actif,Documentaire,PayPal,Japonais,2019-06-27,2020-12-21,2021-12-01,2022-01-23,1913,89,12.01,72,66,9
+33,USA,Premium,Tablette,Suspendu,Drame,Virement,Anglais,2019-04-21,2016-09-17,2021-01-16,2021-10-04,2643,91,11.28,32,88,246
+34,Inde,Standard,TV,Annulé,Documentaire,Carte de crédit,Allemand,2016-04-17,2017-05-27,2015-11-13,2017-02-12,4081,75,14.5,24,30,35
+35,Inde,Basic,Tablette,Actif,Action,PayPal,Français,2016-08-08,2017-06-03,2023-04-24,2023-11-19,2710,17,13.19,54,88,128
+36,France,Premium,Tablette,Suspendu,Horreur,Virement,Anglais,2017-11-08,2016-02-06,2020-05-09,2023-03-24,1805,98,7.34,34,84,130
+37,Japon,Standard,Mobile,Suspendu,Horreur,Chèque,Espagnol,2023-08-05,2021-03-04,2023-06-09,2024-04-06,4836,71,14.5,56,90,208
+38,Japon,Standard,Tablette,Annulé,Documentaire,PayPal,Anglais,2019-09-25,2015-10-24,2018-04-26,2021-01-04,3647,28,14.08,40,49,25
+39,Allemagne,Basic,Mobile,Annulé,Comédie,Chèque,Japonais,2016-11-09,2023-01-29,2018-02-19,2019-08-28,493,95,15.18,70,95,39
+40,USA,Standard,PC,Suspendu,Documentaire,Chèque,Japonais,2017-03-12,2015-02-02,2019-01-14,2019-12-28,707,46,8.95,39,72,13
+41,Inde,Basic,Tablette,Actif,Sci-Fi,Chèque,Allemand,2022-12-29,2023-10-25,2021-04-12,2021-11-07,3460,93,14.42,40,78,86
+42,Allemagne,Premium,TV,Actif,Documentaire,Virement,Allemand,2016-01-25,2020-03-27,2019-09-18,2020-01-29,554,69,12.49,71,64,131
+43,Allemagne,Basic,Mobile,Actif,Action,Chèque,Hindi,2016-10-14,2018-10-03,2021-04-21,2021-12-16,4349,60,7.36,64,24,77
+44,Brésil,Standard,Mobile,Suspendu,Action,Carte de crédit,Japonais,2023-09-15,2023-11-08,2015-11-30,2020-07-16,1213,98,10.23,39,50,100
+45,Canada,Premium,TV,Annulé,Action,Chèque,Allemand,2022-04-12,2016-01-22,2017-11-17,2018-04-01,4366,78,12.48,30,67,31
+46,Inde,Premium,Tablette,Actif,Comédie,Virement,Hindi,2022-05-11,2015-09-11,2017-11-27,2018-11-07,3489,14,8.68,36,84,272
+47,Brésil,Premium,Tablette,Suspendu,Sci-Fi,Chèque,Hindi,2021-12-17,2020-02-24,2018-09-17,2021-11-14,1011,15,7.62,42,30,284
+48,Inde,Standard,PC,Annulé,Documentaire,Chèque,Hindi,2021-10-12,2018-04-08,2017-06-18,2023-06-07,2533,45,10.42,35,17,44
+49,France,Premium,Mobile,Actif,Horreur,Carte de crédit,Hindi,2021-06-24,2018-03-25,2015-02-19,2016-07-21,1557,78,14.98,47,97,296
+50,Brésil,Basic,TV,Annulé,Sci-Fi,PayPal,Anglais,2022-12-10,2023-08-14,2015-10-06,2018-09-19,2901,75,15.5,54,96,53
+51,Inde,Premium,TV,Actif,Comédie,Virement,Anglais,2015-12-31,2018-03-23,2021-09-19,2022-07-05,1066,77,7.75,73,42,149
+52,Japon,Standard,Mobile,Actif,Documentaire,Carte de crédit,Français,2015-03-05,2019-11-08,2021-02-23,2021-02-24,1950,38,14.46,53,38,38
+53,France,Standard,Mobile,Suspendu,Comédie,Virement,Japonais,2022-02-02,2015-10-22,2019-03-05,2019-07-16,1543,23,6.19,40,97,299
+54,France,Premium,Mobile,Annulé,Action,Carte de crédit,Japonais,2018-10-26,2017-01-07,2021-12-28,2022-03-06,1662,45,6.05,29,74,8
+55,France,Basic,Mobile,Annulé,Drame,Carte de crédit,Hindi,2022-01-07,2017-03-27,2015-10-04,2016-09-20,3624,71,14.94,41,90,43
+56,Japon,Premium,Tablette,Actif,Sci-Fi,Chèque,Espagnol,2017-06-16,2015-04-10,2019-11-17,2020-06-18,2229,69,15.19,39,13,72
+57,Canada,Basic,Tablette,Actif,Documentaire,Carte de crédit,Allemand,2023-08-31,2018-02-05,2021-09-21,2022-01-21,3013,72,15.65,39,91,292
+58,Allemagne,Premium,Tablette,Actif,Horreur,PayPal,Anglais,2022-06-09,2022-06-28,2016-12-15,2023-05-22,4764,75,9.18,40,54,270
+59,USA,Basic,Mobile,Annulé,Horreur,PayPal,Japonais,2018-10-23,2017-01-26,2022-08-31,2023-10-18,3262,5,7.25,69,84,272
+60,Japon,Standard,Tablette,Annulé,Comédie,Chèque,Hindi,2016-10-31,2023-07-21,2021-12-21,2022-10-06,3841,95,10.31,52,79,6
+61,Canada,Basic,Mobile,Suspendu,Comédie,Chèque,Anglais,2021-10-11,2020-08-18,2019-01-21,2019-08-21,825,80,13.52,35,90,236
+62,Allemagne,Premium,PC,Actif,Horreur,Chèque,Français,2017-01-22,2016-05-27,2017-02-27,2017-09-19,1962,69,12.16,55,76,135
+63,France,Standard,Mobile,Suspendu,Drame,Carte de crédit,Anglais,2021-12-27,2022-01-28,2022-03-20,2023-10-09,3364,43,11.7,27,75,94
+64,Japon,Standard,PC,Suspendu,Sci-Fi,Chèque,Hindi,2017-07-13,2015-07-08,2021-04-16,2021-10-25,1786,51,12.79,50,54,211
+65,Brésil,Basic,TV,Annulé,Sci-Fi,Chèque,Japonais,2020-08-25,2021-01-14,2017-11-16,2023-03-09,1063,88,12.02,47,25,67
+66,Inde,Basic,Mobile,Annulé,Sci-Fi,Virement,Espagnol,2015-06-06,2018-02-27,2021-11-20,2022-02-23,3178,51,13.21,26,79,269
+67,Japon,Basic,Mobile,Annulé,Horreur,PayPal,Japonais,2022-11-30,2018-04-05,2023-03-08,2023-09-11,1058,97,10.74,42,44,30
+68,France,Basic,PC,Actif,Horreur,Chèque,Hindi,2022-05-13,2017-05-18,2019-01-09,2023-09-13,1456,16,15.57,61,81,286
+69,France,Standard,Mobile,Actif,Comédie,Virement,Allemand,2020-08-27,2017-09-16,2016-04-15,2017-04-16,2111,98,9.63,62,3,87
+70,Brésil,Basic,PC,Annulé,Action,Virement,Espagnol,2023-06-18,2018-04-02,2018-10-02,2021-03-11,4893,45,12.07,40,67,208
+71,Japon,Standard,TV,Actif,Action,Carte de crédit,Anglais,2021-07-20,2018-12-17,2020-12-18,2021-08-20,4958,96,11.68,28,21,34
+72,Brésil,Basic,TV,Annulé,Documentaire,Chèque,Espagnol,2021-02-24,2022-05-12,2015-05-15,2015-09-05,1601,46,10.33,41,89,255
+73,Japon,Premium,Mobile,Suspendu,Drame,Chèque,Allemand,2016-01-05,2021-01-27,2016-08-04,2016-10-08,1139,49,15.02,21,23,172
+74,Inde,Basic,PC,Actif,Sci-Fi,Virement,Espagnol,2018-04-06,2022-07-01,2019-07-14,2021-08-22,2028,75,9.17,34,33,95
+75,Canada,Premium,TV,Annulé,Drame,PayPal,Japonais,2018-03-09,2019-04-13,2019-01-08,2022-12-30,1996,33,14.13,41,20,12
+76,France,Basic,PC,Suspendu,Action,Virement,Japonais,2023-07-10,2018-01-01,2018-03-19,2018-05-20,926,28,12.64,69,58,134
+77,Allemagne,Basic,TV,Annulé,Sci-Fi,Virement,Anglais,2015-01-20,2020-11-07,2016-07-23,2017-12-21,3784,82,9.85,61,6,94
+78,USA,Standard,Mobile,Suspendu,Action,Chèque,Allemand,2020-05-12,2015-11-15,2021-07-20,2022-04-01,2193,28,14.7,36,98,196
+79,Inde,Standard,TV,Suspendu,Comédie,PayPal,Hindi,2018-07-20,2016-04-05,2022-07-08,2023-02-25,4603,54,14.62,21,32,48
+80,USA,Premium,Mobile,Actif,Comédie,Carte de crédit,Allemand,2019-10-12,2020-01-31,2021-04-13,2022-10-14,1780,62,13.7,46,48,223
+81,Canada,Standard,PC,Annulé,Sci-Fi,Chèque,Japonais,2015-02-24,2017-07-02,2021-08-18,2022-08-05,1873,77,11.91,55,45,155
+82,Canada,Standard,Mobile,Annulé,Horreur,Virement,Anglais,2018-02-20,2021-02-04,2015-07-30,2018-04-21,3275,87,8.9,61,58,275
+83,USA,Standard,PC,Suspendu,Action,Virement,Japonais,2023-07-22,2022-12-25,2023-07-31,2023-08-19,1290,46,6.08,36,44,7
+84,Allemagne,Premium,PC,Annulé,Action,Virement,Hindi,2021-06-14,2023-11-10,2022-12-07,2023-11-21,799,59,15.91,19,77,258
+85,Japon,Standard,Mobile,Suspendu,Drame,Chèque,Allemand,2018-05-30,2019-07-21,2015-11-07,2022-04-28,2287,42,11.01,43,3,80
+86,Brésil,Premium,PC,Actif,Action,Chèque,Espagnol,2023-06-04,2015-03-18,2019-10-26,2020-01-18,265,16,12.03,51,94,62
+87,Canada,Standard,Tablette,Annulé,Horreur,Carte de crédit,Espagnol,2022-02-03,2022-03-28,2021-01-10,2021-05-21,4388,35,12.47,48,83,140
+88,Japon,Premium,Mobile,Actif,Comédie,Chèque,Hindi,2019-10-22,2017-04-06,2023-05-10,2023-10-19,1365,73,7.79,65,5,14
+89,Japon,Standard,PC,Suspendu,Action,PayPal,Français,2022-01-06,2018-05-21,2017-01-28,2019-07-20,999,12,9.95,56,62,229
+90,Inde,Basic,PC,Annulé,Comédie,PayPal,Hindi,2017-02-14,2023-08-20,2020-11-14,2021-11-12,3337,73,6.4,40,17,272
+91,Brésil,Standard,Tablette,Actif,Action,Virement,Anglais,2018-07-20,2015-01-07,2020-09-26,2020-11-10,1556,21,11.83,53,47,99
+92,France,Basic,Tablette,Actif,Sci-Fi,PayPal,Français,2017-09-04,2021-04-28,2021-05-08,2021-07-18,4767,70,12.96,31,16,10
+93,Japon,Standard,Mobile,Actif,Documentaire,Carte de crédit,Anglais,2019-12-23,2016-12-05,2018-10-16,2021-05-11,1602,71,11.76,54,3,164
+94,Japon,Basic,PC,Actif,Sci-Fi,Chèque,Allemand,2021-06-10,2019-01-14,2019-12-29,2021-06-20,2894,68,10.54,69,6,215
+95,France,Standard,Mobile,Suspendu,Sci-Fi,Chèque,Hindi,2020-01-26,2022-12-20,2017-07-06,2020-09-12,4137,93,12.05,36,7,11
+96,Allemagne,Basic,Tablette,Suspendu,Drame,Chèque,Anglais,2017-11-10,2020-08-22,2018-10-07,2023-08-18,128,79,14.2,31,68,294
+97,Japon,Basic,Tablette,Suspendu,Action,Virement,Hindi,2021-04-26,2017-11-07,2019-02-10,2019-08-08,2958,25,8.47,44,46,20
+98,Inde,Premium,Mobile,Actif,Horreur,Chèque,Hindi,2023-04-08,2023-07-15,2015-12-04,2019-09-09,4638,75,8.38,58,63,109
+99,Canada,Premium,PC,Actif,Documentaire,PayPal,Hindi,2016-07-16,2018-05-04,2023-07-25,2024-04-24,2567,25,12.18,63,70,58
+100,Inde,Standard,PC,Actif,Horreur,PayPal,Espagnol,2016-12-09,2020-07-02,2018-11-14,2019-02-20,542,8,8.45,46,58,283
+101,Allemagne,Basic,TV,Actif,Documentaire,Chèque,Hindi,2018-01-14,2017-03-06,2019-12-19,2020-12-02,962,85,7.41,59,42,228
+102,Japon,Basic,Tablette,Annulé,Horreur,Carte de crédit,Anglais,2018-08-13,2021-09-25,2016-04-02,2018-09-02,2197,91,9.11,72,41,90
+103,Canada,Standard,PC,Suspendu,Horreur,PayPal,Hindi,2020-01-14,2023-06-04,2017-06-01,2021-02-04,551,38,11.42,38,92,49
+104,Japon,Basic,Mobile,Suspendu,Drame,Virement,Anglais,2016-04-22,2018-09-19,2019-12-09,2023-08-11,1227,24,7.18,65,74,299
+105,Allemagne,Standard,Mobile,Annulé,Documentaire,Chèque,Français,2021-04-25,2017-08-04,2017-01-09,2017-01-25,2762,41,10.67,52,92,268
+106,France,Standard,TV,Suspendu,Sci-Fi,Carte de crédit,Espagnol,2016-09-01,2020-06-23,2019-04-29,2021-06-11,674,79,10.09,29,91,66
+107,Allemagne,Premium,Tablette,Annulé,Sci-Fi,Chèque,Allemand,2022-08-26,2019-04-24,2018-05-20,2018-07-31,530,71,6.96,25,45,51
+108,USA,Premium,TV,Annulé,Drame,Carte de crédit,Espagnol,2018-09-01,2020-10-16,2021-10-28,2022-04-08,3977,78,9.42,41,27,65
+109,France,Premium,Tablette,Annulé,Horreur,Virement,Japonais,2015-06-02,2017-01-24,2022-08-07,2022-08-13,4434,4,14.51,38,46,238
+110,Brésil,Premium,Tablette,Actif,Comédie,Chèque,Français,2021-10-15,2022-09-23,2016-09-22,2021-04-13,3029,86,11.48,50,59,145
+111,Canada,Premium,PC,Suspendu,Horreur,Chèque,Japonais,2021-12-23,2022-08-13,2015-01-20,2018-04-09,2399,85,11.98,53,28,246
+112,Brésil,Premium,Tablette,Actif,Comédie,Virement,Français,2021-01-11,2015-06-01,2022-04-01,2022-09-03,3861,40,13.3,53,20,269
+113,Canada,Basic,Mobile,Annulé,Comédie,PayPal,Hindi,2015-05-10,2020-08-05,2021-10-24,2022-03-13,3845,40,7.08,56,55,13
+114,Inde,Premium,TV,Annulé,Comédie,Carte de crédit,Japonais,2020-01-14,2016-02-01,2015-06-25,2022-05-24,2869,66,10.61,67,28,3
+115,Canada,Standard,Mobile,Annulé,Sci-Fi,Carte de crédit,Japonais,2022-04-07,2019-08-18,2020-06-30,2022-04-27,3090,9,12.28,56,78,250
+116,USA,Basic,TV,Suspendu,Comédie,Chèque,Français,2023-05-04,2017-07-21,2020-10-13,2023-03-31,1303,70,10.92,40,26,150
+117,France,Basic,Tablette,Suspendu,Action,Carte de crédit,Hindi,2023-06-18,2022-07-29,2023-09-02,2024-06-24,694,72,12.1,47,2,163
+118,Inde,Standard,TV,Suspendu,Drame,Virement,Français,2020-03-20,2022-04-04,2022-03-30,2022-06-05,283,62,10.01,44,2,165
+119,Japon,Basic,Tablette,Actif,Comédie,Chèque,Allemand,2019-08-03,2018-09-24,2019-10-19,2019-11-01,3602,93,12.89,53,77,275
+120,Allemagne,Premium,Tablette,Suspendu,Horreur,Chèque,Espagnol,2016-03-11,2016-09-22,2020-11-17,2021-01-14,4963,2,15.55,49,66,35
+121,Brésil,Basic,Tablette,Suspendu,Action,PayPal,Japonais,2021-01-05,2023-03-14,2019-05-11,2020-02-29,1767,11,11.18,57,77,75
+122,Canada,Basic,TV,Suspendu,Documentaire,PayPal,Espagnol,2020-05-23,2023-10-03,2019-06-05,2023-11-19,2499,81,6.89,74,44,133
+123,France,Premium,PC,Suspendu,Horreur,Chèque,Allemand,2022-03-15,2018-08-27,2017-07-01,2017-07-25,1868,24,14.8,63,79,13
+124,Japon,Basic,Mobile,Suspendu,Sci-Fi,Carte de crédit,Anglais,2021-07-04,2015-08-27,2019-03-28,2019-12-31,2423,68,8.9,26,12,22
+125,Allemagne,Standard,TV,Actif,Action,PayPal,Anglais,2023-05-04,2019-05-25,2016-03-27,2022-04-30,2389,50,12.09,60,9,235
+126,France,Premium,TV,Annulé,Action,Chèque,Hindi,2020-01-27,2018-10-02,2015-11-07,2018-02-10,3441,3,13.67,47,14,96
+127,Canada,Standard,Mobile,Actif,Sci-Fi,Carte de crédit,Espagnol,2023-12-09,2020-07-31,2023-09-12,2023-09-12,29,41,10.36,23,94,266
+128,Brésil,Standard,Mobile,Annulé,Sci-Fi,PayPal,Allemand,2018-10-25,2022-05-07,2017-11-28,2021-02-22,3084,91,7.82,36,43,132
+129,Canada,Premium,Mobile,Annulé,Horreur,Chèque,Espagnol,2017-04-30,2016-08-27,2015-05-28,2018-05-02,4366,28,10.25,19,1,207
+130,Inde,Standard,Mobile,Annulé,Comédie,Carte de crédit,Français,2021-09-29,2020-01-30,2017-09-30,2020-11-25,3232,55,8.86,74,5,26
+131,Inde,Premium,Mobile,Actif,Drame,Virement,Anglais,2016-04-24,2021-02-04,2022-08-05,2023-05-25,4523,55,12.04,46,53,100
+132,Inde,Premium,PC,Actif,Comédie,Virement,Français,2020-04-22,2021-04-25,2019-08-01,2020-01-25,3488,96,7.01,65,92,2
+133,Canada,Standard,TV,Actif,Horreur,Chèque,Allemand,2015-11-18,2015-09-13,2019-11-07,2020-07-18,1830,22,10.49,73,19,173
+134,USA,Standard,Tablette,Annulé,Sci-Fi,Virement,Anglais,2022-04-27,2015-12-15,2016-06-13,2016-07-26,2187,76,10.05,27,22,120
+135,Inde,Basic,TV,Suspendu,Horreur,PayPal,Japonais,2021-12-20,2023-08-20,2021-11-21,2022-10-16,1113,35,13.02,44,37,282
+136,Allemagne,Standard,Tablette,Annulé,Drame,Chèque,Anglais,2015-02-18,2015-08-03,2018-12-22,2019-06-12,1338,86,11.14,18,54,271
+137,Japon,Standard,TV,Actif,Documentaire,Virement,Anglais,2017-08-17,2020-01-28,2022-01-28,2022-11-30,4941,85,11.68,71,42,201
+138,Inde,Basic,Mobile,Annulé,Horreur,Virement,Français,2022-08-17,2020-09-03,2023-03-25,2023-09-10,4386,17,15.93,34,0,28
+139,Allemagne,Premium,PC,Suspendu,Drame,Chèque,Anglais,2022-08-21,2015-02-22,2015-09-02,2018-10-14,2989,72,7.54,56,35,287
+140,Allemagne,Standard,Mobile,Actif,Documentaire,Chèque,Français,2018-04-22,2016-07-22,2016-07-02,2017-10-13,328,56,7.47,55,10,151
+141,Canada,Basic,TV,Actif,Horreur,Chèque,Japonais,2019-06-21,2017-04-10,2017-01-04,2017-03-28,3829,95,12.66,42,48,122
+142,Japon,Basic,TV,Actif,Documentaire,Carte de crédit,Espagnol,2016-07-03,2019-08-24,2020-02-10,2020-07-23,2494,22,7.24,57,73,195
+143,USA,Premium,PC,Suspendu,Sci-Fi,Chèque,Espagnol,2019-11-17,2020-05-22,2018-02-14,2018-02-28,3072,16,9.76,30,56,96
+144,USA,Standard,PC,Actif,Comédie,Carte de crédit,Anglais,2016-10-05,2020-12-28,2019-10-20,2020-09-05,1451,74,11.34,19,23,154
+145,Canada,Basic,Tablette,Actif,Horreur,Virement,Français,2019-12-19,2019-01-10,2016-08-20,2022-11-28,2077,17,9.33,40,61,151
+146,Brésil,Standard,PC,Annulé,Documentaire,PayPal,Allemand,2015-08-29,2023-03-28,2016-09-11,2023-04-23,2876,95,7.35,51,6,182
+147,Japon,Standard,PC,Annulé,Drame,PayPal,Français,2023-06-06,2022-10-11,2022-01-25,2022-10-27,685,60,8.09,38,74,105
+148,Inde,Premium,TV,Actif,Drame,Chèque,Anglais,2017-05-31,2019-11-02,2023-05-13,2024-02-08,2157,19,11.86,71,23,20
+149,Allemagne,Standard,TV,Actif,Sci-Fi,Virement,Hindi,2023-07-09,2021-07-12,2015-12-16,2016-04-20,1199,21,13.4,39,45,145
+150,Allemagne,Basic,Tablette,Annulé,Sci-Fi,Carte de crédit,Anglais,2022-04-14,2020-07-10,2020-10-23,2022-08-26,3626,35,8.25,36,94,184
+151,USA,Basic,PC,Suspendu,Action,Virement,Japonais,2020-07-05,2015-10-31,2021-09-29,2022-02-25,2721,91,12.42,50,4,54
+152,Inde,Standard,PC,Annulé,Drame,Carte de crédit,Anglais,2021-08-11,2021-08-22,2017-01-15,2018-04-21,900,95,7.86,60,31,35
+153,Japon,Basic,TV,Actif,Action,PayPal,Français,2020-09-30,2015-09-23,2017-06-11,2023-02-10,2079,1,12.13,51,3,142
+154,France,Premium,Tablette,Annulé,Sci-Fi,PayPal,Japonais,2020-07-14,2015-06-15,2022-03-24,2022-10-29,4505,84,15.86,54,0,135
+155,Inde,Standard,PC,Actif,Horreur,Virement,Espagnol,2018-06-20,2022-09-17,2022-12-24,2023-06-26,4459,1,6.17,34,70,289
+156,Inde,Standard,TV,Annulé,Horreur,Chèque,Japonais,2021-05-24,2015-02-22,2018-08-16,2020-07-05,1336,45,13.17,73,36,47
+157,Brésil,Basic,TV,Actif,Comédie,Carte de crédit,Allemand,2018-09-11,2018-09-20,2021-10-26,2022-04-23,2159,3,14.03,45,29,102
+158,Allemagne,Standard,PC,Suspendu,Action,Virement,Français,2022-10-28,2021-11-10,2020-08-26,2021-03-19,3575,89,11.83,35,37,4
+159,Japon,Basic,PC,Suspendu,Documentaire,PayPal,Espagnol,2021-04-12,2021-07-09,2019-01-14,2022-04-27,3677,35,6.99,49,94,295
+160,Brésil,Standard,TV,Actif,Horreur,Carte de crédit,Hindi,2015-08-18,2023-11-12,2018-10-06,2021-05-20,4105,50,11.08,74,26,18
+161,Canada,Premium,Tablette,Suspendu,Drame,Chèque,Allemand,2020-03-11,2020-12-18,2016-03-08,2022-12-12,4422,84,8.12,31,93,114
+162,USA,Standard,Tablette,Actif,Comédie,Chèque,Japonais,2017-10-28,2023-11-18,2022-01-24,2022-10-30,2614,15,12.11,62,74,49
+163,Brésil,Standard,Tablette,Suspendu,Documentaire,Chèque,Hindi,2019-03-13,2018-05-29,2020-09-27,2021-02-01,3936,42,7.23,69,79,298
+164,Inde,Standard,PC,Suspendu,Sci-Fi,Carte de crédit,Japonais,2019-07-09,2018-10-16,2016-01-14,2016-02-23,2672,99,6.72,37,53,286
+165,Brésil,Standard,Tablette,Annulé,Action,Chèque,Français,2023-05-01,2021-01-09,2021-04-27,2022-08-07,4374,5,6.46,40,68,74
+166,USA,Standard,TV,Actif,Action,Virement,Allemand,2015-01-31,2023-09-18,2017-08-06,2017-12-28,2063,55,15.31,21,11,299
+167,USA,Premium,TV,Annulé,Action,Chèque,Hindi,2022-11-10,2022-10-25,2023-11-07,2023-12-28,1369,82,7.57,53,17,31
+168,Canada,Standard,PC,Actif,Action,PayPal,Français,2022-07-25,2016-01-07,2019-02-18,2021-04-18,3933,32,13.73,48,43,298
+169,USA,Standard,PC,Actif,Documentaire,PayPal,Allemand,2020-06-05,2020-03-27,2016-07-09,2021-06-09,4111,54,6.5,73,24,299
+170,Inde,Premium,Tablette,Suspendu,Horreur,PayPal,Anglais,2021-05-19,2016-06-22,2017-03-23,2019-02-23,1595,96,10.92,48,65,75
+171,Canada,Premium,PC,Annulé,Sci-Fi,Virement,Japonais,2021-06-17,2022-02-09,2020-01-06,2020-10-01,3340,14,10.75,66,31,14
+172,Inde,Standard,PC,Annulé,Horreur,Chèque,Allemand,2022-05-29,2017-02-21,2021-05-23,2023-08-05,575,53,13.58,65,18,78
+173,Allemagne,Premium,Tablette,Annulé,Documentaire,Virement,Espagnol,2023-07-22,2023-06-11,2016-09-16,2017-04-17,42,32,6.43,18,57,204
+174,Japon,Basic,Mobile,Annulé,Drame,PayPal,Espagnol,2022-12-24,2016-03-08,2023-08-23,2024-06-26,3270,19,6.95,74,90,7
+175,France,Premium,Mobile,Actif,Horreur,PayPal,Anglais,2022-02-14,2022-01-10,2015-10-03,2021-03-19,2502,18,7.5,52,56,190
+176,Allemagne,Standard,Mobile,Annulé,Drame,PayPal,Français,2018-02-03,2017-06-09,2021-04-20,2021-11-13,4497,70,6.29,31,33,151
+177,USA,Standard,Mobile,Suspendu,Horreur,Chèque,Hindi,2023-07-24,2016-03-23,2018-01-13,2023-06-10,3712,95,10.02,54,81,210
+178,France,Basic,Mobile,Actif,Comédie,PayPal,Hindi,2019-10-05,2019-07-16,2015-11-07,2023-03-09,2557,43,6.26,62,3,106
+179,Brésil,Premium,Tablette,Annulé,Drame,Virement,Espagnol,2020-06-27,2017-07-03,2016-03-20,2018-07-28,4654,53,12.45,39,90,2
+180,Allemagne,Basic,Mobile,Actif,Sci-Fi,Chèque,Français,2016-05-25,2023-02-04,2016-01-29,2019-08-22,461,74,10.04,34,90,58
+181,France,Premium,PC,Annulé,Action,Chèque,Français,2022-04-26,2015-04-20,2023-02-17,2023-10-09,4907,85,15.37,44,57,151
+182,France,Standard,Mobile,Annulé,Comédie,Virement,Anglais,2017-06-22,2023-10-05,2021-07-17,2023-07-23,3685,7,13.05,56,25,162
+183,Inde,Basic,Tablette,Actif,Comédie,Carte de crédit,Allemand,2016-05-17,2023-08-28,2023-05-08,2023-09-22,2152,64,12.58,18,30,226
+184,Brésil,Standard,PC,Actif,Comédie,Virement,Japonais,2020-07-31,2019-11-13,2022-02-18,2022-12-25,978,85,6.33,37,16,56
+185,Brésil,Premium,Mobile,Annulé,Horreur,Virement,Hindi,2017-01-16,2017-11-27,2023-09-26,2023-12-16,3597,67,13.39,65,47,233
+186,Canada,Standard,TV,Suspendu,Sci-Fi,Chèque,Japonais,2023-07-13,2020-08-14,2015-04-11,2017-09-08,3275,20,8.91,22,84,128
+187,Allemagne,Premium,TV,Actif,Action,Virement,Japonais,2022-07-10,2015-06-03,2019-12-22,2020-04-12,4352,32,11.19,47,87,242
+188,Allemagne,Basic,Mobile,Suspendu,Drame,PayPal,Espagnol,2020-03-28,2015-10-25,2019-06-28,2020-06-15,758,16,8.47,29,83,159
+189,Japon,Premium,TV,Annulé,Action,Virement,Anglais,2018-08-18,2022-10-14,2018-10-06,2018-12-08,4840,35,6.66,24,90,218
+190,France,Standard,Mobile,Actif,Sci-Fi,Chèque,Espagnol,2023-06-16,2023-05-18,2021-12-04,2022-04-25,2611,17,10.98,39,62,242
+191,USA,Premium,Tablette,Actif,Action,PayPal,Hindi,2015-10-15,2018-11-29,2022-11-23,2023-11-10,4564,91,9.32,22,13,135
+192,Canada,Basic,TV,Actif,Comédie,Chèque,Allemand,2021-09-17,2016-01-24,2020-04-28,2021-04-02,925,94,15.25,71,17,287
+193,Brésil,Basic,Mobile,Annulé,Action,PayPal,Espagnol,2015-03-24,2022-08-06,2020-06-13,2020-08-26,4930,34,10.65,19,97,239
+194,USA,Standard,PC,Actif,Comédie,Carte de crédit,Espagnol,2018-03-10,2016-07-31,2020-10-04,2021-06-17,1380,21,10.09,69,51,46
+195,Japon,Standard,PC,Suspendu,Comédie,Carte de crédit,Japonais,2017-12-15,2017-08-24,2020-09-12,2021-04-15,4658,91,11.32,36,96,281
+196,USA,Basic,Mobile,Suspendu,Documentaire,Carte de crédit,Hindi,2018-03-22,2023-06-24,2016-10-30,2020-07-30,4391,48,10.38,73,29,0
+197,Allemagne,Basic,PC,Annulé,Action,Carte de crédit,Français,2020-08-21,2018-08-17,2015-01-13,2021-09-18,4080,7,13.41,50,71,235
+198,France,Basic,Mobile,Annulé,Sci-Fi,PayPal,Allemand,2018-09-08,2017-06-04,2015-07-19,2017-02-18,335,86,6.72,74,93,208
+199,Canada,Premium,Tablette,Suspendu,Horreur,PayPal,Allemand,2018-11-16,2023-05-22,2015-12-28,2016-02-17,2331,44,9.27,70,21,299
+200,Inde,Premium,Mobile,Annulé,Drame,Carte de crédit,Allemand,2023-07-25,2023-08-20,2022-12-07,2023-07-23,3230,0,11.53,33,58,234
+201,Allemagne,Premium,Tablette,Actif,Comédie,Carte de crédit,Hindi,2017-02-13,2018-02-11,2018-01-17,2020-07-18,437,69,6.78,20,80,215
+202,Japon,Basic,Mobile,Actif,Drame,Virement,Hindi,2016-02-18,2018-11-01,2020-04-15,2020-09-18,3765,96,15.19,64,21,96
+203,Canada,Premium,Mobile,Actif,Drame,Carte de crédit,Japonais,2019-10-14,2021-02-12,2018-07-08,2023-07-22,514,56,7.79,64,99,211
+204,Japon,Premium,TV,Annulé,Sci-Fi,Virement,Allemand,2019-11-21,2017-03-08,2016-12-13,2022-02-13,2879,99,15.73,44,8,262
+205,Brésil,Standard,PC,Suspendu,Sci-Fi,Virement,Allemand,2016-05-17,2022-06-29,2022-08-06,2023-02-01,1605,3,8.93,64,95,272
+206,Brésil,Premium,PC,Actif,Horreur,Chèque,Japonais,2018-07-05,2020-06-26,2017-05-18,2021-12-28,855,79,7.83,62,34,296
+207,Allemagne,Basic,PC,Suspendu,Drame,Chèque,Français,2018-02-04,2021-07-13,2019-11-27,2020-05-15,4772,73,7.03,58,37,209
+208,Inde,Premium,Mobile,Annulé,Horreur,PayPal,Allemand,2016-04-12,2019-03-18,2020-07-21,2021-04-03,2016,78,10.0,70,54,205
+209,Allemagne,Premium,PC,Annulé,Action,Carte de crédit,Japonais,2020-11-20,2015-02-25,2017-09-08,2019-11-11,3493,6,8.76,41,31,147
+210,France,Premium,Tablette,Annulé,Horreur,Virement,Anglais,2023-04-15,2015-01-16,2019-08-01,2020-04-11,3457,4,6.9,34,66,294
+211,Inde,Standard,TV,Annulé,Sci-Fi,PayPal,Anglais,2018-02-21,2022-11-22,2015-10-21,2023-04-09,519,78,9.45,50,24,11
+212,Inde,Standard,PC,Annulé,Horreur,Carte de crédit,Espagnol,2017-10-26,2015-03-20,2018-01-26,2018-05-08,2642,82,13.25,63,77,63
+213,Allemagne,Premium,Mobile,Suspendu,Drame,Carte de crédit,Espagnol,2019-06-10,2018-10-15,2023-10-08,2023-11-26,1752,59,15.48,56,77,256
+214,USA,Basic,Tablette,Suspendu,Action,PayPal,Allemand,2019-04-06,2021-06-10,2021-09-20,2021-09-24,2604,67,14.12,70,30,145
+215,USA,Basic,PC,Annulé,Horreur,Chèque,Japonais,2018-04-01,2018-05-29,2015-05-09,2016-07-14,1591,69,12.58,20,63,147
+216,Canada,Standard,TV,Actif,Sci-Fi,Virement,Japonais,2021-12-26,2015-11-28,2023-02-19,2023-10-30,2691,58,11.07,59,57,228
+217,France,Premium,Mobile,Suspendu,Comédie,Chèque,Espagnol,2020-06-25,2017-10-01,2017-07-10,2022-09-20,1697,20,7.98,23,24,128
+218,Inde,Basic,PC,Actif,Comédie,Virement,Français,2023-01-01,2020-04-03,2022-04-13,2022-09-04,1653,8,9.12,70,92,56
+219,USA,Basic,PC,Suspendu,Action,Carte de crédit,Allemand,2020-07-06,2019-06-25,2020-04-28,2020-08-06,2812,20,6.64,74,67,63
+220,Allemagne,Basic,TV,Actif,Comédie,Chèque,Allemand,2017-04-19,2019-12-07,2015-10-02,2016-04-12,1376,11,12.76,30,56,130
+221,France,Premium,Tablette,Suspendu,Documentaire,Virement,Espagnol,2019-05-02,2016-02-08,2018-06-09,2021-11-09,3589,99,7.77,33,96,97
+222,Allemagne,Standard,Mobile,Suspendu,Documentaire,Carte de crédit,Français,2020-05-29,2019-09-04,2018-05-22,2021-08-13,1040,6,11.95,71,24,165
+223,Canada,Standard,PC,Actif,Documentaire,PayPal,Espagnol,2017-11-25,2016-05-30,2019-10-11,2023-05-01,969,93,8.14,30,51,156
+224,USA,Basic,Mobile,Actif,Comédie,PayPal,Japonais,2015-04-20,2018-05-14,2019-08-21,2021-12-17,1744,98,10.16,50,53,69
+225,Brésil,Standard,Tablette,Suspendu,Documentaire,PayPal,Anglais,2023-04-21,2015-06-28,2020-12-30,2021-10-06,3365,41,8.18,36,30,93
+226,France,Basic,PC,Actif,Comédie,PayPal,Allemand,2015-07-01,2021-06-19,2015-01-27,2020-08-20,2544,13,12.81,56,68,148
+227,Canada,Premium,TV,Annulé,Horreur,Chèque,Japonais,2016-06-12,2022-09-25,2016-09-04,2017-11-06,694,47,15.47,27,65,40
+228,Inde,Standard,Mobile,Annulé,Documentaire,Chèque,Français,2020-03-04,2021-04-19,2020-12-14,2021-10-15,4377,31,10.97,53,82,250
+229,Brésil,Basic,Tablette,Actif,Drame,Chèque,Allemand,2020-08-16,2016-11-24,2017-11-24,2017-12-02,1766,92,12.02,54,9,3
+230,Allemagne,Premium,Tablette,Suspendu,Comédie,Chèque,Français,2020-01-18,2022-07-14,2023-08-31,2024-06-06,969,53,6.08,35,29,283
+231,Allemagne,Basic,TV,Actif,Horreur,Chèque,Français,2020-10-13,2017-02-16,2023-11-27,2024-11-17,2623,29,7.92,39,58,179
+232,France,Standard,Tablette,Annulé,Horreur,PayPal,Japonais,2021-05-11,2018-06-20,2018-10-29,2019-03-12,2570,71,7.99,31,24,255
+233,France,Basic,TV,Annulé,Horreur,Virement,Anglais,2017-06-03,2021-11-12,2022-01-11,2022-10-17,993,34,12.54,58,87,36
+234,Brésil,Premium,Mobile,Annulé,Action,Virement,Hindi,2016-12-08,2018-07-11,2023-10-14,2024-09-29,1938,70,9.13,73,1,15
+235,USA,Basic,PC,Actif,Documentaire,Chèque,Hindi,2022-06-12,2017-12-12,2017-03-19,2017-04-03,849,19,9.45,65,60,130
+236,Inde,Premium,TV,Suspendu,Sci-Fi,Carte de crédit,Espagnol,2020-06-10,2020-08-06,2023-06-27,2023-10-12,3240,51,13.61,70,82,139
+237,France,Basic,Tablette,Suspendu,Drame,Virement,Hindi,2020-01-03,2018-04-23,2016-06-04,2016-12-29,1629,72,12.25,36,4,220
+238,Allemagne,Basic,Mobile,Suspendu,Horreur,Virement,Français,2021-09-18,2022-05-16,2020-12-30,2021-01-08,4284,89,14.25,18,48,3
+239,Brésil,Premium,Mobile,Suspendu,Sci-Fi,Carte de crédit,Hindi,2016-01-19,2018-07-27,2021-03-16,2023-10-14,1688,25,9.74,29,98,111
+240,Japon,Basic,PC,Annulé,Comédie,Carte de crédit,Anglais,2018-03-06,2022-09-01,2016-08-22,2021-12-10,4273,73,9.74,51,84,122
+241,France,Standard,Tablette,Annulé,Action,Carte de crédit,Japonais,2017-12-21,2020-02-04,2020-06-25,2023-09-03,1566,14,11.3,38,97,116
+242,Allemagne,Basic,TV,Suspendu,Action,Virement,Français,2019-06-09,2015-01-13,2023-03-21,2023-05-27,4847,67,7.01,54,31,5
+243,France,Standard,Tablette,Suspendu,Drame,PayPal,Anglais,2017-09-26,2020-05-25,2020-09-09,2023-07-20,1499,37,13.7,31,55,100
+244,USA,Basic,Tablette,Actif,Documentaire,PayPal,Anglais,2023-10-07,2021-08-29,2015-11-29,2016-08-31,3679,30,13.52,18,50,93
+245,Japon,Basic,PC,Suspendu,Action,Carte de crédit,Espagnol,2022-09-17,2023-07-14,2017-03-12,2018-09-24,2554,33,12.26,52,23,56
+246,Canada,Premium,Tablette,Annulé,Sci-Fi,PayPal,Japonais,2018-05-31,2018-04-30,2015-09-09,2017-03-12,71,97,12.89,20,17,62
+247,USA,Basic,Tablette,Actif,Horreur,Chèque,Hindi,2016-05-12,2020-07-27,2018-01-23,2018-05-26,3488,26,12.99,66,86,48
+248,Inde,Standard,TV,Annulé,Documentaire,Carte de crédit,Anglais,2020-07-30,2018-09-02,2021-02-26,2022-11-03,3198,14,10.43,70,42,246
+249,Inde,Standard,Tablette,Actif,Action,Virement,Français,2023-05-27,2019-05-13,2018-02-19,2018-04-08,246,64,11.09,22,87,74
+250,USA,Basic,Tablette,Actif,Action,Carte de crédit,Espagnol,2019-05-17,2017-07-08,2020-08-26,2021-04-17,996,27,11.44,40,76,147
+251,Allemagne,Premium,Tablette,Annulé,Sci-Fi,Virement,Hindi,2021-02-17,2023-05-15,2023-01-13,2023-05-08,3095,95,7.09,73,16,209
+252,Inde,Basic,Tablette,Suspendu,Action,Carte de crédit,Japonais,2020-11-22,2022-05-03,2016-06-13,2021-05-10,2358,67,9.61,37,98,43
+253,Brésil,Standard,Mobile,Actif,Documentaire,Chèque,Allemand,2016-12-27,2020-02-23,2022-07-13,2022-10-13,1529,1,13.51,61,0,23
+254,USA,Standard,TV,Annulé,Documentaire,PayPal,Hindi,2021-11-01,2015-06-20,2016-10-28,2022-12-28,3605,79,7.43,63,93,19
+255,Canada,Premium,Mobile,Actif,Documentaire,Chèque,Hindi,2023-10-02,2023-11-25,2017-11-15,2020-08-09,356,98,6.72,31,27,55
+256,Brésil,Basic,PC,Annulé,Documentaire,Chèque,Anglais,2016-01-23,2020-08-24,2020-10-10,2020-12-14,2128,47,11.66,39,20,90
+257,Allemagne,Premium,TV,Actif,Sci-Fi,Carte de crédit,Espagnol,2022-12-22,2020-09-28,2015-03-10,2017-05-28,2077,32,9.55,51,67,197
+258,Allemagne,Premium,PC,Suspendu,Documentaire,Chèque,Anglais,2019-12-30,2017-04-02,2015-09-29,2021-03-12,2801,67,11.41,65,48,231
+259,Allemagne,Basic,PC,Actif,Horreur,Virement,Français,2015-02-18,2016-06-11,2022-02-15,2022-03-05,3697,30,10.94,68,41,146
+260,Inde,Standard,Mobile,Actif,Drame,Carte de crédit,Hindi,2019-08-08,2022-06-22,2023-12-09,2024-03-01,3465,12,13.62,51,47,82
+261,Inde,Premium,PC,Actif,Comédie,Chèque,Hindi,2023-03-27,2022-03-22,2019-09-10,2020-04-27,1886,65,9.32,32,68,243
+262,USA,Basic,Mobile,Annulé,Sci-Fi,Carte de crédit,Hindi,2015-04-19,2019-05-13,2023-03-29,2023-06-19,4913,50,13.35,33,47,239
+263,Brésil,Premium,PC,Suspendu,Drame,Chèque,Hindi,2020-05-04,2020-11-10,2016-12-03,2018-02-02,3948,12,15.08,24,77,24
+264,Japon,Premium,Tablette,Annulé,Horreur,Chèque,Français,2023-01-16,2020-03-13,2018-06-25,2019-06-25,2895,6,12.01,55,85,45
+265,Inde,Standard,PC,Annulé,Horreur,Virement,Français,2022-01-11,2017-10-20,2019-12-12,2021-03-22,2424,46,6.31,73,95,16
+266,Allemagne,Premium,Tablette,Annulé,Drame,Chèque,Japonais,2020-10-25,2017-07-13,2017-11-18,2018-06-27,1466,35,7.33,33,0,134
+267,Brésil,Basic,PC,Annulé,Sci-Fi,PayPal,Anglais,2016-07-25,2015-09-28,2022-03-27,2022-12-03,1499,9,9.18,58,69,231
+268,Allemagne,Basic,Tablette,Annulé,Comédie,PayPal,Anglais,2021-10-22,2018-04-27,2017-07-23,2018-12-03,1549,11,11.42,62,2,189
+269,Brésil,Standard,Tablette,Annulé,Action,Chèque,Hindi,2017-11-09,2017-12-10,2016-07-12,2017-04-21,506,29,6.73,65,7,44
+270,Japon,Basic,TV,Suspendu,Action,Virement,Espagnol,2019-03-12,2015-02-10,2023-10-24,2023-11-04,3214,28,9.0,66,53,264
+271,USA,Basic,PC,Suspendu,Comédie,Carte de crédit,Français,2019-09-10,2019-07-16,2019-06-24,2022-03-20,2357,46,10.72,67,44,68
+272,Inde,Standard,PC,Actif,Sci-Fi,Carte de crédit,Allemand,2016-02-27,2019-06-17,2016-01-08,2016-01-22,3410,79,11.21,24,14,191
+273,France,Basic,Tablette,Actif,Documentaire,Chèque,Anglais,2019-07-01,2020-12-27,2018-01-08,2019-03-15,2851,7,13.13,25,16,271
+274,Japon,Premium,PC,Suspendu,Action,Chèque,Anglais,2017-09-25,2023-08-07,2015-01-11,2018-11-13,1535,51,15.95,42,49,47
+275,Japon,Standard,Mobile,Annulé,Horreur,Chèque,Anglais,2020-05-09,2015-08-15,2022-10-01,2023-01-04,2853,23,10.19,67,5,208
+276,Inde,Basic,TV,Actif,Action,Carte de crédit,Français,2019-01-02,2019-07-16,2018-10-02,2019-01-26,2715,61,10.07,18,95,166
+277,Allemagne,Basic,TV,Annulé,Drame,Carte de crédit,Espagnol,2017-08-07,2017-05-24,2023-05-21,2024-01-22,1265,29,10.58,67,53,270
+278,Canada,Premium,TV,Annulé,Sci-Fi,PayPal,Anglais,2019-08-02,2018-08-06,2016-10-18,2022-05-19,2999,3,13.93,27,78,154
+279,France,Basic,PC,Actif,Drame,Carte de crédit,Japonais,2018-09-23,2020-05-07,2019-03-20,2020-03-15,765,83,9.14,18,49,294
+280,Canada,Basic,Tablette,Suspendu,Sci-Fi,Virement,Allemand,2020-12-16,2023-03-22,2020-03-05,2020-10-28,544,18,7.09,71,70,206
+281,Allemagne,Standard,TV,Suspendu,Drame,PayPal,Allemand,2022-09-08,2016-02-03,2022-04-03,2022-04-20,198,32,13.75,47,33,222
+282,Canada,Standard,Mobile,Annulé,Action,PayPal,Allemand,2023-09-20,2018-09-02,2022-02-23,2022-07-17,4042,54,13.98,67,47,44
+283,Japon,Basic,Mobile,Actif,Drame,Chèque,Anglais,2017-05-24,2020-10-10,2016-12-19,2017-12-18,4976,74,6.44,60,68,161
+284,Japon,Standard,PC,Annulé,Drame,Virement,Japonais,2022-07-21,2019-02-09,2017-09-23,2019-12-07,1780,93,13.03,23,87,62
+285,Allemagne,Basic,Tablette,Annulé,Documentaire,Chèque,Anglais,2021-08-16,2019-11-17,2023-11-02,2024-03-07,1061,67,6.2,29,10,182
+286,Japon,Premium,Mobile,Suspendu,Action,Carte de crédit,Allemand,2017-11-29,2022-03-10,2019-05-31,2020-01-11,185,18,13.52,30,45,148
+287,Allemagne,Standard,TV,Actif,Documentaire,PayPal,Allemand,2021-09-08,2016-11-23,2020-10-30,2021-08-07,2720,6,15.0,50,66,35
+288,France,Premium,TV,Suspendu,Comédie,PayPal,Anglais,2020-03-24,2018-11-17,2019-02-08,2019-08-30,575,12,13.92,26,47,175
+289,USA,Premium,TV,Suspendu,Comédie,Chèque,Anglais,2016-07-15,2021-02-20,2020-03-11,2020-12-21,422,70,14.26,21,0,223
+290,Inde,Premium,TV,Actif,Action,Virement,Hindi,2015-11-16,2021-07-19,2022-09-02,2023-05-16,286,36,10.35,56,27,110
+291,France,Premium,PC,Actif,Horreur,Virement,Anglais,2018-06-30,2015-07-09,2022-08-01,2023-01-03,676,52,10.99,45,65,125
+292,Inde,Standard,Tablette,Suspendu,Drame,PayPal,Anglais,2018-07-22,2015-01-24,2015-11-09,2018-04-30,1018,81,8.64,34,88,284
+293,Allemagne,Premium,PC,Actif,Documentaire,Virement,Anglais,2022-01-03,2020-09-17,2021-10-05,2022-02-18,2640,46,7.78,57,66,223
+294,France,Standard,PC,Annulé,Drame,Carte de crédit,Allemand,2020-07-25,2022-03-17,2015-06-13,2019-06-01,4574,32,15.7,35,20,243
+295,France,Premium,TV,Suspendu,Sci-Fi,Virement,Français,2017-01-10,2022-05-01,2019-10-15,2020-02-18,777,22,15.57,62,21,9
+296,Japon,Premium,PC,Suspendu,Horreur,Carte de crédit,Espagnol,2019-03-20,2022-11-21,2017-10-22,2019-11-18,3816,33,6.47,58,7,243
+297,Japon,Standard,Tablette,Actif,Action,PayPal,Japonais,2019-06-21,2023-04-28,2020-01-03,2020-09-05,4514,71,14.99,30,45,14
+298,Inde,Basic,PC,Annulé,Horreur,Carte de crédit,Allemand,2023-03-22,2016-07-11,2020-03-11,2021-02-27,3308,6,6.69,73,79,152
+299,Canada,Premium,Mobile,Actif,Action,Carte de crédit,Français,2017-08-19,2022-01-30,2016-04-09,2023-10-03,2732,94,6.59,66,2,19
+300,Japon,Premium,PC,Suspendu,Sci-Fi,Carte de crédit,Anglais,2023-05-15,2017-08-24,2015-03-09,2021-05-26,1704,39,15.16,42,40,172
+301,Canada,Basic,Mobile,Suspendu,Drame,Virement,Français,2023-10-19,2022-03-21,2022-07-28,2023-09-04,266,3,14.8,53,64,198
+302,Canada,Premium,Tablette,Annulé,Sci-Fi,PayPal,Allemand,2018-10-19,2016-09-19,2022-09-11,2022-10-24,1688,34,15.57,23,48,45
+303,Canada,Premium,Tablette,Annulé,Drame,Virement,Français,2020-06-12,2023-11-18,2021-04-06,2023-04-06,3124,67,14.29,66,3,118
+304,France,Basic,PC,Actif,Horreur,PayPal,Allemand,2020-02-08,2022-03-14,2023-09-25,2024-08-17,4945,43,14.14,43,89,85
+305,Canada,Standard,Tablette,Actif,Horreur,Virement,Japonais,2019-03-16,2019-06-28,2022-04-13,2023-01-01,4858,85,14.28,36,5,288
+306,USA,Premium,PC,Actif,Comédie,PayPal,Allemand,2019-03-04,2023-09-13,2022-09-04,2023-02-15,2181,69,13.95,46,12,38
+307,Brésil,Standard,Mobile,Actif,Drame,Carte de crédit,Allemand,2020-03-13,2019-08-13,2017-03-27,2018-09-21,1595,67,14.42,43,85,59
+308,USA,Standard,TV,Annulé,Horreur,Carte de crédit,Hindi,2023-04-06,2019-05-25,2021-01-16,2023-10-02,2546,49,8.38,37,35,180
+309,Japon,Premium,PC,Actif,Sci-Fi,Virement,Français,2021-08-07,2017-12-07,2015-06-04,2019-05-20,2886,28,9.46,57,16,239
+310,Canada,Basic,Tablette,Actif,Action,Carte de crédit,Espagnol,2022-12-31,2019-03-21,2016-06-04,2020-02-23,1777,2,15.9,48,30,190
+311,France,Standard,PC,Actif,Documentaire,Chèque,Allemand,2017-08-10,2019-04-27,2021-12-04,2022-03-26,2555,1,6.58,30,69,157
+312,Canada,Premium,Tablette,Suspendu,Action,PayPal,Français,2016-06-12,2022-08-24,2023-01-07,2023-10-28,4901,56,6.86,56,52,262
+313,Japon,Standard,PC,Actif,Drame,Chèque,Anglais,2018-07-27,2020-02-20,2018-01-22,2018-02-04,4738,57,10.02,29,74,210
+314,Inde,Premium,Mobile,Suspendu,Action,Chèque,Hindi,2016-05-22,2017-06-23,2020-12-06,2022-06-28,2261,93,12.05,39,72,13
+315,Allemagne,Basic,TV,Annulé,Drame,PayPal,Français,2018-09-22,2016-03-14,2018-04-30,2018-07-24,791,96,13.1,24,56,124
+316,USA,Premium,TV,Annulé,Drame,Chèque,Français,2017-03-11,2021-10-29,2015-05-10,2018-05-14,1725,75,6.42,27,36,22
+317,Allemagne,Standard,Mobile,Suspendu,Sci-Fi,PayPal,Français,2016-03-15,2020-04-02,2015-12-14,2022-07-11,762,26,8.41,47,68,163
+318,Allemagne,Standard,Mobile,Suspendu,Horreur,Virement,Hindi,2016-05-31,2016-04-15,2016-08-13,2021-05-31,3523,15,13.51,26,18,187
+319,Allemagne,Premium,Tablette,Suspendu,Comédie,Chèque,Anglais,2019-02-02,2021-11-16,2021-06-09,2021-08-28,1549,34,13.64,45,64,227
+320,Allemagne,Basic,PC,Actif,Horreur,PayPal,Espagnol,2019-10-09,2016-11-10,2022-07-15,2023-06-28,2201,8,15.8,47,92,133
+321,Japon,Premium,Tablette,Annulé,Sci-Fi,Carte de crédit,Français,2015-02-23,2016-10-25,2015-12-22,2019-05-01,1462,21,13.55,51,35,53
+322,Inde,Basic,TV,Suspendu,Sci-Fi,Chèque,Allemand,2021-03-22,2017-11-11,2017-06-21,2018-05-11,1286,96,6.16,23,48,287
+323,France,Basic,Mobile,Annulé,Drame,PayPal,Japonais,2018-10-23,2017-07-23,2015-07-09,2017-08-05,3679,35,13.37,18,48,193
+324,Allemagne,Premium,Mobile,Annulé,Sci-Fi,Carte de crédit,Anglais,2020-09-14,2017-09-15,2016-10-10,2022-07-15,2609,36,14.25,65,48,74
+325,Inde,Basic,Mobile,Annulé,Drame,Virement,Japonais,2017-03-19,2018-12-11,2019-09-10,2023-10-14,2041,66,7.59,61,31,184
+326,Japon,Premium,Mobile,Annulé,Drame,PayPal,Anglais,2022-01-10,2018-01-06,2021-05-30,2022-05-23,22,14,7.82,50,73,55
+327,USA,Standard,Mobile,Suspendu,Horreur,Virement,Espagnol,2021-09-23,2019-07-21,2018-04-11,2019-01-12,521,7,12.52,51,67,152
+328,USA,Premium,Tablette,Suspendu,Comédie,Virement,Hindi,2017-07-07,2018-11-21,2015-03-02,2015-10-13,2074,66,6.49,19,56,28
+329,USA,Standard,Tablette,Annulé,Drame,Carte de crédit,Japonais,2018-03-09,2023-08-17,2016-08-07,2019-08-07,3895,16,10.3,59,58,83
+330,Canada,Premium,Mobile,Actif,Comédie,Virement,Français,2015-10-01,2017-02-23,2017-12-15,2022-01-26,3318,79,15.06,36,46,124
+331,Inde,Standard,TV,Actif,Documentaire,Chèque,Hindi,2017-09-10,2022-12-26,2021-05-04,2021-06-20,568,68,7.0,50,64,150
+332,USA,Premium,PC,Annulé,Comédie,Chèque,Espagnol,2015-05-30,2022-08-27,2023-08-16,2024-03-13,4117,59,15.55,31,44,203
+333,Allemagne,Standard,TV,Actif,Documentaire,Chèque,Japonais,2021-04-10,2023-08-19,2015-05-30,2015-08-28,3969,31,10.24,39,77,114
+334,France,Basic,PC,Annulé,Documentaire,Carte de crédit,Japonais,2018-06-06,2017-07-26,2019-02-27,2021-03-14,1247,31,15.12,29,86,252
+335,France,Premium,TV,Suspendu,Sci-Fi,Virement,Japonais,2019-10-19,2020-09-12,2020-01-28,2020-04-17,1403,5,12.13,25,1,67
+336,Japon,Premium,Tablette,Annulé,Action,PayPal,Anglais,2021-03-31,2019-01-10,2023-05-09,2023-08-01,1293,91,7.04,53,94,293
+337,Inde,Premium,PC,Suspendu,Drame,Chèque,Japonais,2021-05-07,2021-12-18,2017-03-18,2017-09-14,1471,54,13.77,29,75,57
+338,USA,Standard,PC,Suspendu,Documentaire,Virement,Espagnol,2023-09-12,2020-09-12,2020-05-05,2021-05-15,1673,90,7.32,71,19,82
+339,Japon,Standard,TV,Suspendu,Action,PayPal,Anglais,2021-07-09,2019-10-13,2018-11-18,2022-04-01,899,79,6.07,43,24,133
+340,Japon,Basic,Tablette,Annulé,Documentaire,Carte de crédit,Hindi,2015-06-06,2023-08-23,2020-06-28,2021-02-15,3526,76,10.21,26,45,56
+341,France,Basic,PC,Annulé,Comédie,Carte de crédit,Japonais,2020-04-24,2015-06-09,2016-12-20,2022-05-21,1029,47,12.01,59,67,113
+342,Inde,Standard,Tablette,Suspendu,Documentaire,Virement,Japonais,2016-11-03,2016-11-16,2020-01-13,2021-01-04,2992,39,7.26,54,45,241
+343,Inde,Basic,Mobile,Actif,Comédie,Carte de crédit,Allemand,2023-05-04,2018-07-10,2022-07-31,2023-07-30,4360,35,13.27,37,2,149
+344,Allemagne,Basic,Mobile,Actif,Documentaire,Carte de crédit,Anglais,2022-07-18,2017-03-18,2023-05-01,2024-02-10,243,12,6.09,59,95,230
+345,Japon,Standard,PC,Suspendu,Drame,Virement,Allemand,2018-06-17,2023-01-23,2023-07-08,2024-05-27,666,98,12.81,19,32,85
+346,France,Standard,TV,Annulé,Drame,Carte de crédit,Français,2017-05-16,2015-09-02,2022-10-15,2023-05-04,4849,44,7.46,60,94,113
+347,Japon,Premium,Mobile,Suspendu,Action,PayPal,Anglais,2016-11-12,2023-04-04,2021-04-08,2021-10-09,2879,42,13.41,66,15,252
+348,Brésil,Premium,PC,Annulé,Comédie,Virement,Espagnol,2021-09-04,2020-04-17,2016-12-08,2019-09-08,1881,24,13.71,24,79,72
+349,Brésil,Premium,Mobile,Actif,Action,Virement,Japonais,2015-02-16,2018-01-20,2019-11-06,2020-08-29,3323,90,11.73,21,99,239
+350,USA,Standard,Tablette,Actif,Action,Chèque,Japonais,2022-03-03,2016-04-04,2018-07-01,2018-10-08,2581,71,10.66,32,8,132
+351,Canada,Standard,Tablette,Annulé,Drame,PayPal,Hindi,2021-05-18,2019-03-09,2022-12-01,2023-07-14,3009,30,11.26,55,33,205
+352,France,Standard,TV,Annulé,Comédie,Chèque,Français,2023-04-29,2021-11-27,2022-05-25,2023-03-31,4126,27,15.86,37,98,261
+353,Inde,Standard,PC,Annulé,Horreur,Virement,Japonais,2015-04-01,2017-11-21,2021-02-11,2021-07-26,693,76,10.68,53,45,175
+354,Allemagne,Basic,Mobile,Actif,Documentaire,PayPal,Hindi,2019-05-19,2017-11-04,2023-10-02,2024-05-20,3082,73,7.22,31,61,131
+355,Brésil,Standard,Mobile,Suspendu,Comédie,Carte de crédit,Anglais,2018-05-09,2016-02-24,2020-04-28,2020-05-24,2175,81,15.47,70,43,91
+356,Brésil,Standard,Mobile,Suspendu,Documentaire,Carte de crédit,Français,2023-05-23,2020-06-24,2020-01-12,2023-01-08,1824,26,15.69,44,14,261
+357,Japon,Basic,Mobile,Actif,Action,Virement,Anglais,2015-06-26,2018-07-05,2021-07-17,2022-04-27,349,14,14.84,47,12,252
+358,France,Premium,TV,Annulé,Drame,Chèque,Anglais,2020-06-09,2015-01-27,2019-05-29,2019-11-04,1545,17,10.99,45,55,33
+359,Canada,Premium,PC,Annulé,Drame,Carte de crédit,Hindi,2020-07-08,2022-08-24,2020-07-08,2021-06-03,4585,57,9.69,35,65,36
+360,France,Standard,Mobile,Actif,Drame,PayPal,Hindi,2018-03-14,2019-02-20,2015-04-26,2016-04-21,4133,25,8.68,30,48,254
+361,Canada,Basic,PC,Actif,Horreur,PayPal,Japonais,2019-08-07,2016-05-05,2018-04-11,2020-10-13,4520,79,8.14,24,18,104
+362,Inde,Basic,PC,Annulé,Comédie,Virement,Anglais,2020-10-10,2022-11-24,2021-09-16,2021-12-28,1374,0,6.84,58,31,286
+363,Canada,Premium,Mobile,Suspendu,Action,PayPal,Espagnol,2020-01-04,2017-12-10,2017-01-05,2018-01-18,581,90,13.23,68,62,253
+364,Brésil,Standard,PC,Suspendu,Action,Carte de crédit,Allemand,2020-01-14,2019-08-31,2023-08-25,2024-01-26,2647,20,10.1,50,70,168
+365,Canada,Premium,PC,Suspendu,Drame,Chèque,Hindi,2017-07-07,2021-11-08,2015-06-23,2015-08-23,1251,57,6.01,71,25,105
+366,Allemagne,Standard,TV,Actif,Documentaire,Carte de crédit,Français,2018-04-29,2022-04-22,2015-11-16,2016-04-21,436,78,7.2,55,73,88
+367,USA,Basic,PC,Suspendu,Action,Carte de crédit,Espagnol,2015-02-26,2022-04-24,2022-07-13,2022-12-14,1104,56,9.58,30,72,61
+368,Allemagne,Premium,Mobile,Actif,Comédie,Virement,Anglais,2018-01-10,2016-02-18,2017-01-25,2017-07-28,4632,67,13.61,57,45,74
+369,USA,Basic,Tablette,Annulé,Documentaire,Virement,Japonais,2017-01-10,2016-07-17,2016-12-02,2023-02-17,1545,44,12.27,50,4,144
+370,Japon,Standard,PC,Suspendu,Drame,PayPal,Japonais,2016-07-06,2021-12-22,2021-06-03,2021-10-21,1413,66,11.96,72,16,191
+371,Canada,Basic,TV,Suspendu,Comédie,Virement,Allemand,2022-09-07,2017-08-16,2015-02-24,2021-03-11,4990,15,11.76,51,6,233
+372,Japon,Standard,TV,Actif,Action,Chèque,Français,2016-08-17,2017-05-27,2022-05-01,2022-10-21,4226,45,13.39,59,63,69
+373,Inde,Basic,PC,Annulé,Drame,Chèque,Allemand,2021-06-19,2017-06-08,2019-04-11,2021-07-16,3108,42,15.84,67,65,280
+374,Brésil,Standard,Mobile,Actif,Documentaire,Carte de crédit,Hindi,2015-03-02,2019-06-14,2017-07-30,2017-10-14,1076,90,15.9,23,81,129
+375,USA,Premium,PC,Suspendu,Comédie,PayPal,Français,2016-09-26,2021-02-19,2015-08-14,2020-05-08,3063,86,10.92,50,55,2
+376,Japon,Basic,Tablette,Actif,Horreur,Virement,Anglais,2020-07-31,2022-10-11,2015-04-25,2016-03-25,4085,22,9.51,42,70,155
+377,Japon,Basic,Mobile,Suspendu,Documentaire,Chèque,Français,2017-12-30,2015-12-10,2020-01-04,2022-02-10,3246,3,6.76,46,0,288
+378,Canada,Standard,Mobile,Actif,Sci-Fi,PayPal,Allemand,2018-10-11,2016-04-04,2022-01-10,2022-08-29,4841,9,15.45,25,13,33
+379,Japon,Standard,TV,Suspendu,Horreur,Virement,Anglais,2016-04-14,2018-07-05,2019-02-20,2019-12-04,4447,5,9.26,38,45,69
+380,USA,Basic,PC,Annulé,Documentaire,PayPal,Allemand,2015-12-05,2020-04-03,2021-07-08,2023-08-13,1325,49,14.74,56,16,229
+381,USA,Standard,TV,Actif,Comédie,Chèque,Anglais,2019-10-29,2020-03-13,2015-10-06,2019-01-16,4293,0,8.43,22,11,277
+382,USA,Standard,TV,Actif,Action,PayPal,Japonais,2021-12-29,2020-12-05,2021-06-18,2022-01-27,3262,25,8.2,55,13,60
+383,Brésil,Standard,PC,Suspendu,Sci-Fi,Carte de crédit,Allemand,2023-10-02,2016-04-28,2021-12-15,2022-08-14,107,3,6.44,49,9,158
+384,Japon,Premium,TV,Annulé,Sci-Fi,PayPal,Anglais,2022-03-04,2019-02-15,2021-10-12,2022-03-04,3816,81,6.42,39,98,236
+385,Brésil,Premium,PC,Suspendu,Sci-Fi,Chèque,Espagnol,2019-04-11,2023-08-29,2017-02-19,2019-05-14,2744,40,14.94,72,25,31
+386,Canada,Premium,PC,Actif,Documentaire,Carte de crédit,Hindi,2020-08-13,2023-01-26,2019-01-13,2019-06-27,4250,69,12.29,57,37,109
+387,Japon,Basic,Mobile,Suspendu,Comédie,Chèque,Hindi,2017-03-31,2019-02-17,2023-03-17,2024-02-25,1568,37,14.04,66,31,34
+388,France,Basic,TV,Annulé,Drame,Virement,Français,2019-06-18,2018-06-17,2022-03-21,2023-10-31,642,38,15.39,72,13,50
+389,Brésil,Premium,PC,Suspendu,Sci-Fi,Carte de crédit,Anglais,2019-07-20,2018-08-07,2017-09-06,2021-03-11,4244,37,12.89,63,48,144
+390,Inde,Basic,Tablette,Suspendu,Comédie,Carte de crédit,Hindi,2021-05-16,2022-07-11,2023-03-15,2023-03-16,2279,41,8.67,44,85,79
+391,Japon,Basic,Mobile,Actif,Horreur,Virement,Français,2023-03-03,2019-11-28,2021-06-21,2022-01-19,2050,22,13.97,26,16,277
+392,USA,Standard,PC,Annulé,Documentaire,Virement,Espagnol,2016-12-19,2015-12-02,2021-09-03,2022-08-04,3021,60,8.16,62,50,150
+393,USA,Premium,PC,Actif,Comédie,Carte de crédit,Anglais,2018-11-02,2016-08-31,2022-06-25,2023-03-03,69,91,8.55,18,61,239
+394,Japon,Basic,TV,Suspendu,Action,Virement,Allemand,2018-08-14,2023-08-01,2018-05-04,2018-09-26,4913,23,11.21,49,76,93
+395,Brésil,Premium,TV,Actif,Documentaire,PayPal,Anglais,2023-06-14,2020-10-20,2021-05-08,2021-08-10,1877,9,15.79,20,79,83
+396,Allemagne,Premium,TV,Actif,Horreur,PayPal,Français,2021-07-15,2015-12-09,2019-09-07,2021-08-21,2503,53,14.79,19,17,160
+397,Inde,Basic,Tablette,Annulé,Horreur,PayPal,Allemand,2017-03-07,2021-10-02,2015-12-10,2018-04-03,2015,46,15.13,53,21,80
+398,USA,Basic,Tablette,Annulé,Documentaire,PayPal,Français,2021-11-29,2020-08-12,2022-05-18,2023-01-22,887,12,15.9,21,37,88
+399,Japon,Basic,Mobile,Suspendu,Action,Chèque,Espagnol,2016-03-04,2019-12-09,2016-04-18,2017-02-26,1792,24,6.35,58,78,171
+400,Canada,Standard,TV,Actif,Drame,PayPal,Japonais,2017-08-08,2022-07-31,2016-12-04,2017-04-15,280,69,10.0,58,1,86
+401,Japon,Premium,Mobile,Actif,Sci-Fi,Chèque,Hindi,2019-05-31,2020-09-04,2015-11-01,2017-04-27,3819,80,15.2,48,26,138
+402,France,Standard,PC,Actif,Horreur,Virement,Français,2017-09-28,2019-09-30,2020-01-18,2022-01-14,3368,43,15.65,57,80,143
+403,USA,Basic,Mobile,Suspendu,Comédie,Chèque,Français,2022-06-21,2018-08-09,2016-05-12,2018-01-29,2660,3,12.67,62,40,186
+404,USA,Basic,Mobile,Suspendu,Sci-Fi,Chèque,Japonais,2021-07-13,2018-07-23,2023-08-14,2024-05-23,1115,63,7.46,62,79,96
+405,Japon,Premium,Tablette,Annulé,Comédie,Virement,Hindi,2017-06-11,2016-05-09,2015-08-04,2023-12-14,3152,41,7.63,73,44,90
+406,Allemagne,Premium,Tablette,Annulé,Drame,PayPal,Espagnol,2018-02-21,2017-07-14,2022-09-01,2023-01-19,2452,95,8.72,37,0,153
+407,USA,Basic,PC,Suspendu,Sci-Fi,Carte de crédit,Espagnol,2017-10-31,2016-04-05,2015-01-19,2023-06-03,3395,31,13.22,66,35,9
+408,Japon,Standard,Mobile,Actif,Sci-Fi,Carte de crédit,Allemand,2017-04-18,2020-09-04,2021-12-02,2022-06-28,2219,42,14.78,63,12,169
+409,Brésil,Basic,Tablette,Annulé,Drame,Carte de crédit,Espagnol,2018-09-09,2020-01-25,2018-04-17,2018-04-17,2885,17,15.72,67,23,137
+410,Inde,Premium,PC,Suspendu,Action,Chèque,Allemand,2019-01-30,2017-12-26,2017-01-14,2021-08-01,2510,29,15.45,74,16,217
+411,Inde,Basic,Mobile,Actif,Horreur,PayPal,Anglais,2020-04-15,2019-01-21,2016-10-22,2023-04-14,3529,18,10.34,65,27,78
+412,USA,Basic,Mobile,Annulé,Action,Chèque,Français,2015-03-06,2016-04-17,2021-11-17,2022-04-13,4951,25,7.16,46,8,147
+413,Japon,Standard,PC,Annulé,Comédie,PayPal,Espagnol,2017-11-26,2018-07-22,2020-05-14,2020-12-04,1606,75,10.37,54,24,266
+414,France,Standard,TV,Actif,Horreur,Carte de crédit,Japonais,2020-10-16,2016-05-02,2019-06-10,2021-05-18,3729,26,9.1,27,48,278
+415,Canada,Basic,PC,Actif,Comédie,Chèque,Japonais,2017-01-28,2015-05-04,2022-02-24,2023-12-20,645,1,12.94,46,65,228
+416,France,Premium,PC,Suspendu,Drame,Chèque,Français,2021-03-29,2019-12-29,2023-10-25,2023-10-28,476,16,14.52,58,35,285
+417,Brésil,Premium,Mobile,Actif,Drame,Virement,Japonais,2023-02-20,2017-02-11,2022-10-31,2022-12-03,4684,86,7.73,60,58,164
+418,Brésil,Standard,PC,Suspendu,Comédie,PayPal,Japonais,2017-02-18,2021-08-05,2020-01-09,2020-09-21,2581,30,6.72,31,38,83
+419,Brésil,Basic,PC,Suspendu,Horreur,PayPal,Japonais,2020-11-21,2021-05-28,2022-03-23,2023-08-05,153,44,6.44,61,7,298
+420,Brésil,Premium,Mobile,Actif,Documentaire,Chèque,Anglais,2016-08-29,2015-12-05,2022-04-24,2023-03-30,4350,82,13.81,22,37,275
+421,USA,Basic,Mobile,Suspendu,Drame,Virement,Français,2015-06-10,2015-11-16,2022-09-05,2023-04-26,525,69,11.94,60,76,18
+422,Japon,Basic,PC,Annulé,Horreur,Carte de crédit,Français,2023-10-27,2016-04-24,2023-07-09,2024-06-04,4193,19,10.42,59,35,79
+423,France,Premium,Tablette,Actif,Documentaire,Chèque,Hindi,2015-09-28,2021-10-10,2016-10-28,2016-12-18,54,5,7.5,25,84,103
+424,Allemagne,Basic,Mobile,Suspendu,Comédie,Virement,Japonais,2019-02-22,2015-05-26,2017-10-23,2022-01-31,4563,82,12.55,32,16,296
+425,France,Premium,PC,Suspendu,Drame,Virement,Anglais,2017-11-30,2019-06-11,2017-06-20,2019-03-14,3562,50,6.41,57,18,118
+426,France,Standard,PC,Suspendu,Sci-Fi,PayPal,Japonais,2023-11-18,2023-03-30,2023-10-22,2024-03-06,2258,11,8.77,24,33,198
+427,France,Premium,TV,Annulé,Drame,PayPal,Japonais,2016-01-27,2021-02-16,2023-02-09,2023-03-16,3363,36,11.84,40,46,292
+428,Brésil,Standard,Tablette,Suspendu,Action,Carte de crédit,Français,2019-09-17,2019-02-12,2019-07-12,2019-07-17,3158,40,6.37,59,52,25
+429,France,Premium,Mobile,Actif,Drame,Carte de crédit,Hindi,2015-01-30,2015-10-28,2017-06-24,2017-11-17,526,99,9.4,59,8,135
+430,Allemagne,Basic,Mobile,Annulé,Horreur,Carte de crédit,Espagnol,2020-07-08,2016-12-12,2017-03-28,2017-09-22,3845,55,12.16,56,80,123
+431,USA,Basic,Tablette,Actif,Sci-Fi,Chèque,Espagnol,2018-09-14,2017-05-25,2017-05-30,2021-02-01,606,89,8.9,39,47,148
+432,Brésil,Basic,TV,Suspendu,Drame,Chèque,Anglais,2017-08-12,2021-01-13,2020-06-16,2020-12-22,786,39,15.22,19,42,135
+433,Inde,Premium,PC,Suspendu,Comédie,Virement,Japonais,2019-01-21,2022-03-18,2019-06-22,2019-11-21,3582,47,14.64,34,58,235
+434,Japon,Premium,PC,Actif,Action,Chèque,Hindi,2023-06-05,2015-06-17,2017-05-27,2020-11-02,591,80,7.14,58,43,67
+435,USA,Basic,Mobile,Annulé,Comédie,Chèque,Anglais,2016-08-10,2019-05-10,2022-03-02,2022-07-19,2801,13,7.92,50,93,7
+436,France,Basic,TV,Suspendu,Comédie,Chèque,Français,2016-06-20,2015-08-13,2016-12-20,2021-05-25,966,94,11.98,29,42,31
+437,Inde,Standard,Mobile,Annulé,Action,Chèque,Japonais,2020-10-06,2018-07-22,2015-04-09,2015-11-19,431,36,13.79,63,53,294
+438,USA,Standard,Tablette,Actif,Comédie,PayPal,Hindi,2016-07-27,2017-04-18,2020-03-03,2020-12-19,3732,97,6.9,66,92,22
+439,France,Standard,Tablette,Suspendu,Drame,Carte de crédit,Français,2015-06-13,2021-08-24,2019-05-07,2020-07-14,1842,66,11.0,42,87,13
+440,Brésil,Basic,TV,Actif,Sci-Fi,Chèque,Allemand,2015-03-05,2017-07-15,2023-03-06,2023-05-31,4711,68,13.03,60,35,159
+441,Canada,Basic,Tablette,Suspendu,Sci-Fi,Chèque,Allemand,2017-02-26,2015-05-25,2023-08-04,2024-04-15,1800,58,9.92,73,74,5
+442,Japon,Premium,Mobile,Suspendu,Drame,PayPal,Japonais,2023-09-02,2016-12-30,2023-05-21,2024-05-07,4374,14,14.33,70,55,170
+443,Brésil,Basic,Tablette,Annulé,Sci-Fi,Chèque,Français,2017-06-19,2019-10-13,2015-12-09,2016-03-23,4707,8,10.78,43,19,151
+444,France,Premium,Tablette,Suspendu,Comédie,Virement,Français,2023-04-04,2017-04-26,2020-01-25,2020-07-18,2206,17,13.2,73,91,175
+445,Canada,Standard,Mobile,Annulé,Documentaire,Carte de crédit,Allemand,2017-01-06,2020-02-04,2018-04-04,2018-05-18,432,87,14.46,41,27,238
+446,Canada,Basic,TV,Actif,Sci-Fi,PayPal,Espagnol,2022-11-23,2022-09-14,2015-05-13,2021-01-16,1857,70,15.2,53,39,185
+447,Japon,Premium,PC,Actif,Horreur,PayPal,Espagnol,2015-05-12,2023-11-05,2016-10-20,2023-02-03,1228,47,12.03,26,11,196
+448,Allemagne,Standard,Mobile,Suspendu,Drame,Virement,Hindi,2017-07-19,2022-01-21,2018-12-07,2022-08-19,865,68,13.66,54,90,144
+449,Japon,Basic,PC,Suspendu,Action,Virement,Allemand,2017-12-09,2018-06-24,2015-06-15,2021-11-28,1548,78,6.18,51,77,269
+450,Japon,Basic,Mobile,Annulé,Drame,Carte de crédit,Allemand,2020-11-18,2019-12-24,2018-07-14,2018-07-29,1643,89,11.63,52,64,103
+451,USA,Premium,Tablette,Actif,Action,Chèque,Japonais,2020-04-19,2019-06-10,2020-07-27,2021-02-14,624,66,9.91,22,88,210
+452,Brésil,Basic,Mobile,Actif,Sci-Fi,Virement,Hindi,2017-01-20,2019-12-28,2015-03-27,2017-01-01,2022,30,7.1,67,72,179
+453,USA,Basic,TV,Suspendu,Sci-Fi,PayPal,Français,2018-10-08,2016-09-14,2017-05-11,2020-08-22,2805,18,12.59,53,5,79
+454,USA,Basic,Mobile,Suspendu,Documentaire,PayPal,Allemand,2023-05-02,2021-07-31,2021-07-27,2021-07-30,917,71,7.37,45,17,111
+455,Inde,Premium,PC,Suspendu,Horreur,PayPal,Français,2021-10-05,2019-09-12,2021-11-28,2022-06-01,1731,94,14.63,69,86,170
+456,France,Standard,PC,Actif,Sci-Fi,Chèque,Français,2015-05-19,2021-02-15,2023-12-23,2024-07-12,226,60,11.71,57,37,196
+457,Allemagne,Standard,Tablette,Actif,Comédie,Virement,Hindi,2023-11-19,2023-02-02,2018-02-18,2021-11-05,808,78,14.91,65,53,5
+458,Japon,Basic,Tablette,Actif,Horreur,Chèque,Allemand,2017-03-03,2018-11-09,2021-10-04,2022-01-05,1782,51,8.0,21,77,277
+459,Inde,Standard,PC,Annulé,Comédie,Carte de crédit,Anglais,2019-12-22,2018-05-15,2019-06-02,2020-02-15,2218,10,7.56,54,94,4
+460,Japon,Basic,PC,Annulé,Action,Virement,Espagnol,2018-05-01,2023-08-21,2022-03-28,2023-03-13,1106,64,13.37,33,51,95
+461,Canada,Premium,TV,Annulé,Documentaire,Chèque,Hindi,2018-02-28,2016-11-10,2019-10-02,2019-10-31,4182,38,9.17,66,96,210
+462,Allemagne,Basic,TV,Suspendu,Sci-Fi,PayPal,Espagnol,2015-04-24,2020-10-31,2016-09-23,2016-10-30,1591,41,7.63,29,59,98
+463,Allemagne,Premium,TV,Suspendu,Documentaire,Chèque,Espagnol,2019-03-20,2019-04-08,2016-06-10,2019-06-30,3971,38,9.02,56,58,11
+464,Allemagne,Standard,Mobile,Annulé,Documentaire,Carte de crédit,Hindi,2018-10-05,2015-09-24,2023-08-28,2024-04-01,1299,87,7.84,49,50,292
+465,Canada,Standard,TV,Actif,Sci-Fi,PayPal,Espagnol,2020-07-05,2022-03-11,2015-01-22,2016-02-05,1593,91,8.53,56,43,169
+466,France,Basic,Mobile,Annulé,Documentaire,Virement,Hindi,2020-08-19,2020-02-03,2022-01-16,2022-04-03,2560,48,15.22,32,56,10
+467,France,Standard,Mobile,Suspendu,Drame,PayPal,Japonais,2019-05-19,2019-08-28,2020-02-02,2020-06-15,2101,35,7.5,55,27,252
+468,Inde,Basic,Tablette,Annulé,Sci-Fi,PayPal,Espagnol,2020-02-20,2020-07-16,2019-02-03,2019-12-30,4002,68,12.85,27,38,132
+469,Brésil,Standard,Tablette,Actif,Drame,Virement,Hindi,2017-02-19,2020-03-18,2019-07-25,2021-10-13,3792,51,15.29,68,20,170
+470,Japon,Premium,TV,Actif,Action,Carte de crédit,Japonais,2015-02-12,2016-09-15,2017-01-06,2018-04-04,564,26,9.71,66,7,262
+471,USA,Basic,PC,Suspendu,Documentaire,Virement,Espagnol,2022-10-14,2015-03-16,2020-12-09,2021-08-15,4033,23,8.6,62,56,118
+472,Allemagne,Basic,Mobile,Suspendu,Horreur,Virement,Allemand,2019-02-08,2015-11-21,2020-08-04,2021-05-05,481,61,13.02,19,50,242
+473,Canada,Standard,Mobile,Suspendu,Drame,Virement,Anglais,2020-03-01,2018-07-06,2023-06-27,2024-03-12,2251,7,11.91,38,57,8
+474,France,Standard,TV,Suspendu,Action,Carte de crédit,Français,2017-09-13,2016-09-20,2021-06-18,2022-01-01,346,20,12.37,29,51,143
+475,France,Standard,PC,Suspendu,Sci-Fi,Carte de crédit,Hindi,2021-03-21,2021-02-08,2021-11-21,2022-10-16,3205,8,6.6,51,63,294
+476,Japon,Basic,Tablette,Actif,Comédie,Virement,Anglais,2018-02-05,2019-02-15,2020-11-12,2021-09-22,3073,83,11.72,56,50,183
+477,France,Standard,TV,Actif,Sci-Fi,Virement,Anglais,2023-03-20,2023-09-09,2018-05-18,2018-05-27,2967,8,6.63,34,19,284
+478,Allemagne,Premium,TV,Actif,Documentaire,Virement,Anglais,2022-01-21,2022-02-17,2023-04-01,2023-06-27,910,7,8.35,70,57,19
+479,France,Premium,PC,Annulé,Drame,Virement,Hindi,2021-04-08,2018-03-18,2017-07-07,2020-07-05,2400,60,15.43,31,96,229
+480,France,Premium,Mobile,Annulé,Sci-Fi,PayPal,Hindi,2022-01-03,2022-08-22,2015-07-02,2020-11-19,2536,35,9.96,21,86,293
+481,Inde,Basic,PC,Annulé,Action,Chèque,Hindi,2019-12-09,2023-06-14,2018-10-07,2019-05-15,4362,86,12.67,67,22,97
+482,Brésil,Basic,TV,Suspendu,Sci-Fi,PayPal,Japonais,2021-01-11,2018-02-02,2019-09-03,2023-05-03,1914,93,12.67,34,44,163
+483,USA,Standard,Tablette,Annulé,Drame,PayPal,Japonais,2017-12-17,2021-11-14,2016-10-30,2021-01-01,827,86,9.01,46,79,26
+484,USA,Premium,Mobile,Annulé,Drame,Chèque,Espagnol,2020-09-21,2019-04-11,2019-09-29,2021-08-15,1538,91,8.54,70,59,224
+485,Allemagne,Standard,Tablette,Actif,Comédie,PayPal,Allemand,2017-02-04,2023-04-11,2017-03-08,2017-04-20,200,23,10.34,65,57,23
+486,USA,Basic,Tablette,Actif,Drame,Virement,Allemand,2015-05-22,2017-02-27,2022-12-17,2023-02-07,1943,45,8.68,24,77,112
+487,Inde,Premium,Mobile,Actif,Comédie,Chèque,Français,2023-02-06,2020-09-24,2022-09-16,2023-03-24,53,3,14.0,36,36,223
+488,USA,Premium,PC,Actif,Comédie,Chèque,Anglais,2015-12-09,2023-12-12,2017-02-28,2017-05-05,2011,9,15.44,72,30,292
+489,France,Standard,Mobile,Actif,Horreur,Chèque,Allemand,2017-01-29,2023-09-25,2020-05-22,2022-01-25,1095,48,11.04,20,45,76
+490,France,Standard,Tablette,Actif,Documentaire,Chèque,Japonais,2022-05-17,2022-10-30,2022-08-18,2023-05-23,2755,3,10.71,38,53,16
+491,Japon,Basic,TV,Actif,Documentaire,Chèque,Hindi,2015-11-09,2019-01-04,2021-12-09,2022-01-04,2659,84,14.87,27,68,36
+492,Brésil,Premium,PC,Annulé,Drame,Chèque,Espagnol,2017-12-06,2018-03-02,2016-06-02,2021-10-07,4971,79,9.24,33,57,81
+493,Allemagne,Basic,PC,Actif,Comédie,Virement,Espagnol,2021-01-02,2020-04-23,2017-02-12,2022-10-04,370,64,14.35,26,66,229
+494,Japon,Standard,Tablette,Actif,Drame,Virement,Hindi,2021-07-16,2021-05-30,2023-03-31,2023-08-08,4026,84,6.91,51,79,173
+495,France,Standard,Mobile,Actif,Comédie,PayPal,Espagnol,2016-06-06,2022-03-18,2020-06-24,2023-12-19,2335,54,9.66,29,42,165
+496,Inde,Standard,Tablette,Actif,Sci-Fi,Carte de crédit,Français,2015-08-05,2017-01-09,2020-12-01,2021-09-30,3377,44,9.83,50,84,202
+497,Japon,Premium,Mobile,Actif,Action,PayPal,Anglais,2022-01-23,2020-12-18,2016-09-30,2019-12-12,2023,81,10.18,19,15,107
+498,Brésil,Premium,TV,Suspendu,Drame,Virement,Anglais,2023-01-23,2023-02-28,2021-11-30,2022-04-26,4567,68,9.26,55,13,121
+499,USA,Standard,Tablette,Annulé,Sci-Fi,PayPal,Hindi,2022-04-10,2020-01-11,2016-12-01,2021-05-29,2082,77,10.57,61,74,83
+500,USA,Premium,Tablette,Suspendu,Documentaire,Carte de crédit,Anglais,2016-06-18,2018-10-03,2015-09-28,2016-10-22,2603,41,6.2,45,64,121
+501,USA,Standard,PC,Suspendu,Comédie,Chèque,Hindi,2020-01-29,2015-01-14,2023-09-06,2023-12-14,1013,41,6.43,52,81,71
+502,USA,Premium,Tablette,Annulé,Drame,Carte de crédit,Français,2020-02-17,2016-03-24,2018-07-31,2020-05-21,2941,4,11.87,49,75,207
+503,France,Basic,Tablette,Suspendu,Drame,PayPal,Hindi,2019-05-25,2017-02-12,2017-12-24,2020-03-26,2549,93,15.38,61,70,21
+504,USA,Basic,TV,Suspendu,Comédie,Carte de crédit,Japonais,2022-09-03,2021-05-08,2020-06-29,2022-10-31,4338,20,9.9,49,13,245
+505,Canada,Standard,Mobile,Annulé,Documentaire,Carte de crédit,Allemand,2023-11-02,2016-01-25,2019-11-18,2021-07-17,1899,5,13.31,48,81,23
+506,Japon,Standard,TV,Annulé,Sci-Fi,Chèque,Hindi,2018-06-28,2020-03-11,2017-01-23,2017-10-05,4526,71,11.43,56,47,64
+507,Brésil,Basic,TV,Annulé,Drame,PayPal,Japonais,2020-02-06,2019-05-02,2018-02-14,2019-11-27,3649,51,15.44,58,76,208
+508,Allemagne,Standard,Tablette,Actif,Documentaire,Carte de crédit,Espagnol,2015-03-11,2021-02-12,2020-03-28,2021-03-23,914,23,7.31,44,67,47
+509,Japon,Standard,TV,Suspendu,Documentaire,Virement,Japonais,2020-09-10,2019-08-18,2021-03-05,2021-07-14,386,76,12.42,69,82,278
+510,Japon,Standard,PC,Annulé,Horreur,Chèque,Espagnol,2020-01-03,2020-02-19,2019-08-28,2021-09-24,1921,43,11.36,60,80,145
+511,France,Basic,Tablette,Actif,Documentaire,Chèque,Français,2020-10-01,2019-10-06,2021-04-08,2021-07-14,2905,98,6.15,68,0,190
+512,Inde,Standard,TV,Annulé,Documentaire,PayPal,Allemand,2023-12-11,2017-07-07,2018-05-07,2023-10-09,44,69,11.93,64,45,20
+513,Brésil,Premium,Mobile,Annulé,Action,Chèque,Allemand,2022-12-08,2018-01-03,2023-05-09,2023-08-05,4516,53,10.54,37,61,124
+514,Inde,Basic,TV,Actif,Horreur,Chèque,Hindi,2017-10-08,2020-05-20,2015-09-19,2019-12-22,596,40,15.27,60,28,158
+515,Allemagne,Basic,PC,Annulé,Horreur,Carte de crédit,Allemand,2021-08-23,2021-07-26,2019-06-23,2023-08-31,4463,7,10.81,58,74,284
+516,Brésil,Basic,Mobile,Actif,Documentaire,Chèque,Allemand,2015-01-14,2015-09-21,2022-03-27,2022-11-09,4047,48,13.76,19,90,36
+517,USA,Standard,PC,Actif,Comédie,Virement,Hindi,2020-07-03,2023-05-11,2015-02-26,2015-04-10,4853,82,7.55,36,93,155
+518,Japon,Basic,PC,Annulé,Comédie,Virement,Japonais,2021-12-14,2017-12-01,2015-03-27,2020-08-10,1969,13,8.06,28,3,214
+519,Allemagne,Basic,Tablette,Suspendu,Action,Chèque,Français,2015-09-04,2016-02-12,2017-08-23,2019-12-05,4858,88,7.78,33,21,40
+520,Japon,Basic,Tablette,Suspendu,Sci-Fi,PayPal,Français,2021-05-07,2015-10-21,2020-06-03,2022-04-23,2572,20,10.93,65,97,292
+521,Brésil,Standard,TV,Suspendu,Drame,Chèque,Français,2019-05-20,2018-03-16,2015-07-26,2019-03-29,5,14,12.19,54,61,111
+522,Brésil,Standard,Mobile,Actif,Sci-Fi,Carte de crédit,Japonais,2016-11-17,2018-01-31,2019-11-01,2020-10-14,4121,92,8.53,56,65,162
+523,USA,Standard,Mobile,Annulé,Sci-Fi,Chèque,Hindi,2016-07-19,2017-11-27,2020-11-08,2021-04-20,4261,56,7.22,44,37,258
+524,Allemagne,Basic,PC,Actif,Comédie,PayPal,Japonais,2015-11-02,2018-10-23,2019-11-07,2019-12-31,3256,87,11.53,44,19,161
+525,Japon,Standard,Tablette,Actif,Comédie,Carte de crédit,Français,2020-09-22,2023-07-20,2020-05-02,2020-05-27,2020,53,8.14,29,65,3
+526,France,Basic,Mobile,Actif,Sci-Fi,Chèque,Espagnol,2020-07-20,2015-06-12,2019-09-29,2019-11-24,420,2,7.54,41,82,250
+527,USA,Basic,Tablette,Annulé,Documentaire,Chèque,Français,2018-12-30,2021-10-26,2015-07-07,2022-10-01,1706,90,7.3,31,81,159
+528,Japon,Standard,TV,Actif,Drame,PayPal,Hindi,2021-03-24,2018-05-24,2016-02-18,2020-02-21,2064,0,12.79,56,17,176
+529,USA,Premium,Mobile,Suspendu,Horreur,Carte de crédit,Japonais,2015-02-23,2022-03-06,2017-01-01,2017-07-12,3372,17,12.4,32,67,227
+530,Canada,Premium,TV,Actif,Documentaire,PayPal,Hindi,2019-07-17,2020-06-13,2017-08-09,2017-11-06,281,23,12.82,27,41,61
+531,Japon,Basic,PC,Suspendu,Documentaire,Carte de crédit,Hindi,2016-05-06,2022-03-27,2020-10-08,2021-03-08,4389,83,9.06,18,34,110
+532,France,Basic,PC,Suspendu,Documentaire,Chèque,Français,2023-08-18,2023-01-22,2017-12-31,2020-10-23,3644,46,8.43,41,27,57
+533,Inde,Standard,TV,Suspendu,Documentaire,Carte de crédit,Anglais,2019-10-14,2018-06-15,2021-08-15,2022-04-12,106,37,11.44,37,75,55
+534,Japon,Standard,TV,Annulé,Horreur,Chèque,Français,2017-09-15,2022-06-25,2016-10-11,2020-11-15,4002,81,6.16,34,82,179
+535,Japon,Basic,PC,Suspendu,Drame,Virement,Hindi,2021-03-15,2015-12-10,2022-11-07,2023-05-22,228,85,9.36,58,13,142
+536,France,Basic,TV,Annulé,Comédie,Carte de crédit,Allemand,2020-12-12,2017-05-01,2017-10-06,2021-11-04,343,11,8.03,72,83,206
+537,France,Basic,Mobile,Actif,Horreur,PayPal,Espagnol,2020-06-26,2023-06-08,2020-07-03,2020-08-20,4378,36,11.81,54,99,52
+538,USA,Standard,Tablette,Suspendu,Horreur,PayPal,Japonais,2023-02-07,2018-05-19,2022-05-09,2023-03-11,734,57,10.66,60,43,170
+539,Canada,Premium,Tablette,Annulé,Comédie,Chèque,Français,2022-01-11,2016-02-05,2019-11-28,2021-05-23,3213,52,7.38,47,64,45
+540,USA,Basic,Tablette,Annulé,Sci-Fi,PayPal,Espagnol,2016-02-01,2020-10-16,2019-06-01,2020-03-03,1651,50,10.96,56,44,59
+541,Canada,Basic,Tablette,Suspendu,Sci-Fi,Carte de crédit,Japonais,2017-08-27,2017-09-11,2019-12-10,2019-12-21,1635,63,12.7,62,99,15
+542,Inde,Premium,PC,Suspendu,Documentaire,Carte de crédit,Espagnol,2022-06-10,2015-03-02,2015-06-05,2019-07-17,3906,45,7.25,27,33,19
+543,Japon,Premium,Tablette,Actif,Comédie,Carte de crédit,Anglais,2016-02-02,2017-02-11,2022-03-23,2023-01-22,2799,58,11.47,55,21,218
+544,Brésil,Premium,TV,Annulé,Action,PayPal,Japonais,2021-09-04,2018-04-29,2017-03-28,2022-11-29,4018,79,8.92,67,38,87
+545,Allemagne,Standard,PC,Suspendu,Sci-Fi,Virement,Japonais,2019-09-06,2018-11-10,2021-11-18,2022-01-28,2631,66,10.45,22,31,235
+546,Inde,Standard,Mobile,Actif,Horreur,Virement,Hindi,2020-06-17,2015-12-08,2017-03-05,2017-08-03,4916,40,8.13,48,57,57
+547,France,Basic,PC,Actif,Sci-Fi,Virement,Japonais,2017-01-31,2017-08-08,2023-11-27,2024-03-09,1447,84,8.09,35,77,26
+548,Allemagne,Premium,PC,Actif,Documentaire,PayPal,Espagnol,2023-06-28,2019-08-23,2018-04-17,2022-06-10,1857,82,8.56,68,86,13
+549,USA,Premium,Tablette,Actif,Action,PayPal,Espagnol,2016-07-06,2023-09-08,2015-08-03,2019-11-04,1588,2,8.66,26,3,98
+550,France,Premium,Tablette,Suspendu,Sci-Fi,Chèque,Japonais,2015-03-02,2016-05-17,2023-03-20,2023-11-15,655,3,14.29,28,22,212
+551,Canada,Basic,Mobile,Annulé,Drame,Carte de crédit,Français,2021-05-06,2017-06-25,2017-06-28,2018-01-06,2422,54,10.56,43,82,275
+552,Japon,Basic,TV,Actif,Action,Carte de crédit,Allemand,2015-02-01,2015-05-21,2021-09-29,2021-10-24,2149,45,11.46,74,34,177
+553,France,Standard,Tablette,Actif,Sci-Fi,Carte de crédit,Français,2017-08-23,2022-10-14,2017-10-19,2022-11-07,925,57,11.41,53,55,107
+554,Canada,Standard,Tablette,Suspendu,Drame,Carte de crédit,Français,2017-06-21,2016-11-30,2017-04-24,2022-05-25,3177,17,14.8,53,67,115
+555,Brésil,Standard,Mobile,Actif,Sci-Fi,PayPal,Espagnol,2017-08-22,2019-06-30,2022-01-24,2022-07-16,729,20,6.11,71,13,129
+556,Brésil,Basic,Tablette,Suspendu,Action,PayPal,Espagnol,2023-03-12,2017-09-15,2017-07-31,2020-01-14,3277,45,11.84,32,5,171
+557,Canada,Basic,Mobile,Annulé,Sci-Fi,PayPal,Français,2021-12-12,2021-05-24,2015-12-04,2022-10-01,4484,29,10.12,73,19,6
+558,Allemagne,Basic,Tablette,Annulé,Horreur,Chèque,Français,2018-12-29,2017-09-04,2016-10-21,2016-10-28,4780,97,6.85,35,83,183
+559,Inde,Basic,Tablette,Actif,Sci-Fi,Chèque,Hindi,2022-07-18,2017-01-29,2022-06-01,2022-07-12,3816,4,6.06,18,27,157
+560,Allemagne,Basic,Tablette,Suspendu,Horreur,PayPal,Espagnol,2016-05-23,2018-12-11,2021-09-24,2021-10-16,4126,35,8.1,69,10,206
+561,Japon,Premium,Tablette,Actif,Documentaire,Virement,Espagnol,2023-07-15,2018-06-26,2018-02-18,2021-10-25,3394,39,14.44,50,86,173
+562,USA,Basic,Mobile,Suspendu,Sci-Fi,Carte de crédit,Français,2015-08-16,2021-12-08,2016-11-06,2017-08-24,2722,42,15.85,68,57,182
+563,Inde,Standard,PC,Actif,Comédie,Chèque,Anglais,2022-01-01,2022-07-29,2023-11-15,2023-12-17,4458,24,6.39,53,89,40
+564,Canada,Basic,PC,Annulé,Documentaire,Virement,Hindi,2019-02-17,2015-03-08,2016-11-06,2017-09-13,4793,9,6.89,19,34,119
+565,USA,Premium,PC,Actif,Documentaire,PayPal,Anglais,2023-05-11,2020-04-26,2023-04-06,2023-11-08,905,95,11.76,67,8,131
+566,Allemagne,Basic,PC,Actif,Drame,Carte de crédit,Hindi,2019-03-19,2016-05-05,2022-08-22,2023-03-21,1426,56,10.87,37,20,34
+567,France,Standard,PC,Suspendu,Comédie,PayPal,Japonais,2023-02-01,2016-08-05,2019-11-13,2020-09-06,2180,14,11.17,73,22,160
+568,Canada,Premium,Mobile,Actif,Comédie,Carte de crédit,Français,2022-09-20,2022-11-15,2017-09-20,2021-06-20,1268,41,7.05,24,76,208
+569,France,Basic,TV,Annulé,Comédie,Virement,Hindi,2015-03-19,2023-04-06,2019-11-12,2020-02-11,2490,0,15.2,37,64,154
+570,Brésil,Basic,PC,Actif,Sci-Fi,Chèque,Anglais,2018-12-05,2023-04-10,2016-08-19,2018-01-08,3922,38,11.78,48,11,247
+571,Canada,Standard,Mobile,Actif,Horreur,PayPal,Français,2022-09-08,2017-03-24,2018-02-07,2019-04-27,4804,9,6.29,66,75,259
+572,France,Standard,PC,Annulé,Horreur,Chèque,Hindi,2020-12-25,2020-09-23,2015-11-29,2016-05-27,152,16,14.89,57,28,98
+573,Japon,Basic,TV,Annulé,Action,PayPal,Français,2015-08-29,2015-07-09,2016-04-17,2021-11-28,1144,4,13.26,53,48,135
+574,Canada,Standard,TV,Suspendu,Sci-Fi,Virement,Français,2022-09-30,2016-12-09,2022-06-10,2022-08-15,4813,13,14.71,31,74,223
+575,France,Standard,TV,Suspendu,Documentaire,Chèque,Allemand,2019-01-15,2016-09-27,2018-10-07,2021-04-12,212,58,8.0,47,50,39
+576,France,Standard,PC,Annulé,Documentaire,Chèque,Hindi,2017-07-05,2015-08-31,2019-02-16,2019-06-22,754,28,12.89,53,90,242
+577,Canada,Standard,Mobile,Suspendu,Documentaire,PayPal,Allemand,2015-08-11,2017-04-25,2021-06-02,2022-03-16,1978,70,13.88,47,23,34
+578,Inde,Standard,Mobile,Annulé,Documentaire,Virement,Allemand,2022-05-11,2016-06-20,2021-11-07,2022-10-04,4421,25,11.76,18,48,113
+579,Japon,Premium,Tablette,Suspendu,Comédie,Carte de crédit,Allemand,2020-01-18,2023-03-27,2017-02-28,2021-04-14,4742,90,13.69,59,21,177
+580,Inde,Standard,TV,Annulé,Comédie,PayPal,Anglais,2016-11-04,2020-06-07,2015-03-23,2016-05-13,4000,7,6.14,72,13,236
+581,USA,Premium,Tablette,Suspendu,Comédie,Carte de crédit,Allemand,2017-07-16,2022-11-29,2023-04-02,2023-10-10,2989,8,9.23,41,89,86
+582,Inde,Basic,Mobile,Suspendu,Comédie,Virement,Espagnol,2021-12-29,2016-02-01,2017-05-21,2022-08-23,4154,13,13.33,34,94,244
+583,Inde,Standard,PC,Annulé,Action,Chèque,Japonais,2021-05-25,2018-05-14,2015-05-01,2016-04-23,4936,52,7.25,57,35,245
+584,Inde,Basic,TV,Actif,Action,Chèque,Allemand,2023-12-19,2017-04-14,2023-03-17,2023-08-23,1136,25,15.85,59,73,144
+585,Canada,Premium,PC,Annulé,Horreur,PayPal,Anglais,2015-12-27,2021-06-09,2022-07-02,2022-11-05,4661,23,10.07,68,85,208
+586,Inde,Standard,PC,Actif,Comédie,Virement,Japonais,2015-04-25,2015-11-07,2017-02-04,2019-08-01,1475,3,8.15,72,31,280
+587,Brésil,Standard,PC,Suspendu,Drame,Carte de crédit,Français,2022-11-12,2020-05-25,2018-03-02,2021-12-24,3815,79,13.0,72,69,46
+588,Brésil,Basic,TV,Annulé,Documentaire,Virement,Japonais,2021-10-01,2021-01-31,2021-04-22,2021-05-25,1418,43,9.5,26,86,18
+589,Allemagne,Premium,PC,Actif,Action,Carte de crédit,Espagnol,2017-07-17,2023-03-26,2022-04-20,2023-05-12,4470,4,7.51,25,14,70
+590,Inde,Standard,PC,Suspendu,Horreur,Virement,Français,2016-03-24,2021-08-03,2023-03-04,2023-11-07,3396,50,9.64,33,20,77
+591,Japon,Premium,TV,Actif,Drame,Carte de crédit,Hindi,2016-04-14,2016-06-10,2021-12-03,2022-10-24,2655,35,10.77,62,21,56
+592,Japon,Standard,PC,Suspendu,Sci-Fi,Chèque,Anglais,2016-09-05,2021-09-10,2017-11-18,2021-01-10,2699,27,15.65,46,49,42
+593,Japon,Basic,TV,Annulé,Action,Virement,Allemand,2017-07-17,2020-01-16,2016-02-26,2021-06-27,3525,1,8.58,20,75,246
+594,USA,Premium,PC,Annulé,Comédie,Chèque,Français,2022-09-28,2019-06-18,2018-12-25,2019-03-14,3322,99,12.21,30,49,150
+595,USA,Basic,Mobile,Actif,Documentaire,Carte de crédit,Allemand,2015-09-27,2022-01-20,2017-10-12,2022-04-07,3572,78,6.73,55,25,195
+596,USA,Standard,TV,Suspendu,Sci-Fi,PayPal,Allemand,2018-10-21,2017-02-18,2023-07-20,2023-08-20,2076,73,11.69,70,55,11
+597,Japon,Basic,PC,Actif,Comédie,Chèque,Français,2022-11-22,2023-06-12,2022-06-12,2023-03-14,3846,86,6.07,69,35,143
+598,France,Standard,Mobile,Annulé,Drame,Chèque,Allemand,2021-06-02,2020-03-28,2017-11-01,2022-01-22,72,15,13.02,61,61,106
+599,Brésil,Premium,Mobile,Annulé,Action,PayPal,Français,2020-02-28,2022-03-12,2020-12-26,2021-12-30,2433,67,13.61,23,61,236
+600,USA,Standard,PC,Actif,Documentaire,Carte de crédit,Français,2023-12-23,2021-06-19,2019-05-09,2019-10-06,111,23,14.32,52,45,2
+601,France,Premium,Tablette,Actif,Horreur,Chèque,Allemand,2020-09-07,2016-06-06,2023-03-07,2023-05-08,962,76,13.24,42,38,231
+602,Allemagne,Standard,PC,Actif,Sci-Fi,Chèque,Espagnol,2022-12-13,2018-10-30,2017-04-27,2022-07-29,599,44,14.16,71,59,277
+603,Brésil,Standard,Mobile,Suspendu,Sci-Fi,Chèque,Français,2015-12-21,2017-02-24,2018-01-08,2022-06-22,4991,47,11.88,73,39,36
+604,Brésil,Basic,PC,Suspendu,Horreur,Chèque,Hindi,2015-11-15,2018-04-19,2015-07-14,2016-06-24,1795,1,10.06,51,30,41
+605,Canada,Basic,TV,Actif,Horreur,Carte de crédit,Japonais,2016-03-29,2022-05-15,2018-03-07,2018-11-11,4306,11,11.64,69,74,15
+606,Brésil,Premium,PC,Annulé,Horreur,Chèque,Japonais,2022-08-20,2019-05-30,2022-08-07,2023-01-18,4751,67,11.74,40,71,88
+607,USA,Basic,PC,Suspendu,Sci-Fi,Virement,Français,2019-06-27,2017-02-16,2023-11-14,2024-09-29,3480,35,13.25,49,90,137
+608,Inde,Basic,Tablette,Actif,Horreur,Virement,Français,2019-06-24,2017-11-24,2016-04-20,2017-04-05,805,81,7.45,25,22,230
+609,Japon,Premium,PC,Annulé,Horreur,Chèque,Allemand,2017-02-25,2022-05-13,2021-07-09,2021-10-14,3842,4,12.74,19,82,213
+610,USA,Basic,Tablette,Suspendu,Documentaire,Virement,Espagnol,2016-10-13,2021-08-29,2016-09-01,2019-10-07,1856,30,9.75,23,73,180
+611,France,Standard,TV,Actif,Action,Virement,Anglais,2017-04-05,2023-11-15,2021-08-16,2022-06-10,3168,63,8.58,36,70,183
+612,Inde,Basic,Tablette,Actif,Horreur,PayPal,Japonais,2022-11-24,2016-12-28,2023-10-19,2024-03-10,853,66,7.99,41,86,286
+613,Japon,Standard,TV,Annulé,Action,Carte de crédit,Allemand,2022-07-05,2023-12-31,2022-12-07,2022-12-24,662,32,10.86,67,27,54
+614,Inde,Basic,PC,Actif,Documentaire,PayPal,Allemand,2021-04-06,2019-01-05,2020-08-13,2021-06-04,522,7,7.14,70,85,102
+615,Brésil,Standard,TV,Actif,Action,Chèque,Japonais,2018-10-02,2023-12-14,2019-12-19,2020-09-13,2678,23,10.81,26,37,64
+616,Japon,Premium,PC,Suspendu,Drame,PayPal,Allemand,2018-05-14,2021-11-10,2021-01-02,2021-10-02,4625,55,11.8,46,32,74
+617,Allemagne,Standard,Tablette,Suspendu,Horreur,Virement,Espagnol,2020-08-28,2022-09-07,2021-04-13,2021-12-28,1321,30,6.59,72,38,223
+618,Allemagne,Basic,Tablette,Actif,Action,Chèque,Français,2015-09-26,2015-04-20,2017-10-28,2018-10-16,348,61,15.22,72,88,290
+619,Allemagne,Basic,TV,Actif,Sci-Fi,PayPal,Japonais,2016-01-12,2017-10-24,2016-05-20,2017-11-24,34,35,10.9,26,92,258
+620,Inde,Basic,Tablette,Annulé,Documentaire,Carte de crédit,Hindi,2022-07-14,2020-09-07,2019-05-01,2022-02-24,334,98,15.3,41,35,294
+621,Allemagne,Standard,Mobile,Suspendu,Drame,Virement,Japonais,2023-04-19,2015-12-16,2017-10-25,2019-12-10,2179,69,8.11,23,45,94
+622,France,Standard,Tablette,Actif,Action,PayPal,Français,2018-01-19,2023-01-23,2023-05-16,2023-08-16,2532,24,13.99,23,29,229
+623,USA,Premium,PC,Annulé,Comédie,PayPal,Français,2021-02-07,2018-07-02,2015-06-03,2023-05-10,4585,56,13.31,35,70,87
+624,Brésil,Standard,Tablette,Annulé,Sci-Fi,Carte de crédit,Anglais,2021-02-06,2022-12-16,2020-04-12,2022-11-03,1920,20,5.99,42,30,97
+625,Brésil,Basic,Mobile,Annulé,Drame,PayPal,Français,2022-05-25,2018-05-07,2019-08-01,2020-01-20,4225,50,6.15,21,41,13
+626,Allemagne,Premium,PC,Suspendu,Action,Carte de crédit,Espagnol,2015-07-27,2019-04-05,2016-05-20,2018-03-05,2268,82,7.52,66,16,115
+627,Allemagne,Standard,PC,Annulé,Drame,PayPal,Espagnol,2023-02-07,2020-04-06,2018-07-05,2018-08-19,4574,41,14.96,56,36,157
+628,Allemagne,Basic,Tablette,Suspendu,Documentaire,PayPal,Japonais,2017-04-10,2020-06-26,2015-09-03,2018-08-04,985,86,7.81,29,61,296
+629,Japon,Premium,TV,Suspendu,Drame,Carte de crédit,Hindi,2023-06-26,2023-03-06,2023-10-18,2024-04-25,2931,5,7.85,46,25,21
+630,USA,Basic,Tablette,Suspendu,Comédie,Carte de crédit,Hindi,2021-04-29,2022-04-19,2020-01-19,2020-10-10,4781,48,8.8,28,45,263
+631,Canada,Standard,Tablette,Annulé,Documentaire,PayPal,Allemand,2019-12-16,2015-07-06,2022-05-29,2023-02-16,870,27,9.4,39,10,62
+632,USA,Premium,Mobile,Annulé,Documentaire,Chèque,Hindi,2023-12-20,2021-06-25,2015-04-20,2019-12-25,3367,98,9.48,59,2,230
+633,Japon,Standard,Tablette,Suspendu,Horreur,Chèque,Anglais,2016-12-03,2016-08-30,2020-02-29,2022-04-28,4507,29,11.39,63,51,84
+634,USA,Premium,Tablette,Actif,Horreur,PayPal,Japonais,2023-05-06,2018-07-16,2021-11-20,2022-05-18,1270,18,7.03,18,70,24
+635,USA,Standard,Tablette,Suspendu,Action,Virement,Anglais,2021-09-06,2019-08-14,2019-08-04,2020-05-08,735,36,15.68,47,63,111
+636,Brésil,Standard,TV,Annulé,Documentaire,Chèque,Français,2019-12-13,2018-08-10,2022-05-25,2023-03-05,4607,57,6.63,30,24,72
+637,Inde,Standard,PC,Suspendu,Comédie,Virement,Allemand,2023-07-26,2023-10-26,2017-12-26,2023-02-12,2792,40,9.38,43,63,116
+638,France,Basic,TV,Suspendu,Horreur,Virement,Allemand,2018-04-15,2016-05-22,2020-04-18,2021-09-04,513,17,14.74,39,20,250
+639,Brésil,Basic,Tablette,Suspendu,Action,PayPal,Anglais,2019-01-25,2017-01-04,2019-07-21,2020-10-24,4715,14,10.7,71,82,159
+640,Brésil,Standard,PC,Suspendu,Comédie,Virement,Anglais,2015-09-09,2020-07-22,2015-08-01,2020-12-21,2896,66,9.13,62,33,17
+641,Canada,Basic,PC,Annulé,Action,Carte de crédit,Allemand,2017-10-11,2023-04-12,2021-07-11,2022-02-13,834,97,14.49,61,59,98
+642,Japon,Basic,PC,Actif,Horreur,PayPal,Espagnol,2017-08-08,2020-10-20,2018-01-08,2018-10-02,1025,91,9.36,18,99,152
+643,Brésil,Premium,Tablette,Annulé,Documentaire,Chèque,Hindi,2023-01-23,2019-03-24,2020-03-27,2020-11-28,3181,35,14.65,70,50,60
+644,Inde,Premium,PC,Annulé,Comédie,PayPal,Japonais,2021-02-23,2018-06-02,2015-07-19,2022-07-06,2382,22,14.62,72,94,256
+645,USA,Basic,PC,Actif,Action,Carte de crédit,Anglais,2023-08-16,2021-02-08,2021-10-21,2022-05-06,1596,33,9.42,30,58,257
+646,Allemagne,Standard,TV,Annulé,Action,PayPal,Anglais,2023-12-07,2018-09-22,2017-08-23,2020-06-21,4155,37,8.27,50,76,50
+647,Brésil,Premium,Tablette,Suspendu,Comédie,Virement,Allemand,2017-08-13,2022-06-29,2018-03-22,2023-10-24,1568,60,6.29,42,34,184
+648,Brésil,Basic,PC,Suspendu,Horreur,Carte de crédit,Japonais,2017-03-21,2021-11-27,2020-09-28,2022-01-29,2730,13,15.03,64,37,11
+649,Inde,Premium,PC,Actif,Horreur,Virement,Japonais,2021-12-07,2019-03-24,2021-02-15,2021-02-22,1549,44,12.66,62,51,154
+650,Inde,Premium,Tablette,Suspendu,Horreur,PayPal,Hindi,2020-10-22,2022-02-03,2015-06-24,2015-12-17,2527,64,7.74,49,28,62
+651,Brésil,Basic,Tablette,Annulé,Sci-Fi,Chèque,Anglais,2020-01-26,2022-12-24,2021-06-23,2021-12-12,4303,29,12.91,61,58,178
+652,Brésil,Premium,PC,Suspendu,Drame,Carte de crédit,Japonais,2023-09-19,2019-02-06,2018-01-18,2018-11-28,4409,75,14.47,40,26,115
+653,Brésil,Premium,Tablette,Actif,Horreur,Chèque,Espagnol,2018-07-31,2020-10-05,2020-10-03,2022-06-15,1843,91,15.12,35,80,275
+654,Canada,Standard,Tablette,Annulé,Comédie,Virement,Japonais,2023-02-04,2020-04-07,2022-10-17,2023-04-03,2206,73,15.44,55,20,102
+655,Japon,Premium,Tablette,Suspendu,Comédie,Chèque,Espagnol,2020-12-18,2020-08-24,2017-06-28,2021-04-29,482,61,7.79,55,35,33
+656,USA,Premium,TV,Actif,Sci-Fi,Chèque,Japonais,2020-05-30,2020-06-05,2019-06-22,2019-07-12,1868,80,7.59,58,44,147
+657,Allemagne,Premium,PC,Annulé,Sci-Fi,Chèque,Japonais,2017-06-06,2021-06-16,2018-07-15,2021-02-20,3070,68,9.83,73,52,207
+658,Allemagne,Basic,Mobile,Annulé,Comédie,Chèque,Français,2020-02-16,2021-11-12,2016-01-24,2020-11-26,2078,73,13.61,39,23,127
+659,USA,Basic,TV,Actif,Drame,Chèque,Hindi,2019-03-20,2015-10-11,2015-07-11,2020-02-13,419,37,8.34,56,58,274
+660,France,Basic,PC,Suspendu,Drame,Chèque,Espagnol,2016-08-29,2021-12-13,2021-12-17,2022-09-23,2342,18,10.65,41,91,294
+661,France,Premium,Tablette,Actif,Documentaire,Chèque,Hindi,2020-12-22,2018-11-28,2021-11-07,2022-04-20,4316,82,14.39,18,50,21
+662,Brésil,Premium,Mobile,Actif,Sci-Fi,PayPal,Japonais,2020-03-09,2023-09-18,2017-07-05,2020-12-18,1898,27,13.65,39,46,111
+663,Allemagne,Basic,TV,Suspendu,Comédie,Chèque,Allemand,2017-04-04,2019-04-02,2020-06-21,2021-01-13,4931,19,7.69,67,90,161
+664,Japon,Standard,Tablette,Annulé,Horreur,Chèque,Espagnol,2023-02-27,2017-04-08,2018-05-27,2021-07-07,75,99,12.24,50,47,145
+665,Brésil,Standard,TV,Annulé,Sci-Fi,PayPal,Français,2018-11-28,2018-01-24,2019-05-20,2021-09-07,4751,98,13.09,61,22,283
+666,Canada,Premium,Mobile,Suspendu,Action,Virement,Espagnol,2022-11-22,2018-08-14,2021-02-22,2022-02-12,3790,51,13.05,23,27,285
+667,Brésil,Premium,TV,Annulé,Sci-Fi,PayPal,Hindi,2016-10-03,2016-12-25,2016-03-27,2023-04-08,2604,28,9.63,73,33,59
+668,Inde,Basic,Tablette,Annulé,Documentaire,Virement,Japonais,2019-06-16,2019-10-07,2016-07-06,2017-05-05,4221,93,7.11,71,6,86
+669,Inde,Premium,Tablette,Suspendu,Sci-Fi,Chèque,Japonais,2023-10-10,2021-04-10,2021-11-11,2022-02-04,1020,87,7.18,56,2,39
+670,USA,Standard,PC,Suspendu,Sci-Fi,Virement,Hindi,2021-12-12,2021-05-27,2020-02-24,2021-02-14,3458,71,9.09,25,86,275
+671,Allemagne,Basic,TV,Actif,Drame,PayPal,Français,2018-04-02,2016-07-03,2021-09-27,2022-02-04,1803,37,11.31,35,48,158
+672,France,Premium,PC,Actif,Horreur,Carte de crédit,Français,2020-03-04,2023-05-26,2023-01-17,2023-01-27,3388,58,14.36,38,27,102
+673,Inde,Standard,TV,Actif,Horreur,Virement,Espagnol,2022-06-17,2021-08-26,2019-01-25,2019-06-11,2226,59,9.96,66,20,207
+674,Allemagne,Standard,PC,Annulé,Sci-Fi,Carte de crédit,Japonais,2015-10-12,2020-02-15,2020-04-20,2022-09-17,4979,6,12.81,48,79,175
+675,Allemagne,Standard,TV,Annulé,Drame,Carte de crédit,Anglais,2022-07-21,2017-10-06,2019-09-22,2020-01-15,2919,29,9.52,45,20,253
+676,Brésil,Premium,Mobile,Annulé,Action,Carte de crédit,Hindi,2015-02-03,2022-02-16,2015-12-18,2017-11-05,2776,73,7.19,31,94,54
+677,Japon,Premium,Tablette,Suspendu,Sci-Fi,Virement,Allemand,2016-10-26,2021-10-05,2017-03-25,2018-07-31,4300,21,10.96,26,77,80
+678,France,Standard,Mobile,Suspendu,Horreur,Virement,Anglais,2020-02-13,2022-06-17,2018-11-29,2020-05-23,4735,96,6.01,31,93,126
+679,France,Standard,PC,Annulé,Sci-Fi,PayPal,Japonais,2021-02-03,2016-08-25,2021-08-17,2021-09-25,4077,50,10.25,25,93,200
+680,USA,Basic,PC,Annulé,Comédie,PayPal,Allemand,2021-05-01,2018-05-25,2016-02-03,2021-01-27,1002,31,11.61,26,23,200
+681,USA,Standard,PC,Suspendu,Drame,PayPal,Espagnol,2015-05-30,2022-03-02,2020-01-14,2022-12-25,246,69,6.43,21,44,65
+682,France,Standard,PC,Annulé,Action,Carte de crédit,Allemand,2020-06-29,2015-07-28,2016-05-12,2017-03-05,830,60,10.09,38,42,172
+683,Japon,Premium,PC,Suspendu,Horreur,Chèque,Japonais,2021-09-23,2021-07-04,2017-10-25,2018-02-10,993,95,13.35,59,31,47
+684,France,Basic,Tablette,Annulé,Action,Virement,Hindi,2017-09-01,2020-11-11,2019-04-16,2022-04-05,4216,5,13.15,29,42,121
+685,France,Standard,PC,Actif,Documentaire,Virement,Anglais,2022-02-12,2019-02-16,2019-06-02,2019-09-20,1735,31,11.25,53,97,185
+686,Japon,Basic,Mobile,Suspendu,Drame,Carte de crédit,Français,2023-03-24,2021-09-11,2016-01-30,2022-03-21,51,6,6.25,55,62,4
+687,Canada,Basic,Mobile,Suspendu,Horreur,Virement,Allemand,2015-10-12,2019-02-02,2018-10-10,2020-03-22,1289,40,14.47,28,92,22
+688,Canada,Premium,Tablette,Annulé,Comédie,PayPal,Espagnol,2021-12-07,2023-12-04,2022-03-29,2022-05-23,4063,53,6.58,44,47,9
+689,France,Premium,TV,Actif,Action,PayPal,Anglais,2016-03-01,2016-07-20,2023-08-16,2023-08-20,1176,57,13.62,27,17,177
+690,Japon,Premium,Tablette,Annulé,Horreur,PayPal,Français,2020-11-29,2019-02-15,2017-12-28,2019-08-19,1229,44,10.66,67,45,248
+691,Canada,Basic,Mobile,Suspendu,Action,PayPal,Anglais,2016-05-19,2020-01-12,2015-07-30,2016-09-10,3328,32,8.25,46,59,39
+692,Japon,Basic,Mobile,Annulé,Action,Carte de crédit,Espagnol,2019-02-26,2023-03-29,2018-04-15,2019-02-24,3691,15,8.24,42,88,117
+693,Allemagne,Basic,PC,Annulé,Comédie,PayPal,Japonais,2022-05-20,2017-06-27,2018-11-27,2018-12-10,3998,63,14.78,18,98,118
+694,Allemagne,Standard,TV,Annulé,Horreur,Virement,Allemand,2019-02-18,2023-04-19,2018-10-07,2019-07-15,2735,28,11.03,39,40,7
+695,Canada,Premium,TV,Annulé,Documentaire,PayPal,Espagnol,2017-07-07,2019-12-29,2016-03-07,2021-01-06,3024,18,9.58,29,81,123
+696,Allemagne,Standard,PC,Suspendu,Comédie,Virement,Anglais,2015-10-15,2016-06-02,2020-05-03,2022-04-15,4827,61,11.53,26,39,204
+697,Japon,Premium,TV,Annulé,Documentaire,Carte de crédit,Anglais,2016-03-16,2017-02-02,2023-08-24,2024-04-08,1501,16,8.79,67,3,105
+698,France,Standard,TV,Suspendu,Drame,Chèque,Français,2021-04-07,2016-05-14,2016-09-24,2016-11-12,4651,73,6.25,35,7,65
+699,Canada,Standard,Tablette,Actif,Comédie,Virement,Espagnol,2015-03-05,2019-01-24,2018-07-14,2019-11-28,582,75,15.42,42,31,183
+700,Inde,Premium,TV,Suspendu,Action,Chèque,Espagnol,2017-05-05,2019-04-28,2015-12-30,2023-03-20,3099,20,9.23,21,58,210
+701,Canada,Premium,Mobile,Annulé,Action,PayPal,Hindi,2021-09-08,2015-10-04,2016-09-17,2023-09-26,2070,21,14.85,63,68,9
+702,Canada,Premium,Tablette,Suspendu,Sci-Fi,Carte de crédit,Espagnol,2015-11-29,2015-09-04,2021-09-04,2022-01-19,1555,88,15.66,49,0,71
+703,Japon,Standard,PC,Actif,Horreur,Virement,Japonais,2023-04-12,2019-09-02,2021-08-03,2022-05-11,3887,14,13.66,56,60,234
+704,Japon,Standard,Mobile,Actif,Action,Virement,Hindi,2017-02-01,2023-06-14,2023-08-14,2024-05-01,1248,75,13.61,35,68,173
+705,Allemagne,Basic,PC,Suspendu,Horreur,Virement,Espagnol,2016-09-20,2018-01-21,2017-02-07,2022-10-14,2233,2,7.18,49,7,183
+706,Inde,Basic,TV,Suspendu,Sci-Fi,PayPal,Espagnol,2018-11-26,2019-01-22,2019-07-24,2019-10-17,522,68,13.05,52,8,112
+707,Brésil,Premium,PC,Actif,Horreur,Carte de crédit,Espagnol,2022-01-06,2020-03-13,2020-03-25,2020-09-19,47,1,15.11,53,87,189
+708,Canada,Basic,TV,Actif,Drame,Carte de crédit,Allemand,2016-05-26,2021-01-14,2015-01-28,2022-07-11,3828,51,8.33,34,31,265
+709,USA,Premium,PC,Annulé,Drame,Chèque,Allemand,2019-12-01,2020-09-29,2023-08-13,2023-11-10,2692,79,6.98,38,58,223
+710,Allemagne,Premium,Tablette,Annulé,Sci-Fi,Chèque,Anglais,2019-10-28,2020-12-24,2022-05-28,2022-08-23,3746,74,6.48,58,28,192
+711,Inde,Standard,Tablette,Suspendu,Drame,PayPal,Anglais,2019-11-05,2015-07-11,2018-02-03,2018-11-23,412,94,7.48,43,16,15
+712,Brésil,Standard,TV,Actif,Horreur,Carte de crédit,Allemand,2023-10-18,2019-08-13,2017-07-15,2019-10-17,3582,41,15.5,65,68,28
+713,Inde,Standard,Tablette,Actif,Action,Carte de crédit,Français,2020-11-01,2022-03-03,2023-07-26,2024-06-03,2207,75,13.25,65,70,78
+714,Japon,Basic,Mobile,Annulé,Documentaire,Virement,Hindi,2020-04-02,2018-05-10,2020-10-02,2023-01-20,1749,51,9.65,58,42,214
+715,France,Standard,Mobile,Actif,Sci-Fi,Carte de crédit,Allemand,2019-11-16,2020-02-09,2015-08-10,2022-03-05,3788,81,9.72,25,57,65
+716,Japon,Premium,Mobile,Actif,Comédie,Chèque,Espagnol,2015-05-31,2016-10-30,2019-12-17,2023-11-27,3382,2,11.75,42,1,290
+717,Japon,Premium,Tablette,Actif,Comédie,Chèque,Japonais,2017-09-07,2023-03-14,2021-10-17,2022-01-29,4127,74,15.13,41,81,60
+718,USA,Premium,TV,Actif,Action,Chèque,Allemand,2015-03-08,2019-10-20,2020-03-12,2020-06-25,3647,44,6.84,71,89,65
+719,Canada,Premium,TV,Suspendu,Action,Chèque,Japonais,2016-04-07,2020-08-27,2017-04-10,2023-06-02,2576,63,11.48,29,94,55
+720,France,Premium,TV,Annulé,Action,Carte de crédit,Allemand,2019-05-01,2017-06-11,2021-02-05,2021-05-16,3039,22,6.5,59,37,295
+721,Inde,Basic,Mobile,Suspendu,Action,Carte de crédit,Japonais,2023-04-20,2021-06-12,2018-04-22,2019-12-23,926,74,10.29,63,58,203
+722,Canada,Standard,TV,Annulé,Action,PayPal,Hindi,2023-07-03,2021-10-21,2020-12-22,2021-05-17,3402,74,11.38,22,48,282
+723,Allemagne,Standard,Mobile,Suspendu,Comédie,Carte de crédit,Anglais,2015-11-13,2020-06-04,2015-09-10,2016-06-05,2917,70,8.87,62,35,223
+724,Japon,Standard,TV,Annulé,Comédie,PayPal,Hindi,2023-03-20,2015-08-16,2023-10-06,2023-10-29,4294,66,8.53,72,10,150
+725,France,Basic,Tablette,Actif,Comédie,PayPal,Français,2023-05-26,2017-08-07,2017-12-10,2019-04-20,3954,56,14.39,23,10,184
+726,France,Standard,Tablette,Annulé,Horreur,Chèque,Japonais,2015-04-28,2022-07-06,2017-12-13,2018-07-15,4903,82,13.66,60,33,11
+727,Brésil,Basic,PC,Actif,Drame,Chèque,Hindi,2022-11-16,2021-04-17,2018-11-25,2019-04-24,2545,51,11.99,59,76,37
+728,Japon,Standard,Mobile,Suspendu,Comédie,Virement,Français,2023-10-24,2020-08-18,2023-04-20,2024-02-03,557,45,11.02,69,1,294
+729,Japon,Premium,Tablette,Annulé,Sci-Fi,Carte de crédit,Anglais,2020-10-24,2023-02-19,2016-10-07,2017-04-28,1772,85,9.16,56,58,261
+730,Brésil,Basic,Mobile,Annulé,Drame,Carte de crédit,Espagnol,2017-03-02,2023-04-12,2015-04-03,2015-11-02,3807,37,6.61,66,69,228
+731,USA,Standard,Mobile,Annulé,Action,Chèque,Anglais,2015-06-29,2021-01-14,2016-08-20,2017-03-11,4290,18,10.22,72,59,167
+732,Japon,Basic,Mobile,Annulé,Comédie,Carte de crédit,Espagnol,2020-05-11,2022-09-12,2018-11-18,2019-02-14,974,30,15.78,60,11,297
+733,Japon,Premium,PC,Annulé,Action,Carte de crédit,Japonais,2017-01-24,2017-11-06,2023-09-04,2023-12-03,1721,31,13.98,63,12,125
+734,Allemagne,Basic,Mobile,Actif,Sci-Fi,Chèque,Français,2016-07-26,2020-11-29,2018-07-26,2019-02-24,2515,92,6.83,43,73,296
+735,Brésil,Premium,Tablette,Annulé,Drame,Virement,Anglais,2020-02-25,2022-12-02,2022-04-21,2022-11-02,1239,97,6.84,51,95,264
+736,Inde,Premium,Tablette,Suspendu,Action,Virement,Français,2022-08-13,2016-03-02,2018-09-14,2018-10-04,1961,67,6.41,55,98,215
+737,Inde,Basic,TV,Suspendu,Documentaire,Chèque,Hindi,2019-03-14,2015-02-04,2017-06-12,2017-08-11,4802,55,8.13,58,26,127
+738,Japon,Premium,TV,Suspendu,Comédie,Virement,Allemand,2019-05-09,2022-11-23,2022-08-09,2022-09-29,3205,95,10.69,70,80,283
+739,Brésil,Premium,TV,Suspendu,Horreur,Chèque,Espagnol,2015-01-01,2018-06-11,2023-04-24,2023-05-27,1619,8,15.09,67,53,68
+740,France,Premium,PC,Suspendu,Drame,Virement,Japonais,2015-05-19,2016-09-05,2021-06-11,2021-08-09,620,56,8.5,39,37,83
+741,Brésil,Premium,TV,Annulé,Comédie,PayPal,Hindi,2017-04-28,2016-02-20,2021-01-15,2021-04-17,3056,62,6.48,73,39,128
+742,Canada,Basic,TV,Suspendu,Drame,Chèque,Anglais,2022-05-03,2018-07-24,2020-04-22,2020-07-18,2953,14,14.33,29,49,51
+743,Japon,Standard,PC,Actif,Action,PayPal,Japonais,2023-06-19,2016-12-10,2022-02-04,2022-12-30,1994,0,13.53,34,89,131
+744,Allemagne,Premium,TV,Annulé,Horreur,PayPal,Anglais,2020-06-03,2015-05-18,2018-03-09,2023-10-20,492,5,13.98,26,63,200
+745,Canada,Basic,PC,Actif,Drame,Virement,Espagnol,2016-03-27,2019-11-07,2022-01-30,2022-11-18,2342,94,8.9,56,56,239
+746,USA,Basic,TV,Suspendu,Drame,Chèque,Japonais,2022-10-29,2019-06-13,2016-02-20,2019-10-24,2013,27,12.72,20,64,49
+747,Inde,Standard,TV,Annulé,Documentaire,Chèque,Français,2018-01-02,2023-02-14,2019-01-01,2020-10-28,1983,3,12.67,59,78,258
+748,France,Basic,TV,Suspendu,Documentaire,Virement,Espagnol,2015-08-28,2016-03-26,2021-05-01,2021-09-27,1162,1,8.15,30,80,3
+749,Canada,Basic,Mobile,Annulé,Action,Virement,Allemand,2017-04-22,2016-02-16,2015-11-30,2015-12-07,1394,15,9.02,19,63,39
+750,Allemagne,Basic,TV,Suspendu,Documentaire,Chèque,Français,2021-07-22,2023-06-08,2020-03-11,2021-07-07,2846,4,6.7,45,2,55
+751,France,Premium,Mobile,Actif,Comédie,Virement,Français,2017-07-25,2017-12-19,2020-10-02,2021-08-31,4901,42,8.03,41,69,157
+752,Japon,Basic,PC,Actif,Action,Virement,Espagnol,2023-08-09,2018-01-03,2022-02-09,2022-11-02,1716,42,14.85,42,74,297
+753,Japon,Basic,Mobile,Suspendu,Action,PayPal,Japonais,2017-12-07,2016-09-03,2023-12-06,2024-08-04,708,28,6.48,70,43,257
+754,USA,Standard,Tablette,Actif,Action,Virement,Anglais,2023-05-06,2017-12-11,2015-04-15,2015-11-07,419,82,13.58,42,68,137
+755,Allemagne,Basic,Mobile,Suspendu,Drame,PayPal,Allemand,2023-02-08,2018-07-03,2018-05-06,2022-02-11,2911,32,10.65,52,10,124
+756,Japon,Basic,PC,Actif,Action,Virement,Allemand,2018-02-11,2021-03-06,2017-08-21,2020-03-22,771,29,9.25,61,37,273
+757,Brésil,Premium,Mobile,Actif,Action,Virement,Japonais,2022-08-01,2023-03-06,2017-12-13,2018-01-13,2235,1,14.58,68,50,168
+758,USA,Premium,TV,Actif,Drame,Carte de crédit,Allemand,2022-03-25,2020-09-20,2018-04-21,2018-08-14,3907,93,11.83,46,72,33
+759,Japon,Premium,TV,Suspendu,Horreur,Chèque,Hindi,2022-07-27,2022-06-16,2019-12-28,2021-02-18,1980,52,11.55,39,74,259
+760,Canada,Premium,PC,Actif,Sci-Fi,Virement,Anglais,2023-09-14,2015-05-12,2015-12-27,2019-12-31,4382,84,14.95,56,90,190
+761,Brésil,Premium,TV,Suspendu,Drame,Chèque,Français,2022-04-05,2020-09-19,2015-11-23,2019-10-23,4708,93,6.31,43,48,8
+762,France,Basic,TV,Actif,Horreur,Chèque,Japonais,2020-10-02,2017-10-20,2015-12-24,2022-04-24,2078,8,9.17,60,38,175
+763,Japon,Premium,Tablette,Annulé,Sci-Fi,Carte de crédit,Japonais,2021-07-04,2019-12-04,2015-05-02,2017-07-02,4888,39,6.1,30,57,125
+764,USA,Standard,Mobile,Actif,Sci-Fi,Chèque,Français,2016-10-21,2015-10-15,2021-07-11,2022-05-03,2796,46,15.36,74,60,229
+765,France,Premium,PC,Suspendu,Action,Chèque,Anglais,2016-12-23,2023-09-07,2022-04-21,2022-05-14,4559,93,13.77,20,94,299
+766,USA,Basic,TV,Suspendu,Drame,PayPal,Hindi,2018-09-28,2020-12-02,2022-07-07,2023-06-06,4634,77,9.97,37,29,222
+767,Japon,Basic,Tablette,Annulé,Documentaire,PayPal,Allemand,2020-07-21,2018-01-20,2016-02-09,2017-04-21,4016,14,14.14,25,54,231
+768,Japon,Basic,Tablette,Actif,Action,Virement,Français,2019-02-17,2015-11-02,2021-05-28,2021-12-05,4678,45,7.73,27,92,117
+769,Brésil,Premium,TV,Actif,Comédie,Chèque,Français,2020-08-29,2018-01-14,2019-12-12,2023-07-23,4606,99,8.27,49,57,167
+770,Canada,Basic,PC,Actif,Horreur,Virement,Japonais,2023-07-06,2023-03-23,2021-05-03,2023-11-30,4763,75,9.68,68,29,183
+771,Allemagne,Standard,Tablette,Annulé,Comédie,Carte de crédit,Japonais,2016-05-09,2023-03-16,2015-06-25,2022-01-10,3374,59,15.3,72,38,198
+772,Inde,Basic,TV,Annulé,Documentaire,Carte de crédit,Français,2019-03-19,2022-04-09,2015-07-25,2020-06-04,2374,36,12.6,30,86,148
+773,Canada,Basic,Mobile,Annulé,Sci-Fi,Virement,Japonais,2017-04-03,2016-05-08,2022-03-25,2022-09-19,4401,55,10.67,41,1,149
+774,Japon,Standard,Tablette,Suspendu,Documentaire,PayPal,Anglais,2021-08-04,2022-04-13,2022-03-23,2023-03-10,740,25,9.37,71,65,176
+775,USA,Basic,Tablette,Actif,Documentaire,PayPal,Français,2017-04-28,2020-12-23,2022-03-10,2022-05-18,2651,80,9.28,73,26,230
+776,Brésil,Premium,PC,Annulé,Documentaire,Carte de crédit,Français,2017-08-18,2016-05-10,2016-04-13,2019-10-25,4213,29,7.32,30,88,145
+777,Japon,Standard,TV,Suspendu,Action,PayPal,Français,2017-02-26,2017-02-12,2022-04-07,2022-09-20,3681,27,8.63,39,14,299
+778,Allemagne,Basic,TV,Actif,Sci-Fi,Chèque,Hindi,2016-08-13,2020-08-25,2021-04-13,2021-11-04,1092,19,14.28,44,35,27
+779,Allemagne,Basic,Tablette,Annulé,Action,Virement,Allemand,2015-02-14,2015-03-12,2016-08-02,2022-07-02,894,57,14.88,54,47,55
+780,Inde,Basic,Mobile,Suspendu,Sci-Fi,Chèque,Hindi,2020-05-24,2022-09-16,2019-04-19,2019-05-10,4689,27,8.25,32,77,164
+781,France,Standard,Mobile,Annulé,Documentaire,Chèque,Japonais,2016-12-21,2015-05-14,2021-12-26,2022-12-08,4148,78,11.87,32,19,292
+782,Japon,Standard,PC,Suspendu,Drame,Carte de crédit,Anglais,2021-12-09,2017-08-02,2018-06-14,2020-09-19,2784,0,8.08,44,70,243
+783,France,Basic,TV,Annulé,Action,Chèque,Français,2021-07-11,2018-09-09,2022-11-12,2023-10-10,1374,89,9.31,20,88,104
+784,Brésil,Standard,Mobile,Annulé,Horreur,PayPal,Japonais,2016-07-25,2015-05-28,2023-10-07,2024-02-15,2145,67,9.23,24,80,54
+785,Inde,Standard,Tablette,Suspendu,Horreur,Virement,Anglais,2022-11-11,2022-12-02,2019-10-02,2020-04-02,722,7,9.6,51,77,235
+786,France,Basic,PC,Suspendu,Drame,PayPal,Hindi,2015-07-01,2023-06-30,2020-08-05,2020-10-13,4134,13,13.4,42,94,272
+787,Brésil,Standard,TV,Suspendu,Comédie,Carte de crédit,Hindi,2017-09-25,2017-05-21,2017-11-20,2018-04-28,2627,7,15.13,73,94,39
+788,Brésil,Basic,Mobile,Annulé,Comédie,PayPal,Allemand,2020-10-06,2021-03-19,2017-06-02,2020-04-02,393,93,15.7,29,59,54
+789,Japon,Standard,TV,Actif,Comédie,Carte de crédit,Français,2023-08-28,2022-08-20,2019-05-30,2019-08-24,709,94,11.03,65,44,297
+790,Canada,Standard,Mobile,Actif,Action,Chèque,Allemand,2015-09-22,2019-04-02,2020-05-05,2020-09-29,875,51,13.78,30,19,228
+791,USA,Standard,PC,Annulé,Documentaire,Virement,Japonais,2021-01-14,2015-09-06,2017-06-25,2017-07-07,3976,54,11.21,41,68,210
+792,Allemagne,Basic,Tablette,Annulé,Documentaire,Carte de crédit,Français,2017-06-29,2019-11-15,2016-11-18,2018-07-22,4046,97,13.65,64,45,137
+793,USA,Basic,PC,Actif,Documentaire,Chèque,Japonais,2022-07-24,2016-06-16,2018-06-24,2023-08-27,4840,1,11.36,39,24,111
+794,Brésil,Basic,PC,Annulé,Comédie,Carte de crédit,Japonais,2017-08-03,2018-03-25,2021-05-07,2022-01-07,3322,76,11.77,43,63,279
+795,Inde,Basic,Tablette,Actif,Documentaire,Carte de crédit,Espagnol,2019-06-23,2016-05-02,2023-06-24,2023-12-06,3438,14,6.87,40,47,143
+796,France,Premium,Mobile,Annulé,Horreur,Virement,Anglais,2017-12-22,2016-01-12,2015-12-19,2016-03-03,4619,91,12.0,55,92,146
+797,France,Premium,Tablette,Annulé,Drame,Virement,Anglais,2017-09-11,2022-05-07,2018-10-28,2019-08-14,2185,51,12.97,46,65,196
+798,France,Standard,Tablette,Actif,Action,Carte de crédit,Allemand,2022-04-26,2021-01-18,2023-02-14,2023-11-22,573,38,12.34,58,21,218
+799,Allemagne,Basic,TV,Suspendu,Horreur,Virement,Espagnol,2019-08-21,2015-01-11,2018-12-01,2019-04-20,4506,29,8.18,18,95,285
+800,France,Standard,PC,Suspendu,Horreur,PayPal,Allemand,2020-01-12,2017-11-24,2019-03-16,2019-09-20,4559,3,10.21,74,13,58
+801,USA,Standard,PC,Annulé,Sci-Fi,Virement,Japonais,2022-12-18,2021-03-03,2017-11-02,2022-10-01,4374,68,9.8,59,35,280
+802,Japon,Basic,TV,Suspendu,Action,Virement,Japonais,2015-03-09,2019-10-22,2021-08-01,2022-07-29,359,62,14.95,57,10,207
+803,Canada,Standard,Tablette,Annulé,Comédie,PayPal,Anglais,2019-08-10,2023-12-09,2017-11-16,2018-07-07,3368,32,7.98,36,95,195
+804,USA,Standard,Mobile,Annulé,Comédie,Virement,Allemand,2019-03-29,2018-06-27,2023-04-29,2024-03-23,4497,75,8.22,73,61,35
+805,Brésil,Basic,Tablette,Suspendu,Action,Carte de crédit,Anglais,2019-12-06,2015-12-28,2020-06-05,2020-12-03,3283,39,7.2,67,93,16
+806,France,Basic,Mobile,Annulé,Comédie,PayPal,Anglais,2017-02-02,2023-12-02,2019-06-29,2020-01-11,4436,65,9.24,57,61,138
+807,Inde,Standard,Tablette,Annulé,Documentaire,Virement,Allemand,2021-10-04,2015-03-23,2016-08-09,2018-06-22,3122,41,14.09,38,94,29
+808,Canada,Basic,Tablette,Actif,Comédie,Carte de crédit,Japonais,2017-09-17,2018-12-15,2019-07-04,2023-09-01,3463,88,7.84,28,32,293
+809,USA,Standard,TV,Actif,Drame,PayPal,Hindi,2022-01-09,2020-08-12,2016-07-31,2017-03-31,74,84,13.23,38,93,237
+810,Allemagne,Standard,Tablette,Actif,Comédie,Carte de crédit,Anglais,2015-12-02,2023-06-24,2022-06-22,2022-10-29,4105,73,8.94,22,28,236
+811,France,Premium,Mobile,Suspendu,Documentaire,Chèque,Anglais,2023-06-03,2021-10-26,2021-05-25,2021-11-25,3916,77,10.89,65,60,190
+812,USA,Basic,Mobile,Actif,Documentaire,PayPal,Hindi,2015-06-23,2021-04-06,2016-06-07,2023-07-16,3756,29,14.87,60,88,81
+813,Japon,Premium,Tablette,Actif,Drame,Chèque,Hindi,2018-07-22,2023-12-28,2017-04-20,2021-02-10,2498,95,9.57,41,88,199
+814,France,Standard,Mobile,Suspendu,Action,Chèque,Japonais,2020-01-31,2021-04-22,2023-09-14,2023-11-04,3451,54,10.85,55,20,192
+815,Inde,Premium,PC,Annulé,Action,Chèque,Espagnol,2020-10-19,2023-06-21,2023-12-19,2024-04-05,2624,54,11.72,69,86,75
+816,France,Basic,Mobile,Suspendu,Comédie,Chèque,Anglais,2019-11-21,2020-08-16,2021-05-16,2023-09-20,1312,99,13.65,29,59,97
+817,USA,Premium,Mobile,Annulé,Comédie,Carte de crédit,Français,2016-06-10,2015-06-23,2023-10-25,2024-06-28,1294,88,8.75,57,57,161
+818,Canada,Basic,Mobile,Actif,Drame,Virement,Français,2022-02-20,2021-10-31,2016-07-01,2023-07-19,1892,41,14.02,19,15,223
+819,Japon,Premium,Tablette,Actif,Documentaire,Virement,Espagnol,2023-10-25,2023-09-17,2015-07-20,2015-12-25,2261,85,9.7,21,97,169
+820,Inde,Basic,Mobile,Actif,Action,Virement,Espagnol,2023-01-29,2019-12-31,2016-06-14,2022-08-03,1678,43,8.17,45,3,298
+821,Canada,Basic,Mobile,Annulé,Drame,PayPal,Français,2021-08-19,2019-02-03,2022-09-01,2022-11-08,290,50,13.06,37,13,170
+822,USA,Standard,Tablette,Suspendu,Comédie,PayPal,Japonais,2019-12-08,2023-07-05,2020-12-24,2021-02-17,4247,86,11.62,18,70,17
+823,USA,Standard,Mobile,Suspendu,Horreur,Virement,Français,2018-02-07,2023-01-09,2021-08-16,2022-07-19,840,14,10.31,30,72,258
+824,Canada,Basic,PC,Actif,Horreur,Chèque,Hindi,2019-05-08,2023-09-12,2023-12-14,2024-06-12,4256,93,7.66,28,98,56
+825,Japon,Standard,PC,Annulé,Action,Chèque,Français,2023-01-01,2020-11-04,2017-10-22,2020-06-23,1546,89,7.01,62,3,191
+826,Inde,Premium,Mobile,Annulé,Action,Chèque,Français,2016-08-29,2019-11-04,2015-11-11,2015-12-21,274,14,12.01,44,52,130
+827,Brésil,Standard,Tablette,Actif,Comédie,Carte de crédit,Espagnol,2023-05-04,2021-08-02,2018-09-15,2022-03-29,1992,91,13.19,41,16,145
+828,Allemagne,Premium,TV,Suspendu,Documentaire,Carte de crédit,Hindi,2023-03-13,2023-01-09,2023-05-21,2024-05-18,475,51,8.06,22,41,259
+829,Brésil,Basic,PC,Actif,Drame,PayPal,Anglais,2021-05-16,2022-02-28,2017-01-25,2022-07-16,802,21,7.02,20,81,112
+830,Allemagne,Standard,TV,Suspendu,Documentaire,Carte de crédit,Anglais,2023-02-13,2022-09-04,2018-09-11,2020-07-31,1182,37,10.01,24,29,181
+831,Brésil,Basic,PC,Actif,Sci-Fi,Chèque,Allemand,2019-06-27,2017-03-27,2018-12-29,2019-01-16,3989,58,10.33,56,16,53
+832,Inde,Premium,PC,Suspendu,Horreur,Chèque,Espagnol,2019-10-19,2023-11-13,2017-10-11,2018-03-24,164,88,13.56,30,53,113
+833,Allemagne,Standard,Tablette,Annulé,Drame,Carte de crédit,Hindi,2021-01-27,2020-11-13,2023-04-16,2023-05-08,3618,80,9.8,37,32,293
+834,Japon,Premium,PC,Annulé,Action,PayPal,Français,2023-10-14,2020-04-16,2016-02-02,2016-04-19,3885,9,15.54,72,62,106
+835,Allemagne,Basic,PC,Annulé,Drame,Carte de crédit,Hindi,2023-04-11,2020-10-26,2022-01-02,2022-04-09,4378,56,6.77,25,99,186
+836,Brésil,Standard,PC,Suspendu,Documentaire,Virement,Espagnol,2016-06-16,2022-04-03,2023-07-31,2023-09-27,538,66,10.08,59,90,107
+837,Canada,Premium,TV,Suspendu,Action,Virement,Hindi,2020-01-03,2016-01-26,2022-05-28,2022-09-15,2785,8,14.94,28,38,238
+838,Brésil,Standard,PC,Actif,Sci-Fi,PayPal,Espagnol,2022-05-01,2021-05-17,2016-11-15,2021-12-24,4486,14,12.44,68,50,237
+839,Allemagne,Standard,Mobile,Annulé,Horreur,Virement,Allemand,2016-09-18,2016-09-18,2015-04-28,2016-02-23,3464,40,14.5,61,51,272
+840,Canada,Basic,PC,Annulé,Documentaire,Virement,Japonais,2016-09-20,2021-02-05,2019-05-11,2019-08-24,4450,40,13.23,47,49,201
+841,France,Premium,TV,Annulé,Comédie,PayPal,Espagnol,2016-01-02,2016-03-25,2018-11-14,2023-06-21,1229,98,12.87,38,46,57
+842,Inde,Basic,Tablette,Actif,Comédie,Chèque,Anglais,2017-07-18,2018-06-10,2020-02-23,2020-08-27,3474,59,9.36,64,77,195
+843,USA,Premium,Tablette,Annulé,Drame,Chèque,Japonais,2019-08-07,2020-05-21,2023-08-26,2023-11-29,4953,48,11.56,64,24,30
+844,France,Standard,PC,Annulé,Documentaire,Carte de crédit,Japonais,2021-10-05,2016-11-01,2020-02-18,2020-06-09,4183,41,11.32,21,35,192
+845,Canada,Basic,TV,Actif,Sci-Fi,Carte de crédit,Hindi,2015-07-04,2021-03-27,2018-08-06,2021-07-11,2441,52,7.31,67,66,195
+846,USA,Premium,TV,Actif,Horreur,Virement,Anglais,2023-04-21,2021-09-14,2017-06-02,2017-06-07,3868,86,9.8,28,90,2
+847,France,Standard,Mobile,Suspendu,Horreur,Chèque,Japonais,2019-09-04,2017-10-23,2015-09-05,2016-03-12,901,24,15.47,58,4,183
+848,Canada,Premium,TV,Suspendu,Horreur,PayPal,Français,2019-09-02,2023-08-27,2023-08-26,2024-02-21,1127,85,6.33,29,31,211
+849,Allemagne,Standard,PC,Annulé,Drame,Carte de crédit,Hindi,2016-06-06,2019-12-06,2016-12-11,2021-06-20,3709,23,12.09,72,55,176
+850,France,Standard,TV,Suspendu,Horreur,PayPal,Français,2019-12-10,2017-02-12,2018-01-04,2018-01-22,4075,72,11.14,67,21,13
+851,France,Standard,Tablette,Annulé,Drame,PayPal,Allemand,2023-02-10,2019-07-14,2015-02-20,2017-04-12,677,38,14.95,24,83,107
+852,France,Premium,TV,Annulé,Comédie,Carte de crédit,Espagnol,2016-03-19,2019-09-23,2017-03-08,2019-09-09,1411,6,11.33,35,64,275
+853,France,Basic,Tablette,Actif,Action,Virement,Hindi,2018-01-14,2016-10-29,2018-09-03,2018-09-25,2995,68,7.92,48,17,64
+854,Japon,Basic,Mobile,Actif,Sci-Fi,Carte de crédit,Français,2017-10-12,2021-02-22,2019-03-01,2019-06-17,2635,29,12.64,46,75,28
+855,Canada,Premium,Tablette,Annulé,Documentaire,Virement,Japonais,2022-09-01,2023-12-14,2023-01-06,2023-11-17,908,38,6.88,36,72,109
+856,Japon,Premium,PC,Suspendu,Sci-Fi,Carte de crédit,Allemand,2019-04-18,2019-10-24,2021-07-12,2023-08-08,3424,82,15.91,21,82,147
+857,Inde,Standard,Tablette,Suspendu,Horreur,Chèque,Allemand,2017-05-17,2016-11-28,2018-06-12,2022-08-06,2398,93,6.92,32,66,19
+858,Inde,Standard,PC,Actif,Horreur,Carte de crédit,Français,2023-11-17,2023-01-21,2021-07-22,2022-03-06,3710,98,8.42,62,27,6
+859,France,Standard,TV,Suspendu,Comédie,Virement,Japonais,2022-06-13,2023-01-30,2016-12-15,2023-02-21,3450,62,7.75,31,40,237
+860,Brésil,Basic,Mobile,Actif,Comédie,PayPal,Allemand,2016-05-07,2022-02-23,2019-10-24,2020-04-26,1478,10,8.99,19,49,91
+861,Canada,Premium,PC,Actif,Sci-Fi,Virement,Allemand,2015-11-07,2022-01-20,2015-05-31,2022-10-26,358,36,11.03,71,86,182
+862,France,Premium,Tablette,Actif,Documentaire,Virement,Japonais,2017-03-04,2017-11-21,2022-07-04,2023-02-04,2689,76,11.21,69,33,72
+863,Allemagne,Premium,Mobile,Actif,Comédie,PayPal,Espagnol,2023-10-07,2020-05-15,2019-10-10,2022-02-21,408,37,9.06,47,17,255
+864,Allemagne,Standard,Tablette,Suspendu,Comédie,PayPal,Espagnol,2020-01-09,2020-08-26,2018-04-17,2022-01-27,3608,6,13.64,40,77,84
+865,Canada,Premium,Tablette,Annulé,Drame,Carte de crédit,Espagnol,2015-08-04,2023-02-06,2022-08-30,2023-08-15,3889,36,14.56,33,96,247
+866,Brésil,Standard,TV,Actif,Documentaire,Carte de crédit,Espagnol,2020-05-10,2021-10-12,2015-07-05,2023-02-02,4977,29,12.57,22,66,281
+867,France,Premium,Tablette,Suspendu,Documentaire,Carte de crédit,Japonais,2016-04-23,2015-05-26,2015-07-20,2017-04-11,3711,93,9.12,20,6,156
+868,Brésil,Premium,PC,Annulé,Drame,Virement,Français,2023-09-17,2015-02-06,2022-04-11,2022-04-17,2282,88,8.92,72,4,106
+869,Japon,Basic,Mobile,Suspendu,Drame,Chèque,Hindi,2021-02-23,2015-06-16,2016-06-12,2017-03-05,1571,49,8.59,36,55,162
+870,USA,Basic,TV,Actif,Comédie,Chèque,Français,2016-04-21,2019-12-08,2020-06-20,2020-10-19,2604,26,8.06,69,30,260
+871,Inde,Premium,PC,Annulé,Drame,Virement,Hindi,2018-07-28,2021-04-25,2015-05-24,2017-07-05,616,34,15.07,55,88,289
+872,Brésil,Standard,Tablette,Suspendu,Comédie,PayPal,Anglais,2023-12-30,2020-12-07,2021-12-01,2022-09-28,3487,33,9.4,23,35,11
+873,USA,Basic,PC,Suspendu,Drame,Virement,Japonais,2020-11-03,2019-06-04,2017-10-22,2018-06-16,1356,85,13.12,71,58,173
+874,France,Basic,Mobile,Suspendu,Sci-Fi,Virement,Japonais,2019-09-26,2016-07-19,2019-12-09,2020-05-22,644,70,6.3,23,49,29
+875,Canada,Basic,PC,Suspendu,Action,Chèque,Espagnol,2020-11-13,2019-11-04,2015-07-04,2017-08-16,106,76,10.46,30,49,197
+876,Canada,Basic,Mobile,Actif,Horreur,Chèque,Allemand,2016-07-16,2020-04-18,2020-03-20,2021-03-01,2046,91,6.95,51,77,17
+877,Brésil,Basic,TV,Actif,Horreur,Chèque,Espagnol,2016-10-16,2021-01-05,2021-04-23,2023-11-05,3644,26,8.1,44,11,169
+878,Japon,Standard,Tablette,Actif,Comédie,Chèque,Français,2020-10-10,2023-10-19,2017-02-11,2017-11-29,4609,45,13.95,36,91,129
+879,Japon,Basic,Mobile,Annulé,Sci-Fi,PayPal,Anglais,2018-09-30,2018-07-25,2020-07-07,2021-01-08,4342,5,9.09,33,53,183
+880,France,Standard,PC,Annulé,Action,PayPal,Espagnol,2016-06-08,2023-04-02,2015-09-05,2022-12-28,104,83,14.01,74,39,177
+881,Japon,Premium,Mobile,Suspendu,Action,Carte de crédit,Hindi,2023-08-22,2020-06-03,2017-06-15,2022-08-02,1877,62,9.67,34,92,55
+882,USA,Basic,Mobile,Annulé,Documentaire,PayPal,Espagnol,2019-04-05,2017-10-12,2017-07-18,2019-06-26,630,76,14.24,36,56,179
+883,Allemagne,Premium,Mobile,Annulé,Horreur,PayPal,Hindi,2023-10-19,2017-04-02,2021-08-27,2021-11-10,376,57,13.51,42,72,118
+884,USA,Premium,TV,Suspendu,Drame,Carte de crédit,Allemand,2023-06-11,2020-07-14,2020-06-09,2021-09-24,1739,31,14.74,47,66,8
+885,Japon,Premium,PC,Suspendu,Documentaire,Virement,Hindi,2016-11-30,2023-04-21,2022-04-16,2022-06-29,1090,85,7.81,46,24,62
+886,Inde,Standard,TV,Actif,Drame,Virement,Japonais,2023-01-01,2021-03-02,2023-08-06,2024-07-15,2624,58,14.0,57,84,217
+887,Japon,Premium,Mobile,Actif,Horreur,Virement,Français,2019-06-23,2021-06-19,2018-03-22,2020-12-01,446,58,12.47,62,35,197
+888,Canada,Standard,Tablette,Annulé,Documentaire,Virement,Japonais,2019-07-28,2016-07-13,2016-06-03,2016-08-03,1655,46,15.33,74,83,253
+889,Japon,Basic,TV,Actif,Horreur,PayPal,Hindi,2019-01-21,2021-03-14,2022-05-18,2022-09-30,3927,48,11.4,63,43,150
+890,Inde,Standard,Tablette,Annulé,Sci-Fi,Carte de crédit,Anglais,2015-08-12,2018-08-03,2016-09-20,2017-01-11,4702,48,10.97,44,66,124
+891,France,Premium,TV,Suspendu,Sci-Fi,Virement,Hindi,2022-07-18,2023-08-10,2019-02-19,2020-02-12,3611,13,14.52,38,21,38
+892,Allemagne,Premium,Mobile,Suspendu,Sci-Fi,Chèque,Hindi,2022-12-29,2023-12-18,2017-08-29,2018-02-05,1378,59,7.39,71,7,250
+893,Canada,Basic,TV,Actif,Documentaire,Carte de crédit,Espagnol,2016-05-12,2019-02-25,2017-02-20,2018-01-01,3265,51,7.56,31,52,84
+894,USA,Standard,Tablette,Suspendu,Horreur,Virement,Espagnol,2017-09-22,2016-03-23,2015-09-25,2016-01-10,3454,36,11.32,65,34,51
+895,Inde,Basic,Tablette,Suspendu,Documentaire,Chèque,Anglais,2015-06-21,2016-07-29,2015-10-30,2023-05-21,4627,5,15.68,71,27,188
+896,Japon,Premium,PC,Suspendu,Drame,Virement,Japonais,2015-02-12,2016-02-28,2022-06-03,2023-02-14,3038,32,15.89,19,82,240
+897,Brésil,Premium,Mobile,Actif,Drame,PayPal,Espagnol,2020-01-18,2015-11-09,2019-09-13,2019-12-13,4230,50,10.09,18,87,267
+898,France,Premium,TV,Suspendu,Documentaire,Chèque,Hindi,2016-06-17,2020-01-28,2016-10-04,2019-08-15,3940,5,11.22,44,98,151
+899,Canada,Premium,Mobile,Annulé,Comédie,PayPal,Japonais,2018-11-16,2018-08-22,2022-06-09,2022-11-23,4518,67,8.28,52,24,141
+900,France,Basic,Tablette,Annulé,Action,PayPal,Hindi,2021-03-05,2023-02-19,2021-08-04,2021-10-14,3021,94,10.11,39,55,269
+901,Canada,Standard,TV,Suspendu,Comédie,Virement,Japonais,2021-03-16,2017-07-27,2016-12-08,2017-09-05,2821,69,10.91,21,73,237
+902,Brésil,Basic,Mobile,Actif,Horreur,Chèque,Anglais,2017-05-04,2016-01-19,2023-10-31,2024-07-05,2304,60,12.57,66,49,203
+903,France,Premium,TV,Annulé,Horreur,PayPal,Hindi,2022-11-01,2018-06-07,2021-04-16,2022-01-14,3163,74,15.17,58,51,268
+904,Inde,Standard,TV,Suspendu,Horreur,Virement,Japonais,2019-04-26,2023-02-03,2022-05-11,2023-04-21,3813,3,10.35,40,65,229
+905,France,Basic,Tablette,Annulé,Documentaire,PayPal,Français,2016-07-28,2016-09-02,2016-07-09,2021-03-12,78,47,10.15,54,5,99
+906,Allemagne,Premium,Tablette,Suspendu,Documentaire,Virement,Français,2016-06-17,2017-05-05,2015-02-24,2023-07-18,692,25,15.65,50,38,123
+907,Brésil,Premium,TV,Actif,Horreur,Chèque,Espagnol,2020-01-08,2020-03-07,2021-02-23,2022-02-01,2398,92,8.7,63,11,3
+908,Canada,Basic,TV,Actif,Drame,PayPal,Espagnol,2017-04-07,2023-02-08,2021-04-24,2021-04-25,1253,45,10.11,39,25,19
+909,Japon,Basic,Tablette,Suspendu,Sci-Fi,Chèque,Anglais,2019-06-24,2023-06-16,2022-02-03,2022-08-26,1230,25,14.01,34,38,188
+910,Brésil,Basic,TV,Actif,Sci-Fi,Carte de crédit,Anglais,2023-02-05,2016-09-27,2022-05-22,2023-04-29,2139,11,15.93,62,44,214
+911,France,Premium,TV,Annulé,Comédie,Chèque,Allemand,2017-12-18,2018-08-11,2021-01-14,2022-01-04,1088,58,8.77,54,46,295
+912,USA,Standard,Tablette,Annulé,Horreur,Carte de crédit,Allemand,2017-11-24,2017-11-30,2022-06-14,2022-07-18,4064,93,13.6,20,70,187
+913,Canada,Premium,Tablette,Suspendu,Drame,Chèque,Hindi,2015-01-05,2017-07-12,2018-08-13,2020-07-06,131,98,13.36,51,20,136
+914,Canada,Premium,Mobile,Actif,Comédie,Virement,Anglais,2021-03-09,2021-10-10,2021-06-07,2022-06-17,3994,81,12.01,27,34,61
+915,Inde,Basic,Mobile,Actif,Action,Carte de crédit,Japonais,2023-09-17,2018-11-11,2020-10-01,2021-05-21,1568,24,9.14,53,26,193
+916,Allemagne,Basic,TV,Annulé,Sci-Fi,Virement,Allemand,2015-08-02,2020-02-24,2015-08-27,2016-12-11,1407,38,15.53,67,70,24
+917,Japon,Basic,TV,Annulé,Action,PayPal,Hindi,2016-09-14,2015-08-18,2018-07-18,2021-07-17,648,74,7.85,59,1,263
+918,Brésil,Premium,Mobile,Actif,Comédie,Virement,Allemand,2015-04-24,2020-08-25,2019-06-25,2019-12-19,2289,28,10.38,44,15,7
+919,Canada,Premium,Mobile,Suspendu,Sci-Fi,Virement,Français,2016-06-12,2015-09-24,2017-07-30,2020-11-07,4344,6,11.54,66,80,67
+920,France,Premium,PC,Annulé,Drame,PayPal,Anglais,2019-05-24,2016-01-19,2019-02-02,2023-01-02,4620,19,11.84,23,32,119
+921,Japon,Basic,Tablette,Actif,Comédie,Chèque,Allemand,2016-04-21,2019-06-12,2019-11-11,2020-08-21,3602,88,7.86,70,9,284
+922,Canada,Premium,PC,Actif,Drame,Chèque,Français,2016-08-05,2015-08-10,2018-02-11,2023-04-22,3638,13,13.35,74,55,26
+923,USA,Premium,Tablette,Actif,Sci-Fi,Virement,Français,2023-03-16,2018-04-14,2019-02-15,2019-12-01,1530,15,8.47,60,65,241
+924,Inde,Standard,PC,Suspendu,Comédie,Virement,Français,2022-05-30,2018-05-04,2020-11-28,2021-07-06,4616,69,11.9,74,45,83
+925,Inde,Basic,PC,Suspendu,Sci-Fi,Carte de crédit,Espagnol,2018-02-19,2019-04-26,2023-10-15,2023-10-17,4544,25,12.07,26,59,190
+926,Japon,Standard,Tablette,Annulé,Drame,PayPal,Japonais,2019-06-15,2018-10-17,2023-10-24,2024-03-03,1521,24,15.25,61,81,196
+927,France,Standard,Tablette,Suspendu,Drame,Carte de crédit,Hindi,2023-10-12,2022-11-02,2017-03-09,2017-04-30,1651,84,13.02,25,96,203
+928,USA,Premium,PC,Annulé,Drame,Chèque,Hindi,2016-03-16,2018-05-18,2016-01-20,2016-04-20,3661,32,7.77,33,51,86
+929,Inde,Premium,Tablette,Suspendu,Comédie,Carte de crédit,Anglais,2018-04-16,2016-02-25,2016-09-23,2022-03-25,4867,31,9.08,23,54,194
+930,USA,Standard,Mobile,Annulé,Documentaire,Chèque,Français,2020-09-30,2019-07-08,2015-01-08,2023-07-14,435,30,6.08,36,26,229
+931,France,Standard,TV,Suspendu,Action,Chèque,Anglais,2016-06-05,2015-04-07,2016-07-25,2018-02-12,712,16,7.44,72,39,102
+932,USA,Premium,TV,Suspendu,Drame,Carte de crédit,Japonais,2023-09-05,2022-12-31,2023-11-23,2024-03-27,693,27,8.71,42,91,229
+933,Canada,Basic,Mobile,Annulé,Comédie,Virement,Japonais,2020-10-28,2015-04-11,2016-11-12,2019-02-05,995,48,10.54,37,25,112
+934,Brésil,Basic,PC,Actif,Documentaire,Virement,Anglais,2019-04-21,2020-10-17,2015-09-20,2018-04-27,957,38,13.44,56,94,169
+935,Japon,Basic,TV,Actif,Comédie,Virement,Français,2015-09-04,2022-04-10,2016-08-10,2023-06-09,4793,99,11.18,55,23,22
+936,Brésil,Standard,TV,Suspendu,Documentaire,Virement,Hindi,2017-12-04,2021-06-05,2018-01-02,2020-11-14,94,5,8.62,29,14,18
+937,Canada,Basic,Mobile,Annulé,Drame,Carte de crédit,Anglais,2017-06-08,2020-11-23,2023-12-13,2024-05-09,2662,83,10.4,59,96,230
+938,France,Basic,Tablette,Actif,Horreur,PayPal,Espagnol,2022-01-06,2016-10-10,2017-12-27,2022-06-24,4634,44,7.2,68,44,218
+939,France,Standard,PC,Actif,Drame,PayPal,Hindi,2020-02-09,2015-04-22,2019-03-03,2020-11-03,4131,20,6.37,27,6,95
+940,USA,Basic,TV,Actif,Sci-Fi,Carte de crédit,Français,2015-12-15,2018-11-12,2022-11-22,2023-09-17,1469,99,12.57,41,96,255
+941,Brésil,Premium,Mobile,Annulé,Documentaire,Virement,Allemand,2015-07-22,2017-01-22,2019-12-22,2023-02-19,2465,79,7.22,56,6,117
+942,USA,Basic,Mobile,Suspendu,Action,PayPal,Espagnol,2017-06-03,2016-07-10,2018-03-15,2023-11-09,3925,19,8.17,37,89,282
+943,Japon,Standard,PC,Suspendu,Horreur,Carte de crédit,Japonais,2015-09-06,2019-01-20,2015-03-18,2019-07-31,591,46,8.37,70,75,197
+944,Brésil,Basic,Tablette,Suspendu,Drame,Chèque,Japonais,2018-02-04,2018-11-25,2017-01-03,2017-08-02,2621,63,8.82,58,78,69
+945,Brésil,Premium,PC,Annulé,Horreur,PayPal,Hindi,2022-05-10,2020-08-17,2017-04-18,2017-06-25,2750,47,12.15,52,8,42
+946,Inde,Basic,Tablette,Actif,Drame,Carte de crédit,Espagnol,2021-06-12,2019-03-17,2018-04-12,2018-10-17,1963,29,12.9,61,94,194
+947,Canada,Basic,Tablette,Suspendu,Sci-Fi,Carte de crédit,Anglais,2023-05-05,2020-02-25,2021-09-02,2022-05-13,993,76,14.09,26,57,123
+948,Canada,Premium,PC,Annulé,Comédie,PayPal,Français,2019-09-21,2019-07-10,2020-05-25,2021-05-12,2221,40,8.95,68,92,153
+949,Canada,Standard,PC,Actif,Comédie,Virement,Espagnol,2021-11-08,2021-08-15,2016-02-22,2022-05-17,3770,42,6.49,50,7,293
+950,Allemagne,Standard,Mobile,Actif,Horreur,PayPal,Allemand,2018-11-02,2020-12-01,2016-05-24,2020-01-15,3163,88,15.0,44,93,22
+951,USA,Premium,TV,Actif,Sci-Fi,Virement,Français,2021-02-11,2015-09-07,2018-08-10,2021-11-26,1888,56,10.39,20,14,46
+952,France,Basic,Mobile,Annulé,Documentaire,Carte de crédit,Hindi,2016-06-21,2016-02-22,2017-04-25,2019-11-07,4537,49,13.34,38,91,281
+953,France,Standard,Tablette,Annulé,Comédie,Chèque,Japonais,2020-12-02,2015-08-09,2015-09-09,2016-02-04,4772,59,7.88,27,5,34
+954,Canada,Standard,Mobile,Suspendu,Comédie,Virement,Français,2016-10-02,2019-09-20,2015-08-13,2019-10-14,722,46,12.14,63,50,171
+955,Allemagne,Standard,TV,Suspendu,Action,Chèque,Anglais,2023-08-11,2020-02-06,2023-09-07,2024-06-26,3570,37,9.08,39,22,195
+956,Canada,Premium,PC,Actif,Comédie,PayPal,Français,2019-07-18,2018-06-25,2020-11-02,2021-11-06,2491,33,8.42,70,55,87
+957,Canada,Standard,Tablette,Suspendu,Drame,Chèque,Japonais,2021-06-09,2019-09-26,2018-05-26,2019-03-27,4464,86,6.85,36,79,58
+958,Canada,Premium,PC,Annulé,Documentaire,Carte de crédit,Anglais,2023-08-03,2017-04-19,2021-10-31,2022-07-27,2145,4,10.78,28,58,279
+959,Brésil,Premium,Mobile,Actif,Drame,Chèque,Hindi,2020-06-17,2018-11-02,2023-08-11,2024-02-05,4652,99,9.13,57,99,287
+960,Japon,Basic,Tablette,Actif,Documentaire,PayPal,Hindi,2015-12-06,2017-09-27,2019-08-19,2022-08-03,1818,64,6.69,60,23,258
+961,Japon,Standard,PC,Annulé,Horreur,Virement,Allemand,2017-08-28,2019-06-29,2016-02-21,2016-12-31,3923,4,14.71,64,1,228
+962,France,Premium,PC,Actif,Horreur,Carte de crédit,Allemand,2022-02-25,2019-06-25,2015-02-18,2022-12-28,1588,23,10.77,22,59,61
+963,Japon,Standard,Mobile,Actif,Comédie,Carte de crédit,Japonais,2022-03-17,2018-03-30,2019-09-14,2021-09-08,3133,56,11.41,74,9,4
+964,Brésil,Premium,TV,Actif,Action,Chèque,Japonais,2021-06-20,2019-07-29,2023-07-01,2023-10-30,1540,87,10.59,31,58,93
+965,USA,Premium,Mobile,Actif,Horreur,Virement,Hindi,2019-12-03,2022-07-13,2020-08-31,2021-01-29,277,95,12.5,68,5,216
+966,France,Premium,TV,Annulé,Comédie,Virement,Allemand,2018-02-07,2021-12-22,2019-07-12,2020-05-25,898,91,9.43,40,60,15
+967,USA,Basic,Tablette,Annulé,Sci-Fi,Carte de crédit,Espagnol,2022-12-19,2023-06-20,2021-06-17,2021-09-30,4568,70,15.68,58,19,169
+968,Brésil,Standard,Tablette,Suspendu,Drame,Carte de crédit,Espagnol,2018-07-31,2018-04-03,2021-03-18,2022-02-28,3824,0,9.93,61,77,195
+969,Canada,Basic,TV,Suspendu,Horreur,Virement,Hindi,2018-12-10,2023-09-23,2021-03-19,2021-09-06,2333,48,9.18,18,49,257
+970,Canada,Standard,Tablette,Actif,Action,Virement,Allemand,2018-02-25,2023-02-14,2019-12-11,2020-06-28,2168,49,7.18,59,47,11
+971,Inde,Standard,Tablette,Actif,Sci-Fi,PayPal,Espagnol,2023-12-24,2020-05-02,2020-08-16,2021-06-13,3207,23,8.37,51,66,150
+972,Allemagne,Standard,TV,Suspendu,Action,Chèque,Espagnol,2016-01-11,2016-03-27,2017-12-07,2022-09-15,3849,22,12.0,36,24,41
+973,Inde,Standard,TV,Suspendu,Action,PayPal,Espagnol,2020-06-28,2021-04-04,2022-05-29,2023-04-01,940,83,9.61,67,61,188
+974,Inde,Premium,TV,Actif,Drame,Virement,Espagnol,2020-06-16,2020-06-19,2017-07-04,2020-10-16,34,53,11.69,18,16,52
+975,Canada,Premium,TV,Annulé,Action,Carte de crédit,Français,2022-01-06,2016-02-04,2017-11-04,2021-04-29,2754,74,14.61,50,57,56
+976,USA,Basic,TV,Annulé,Action,PayPal,Japonais,2016-01-12,2016-07-07,2017-08-18,2020-08-28,2617,57,14.49,41,15,49
+977,Japon,Basic,Tablette,Actif,Action,Chèque,Espagnol,2022-02-20,2015-05-12,2023-05-20,2023-10-28,734,50,9.77,19,14,287
+978,Allemagne,Standard,TV,Annulé,Comédie,Virement,Japonais,2016-02-02,2023-05-12,2022-07-24,2022-08-20,676,87,13.37,74,62,261
+979,Allemagne,Basic,Mobile,Suspendu,Action,Virement,Français,2017-11-12,2023-03-23,2019-08-31,2022-06-28,1578,46,6.15,37,57,24
+980,Japon,Standard,Mobile,Actif,Sci-Fi,Virement,Français,2022-02-12,2017-02-16,2023-11-02,2024-01-31,4850,94,9.6,26,88,112
+981,Inde,Standard,Mobile,Suspendu,Documentaire,Virement,Allemand,2020-01-07,2016-05-23,2016-10-12,2017-04-02,4289,63,6.81,74,18,199
+982,Japon,Basic,PC,Actif,Horreur,PayPal,Allemand,2015-06-16,2021-08-28,2022-10-17,2023-08-08,2968,83,8.84,58,91,240
+983,France,Basic,Tablette,Actif,Horreur,PayPal,Français,2023-06-25,2021-11-18,2019-11-06,2019-11-21,3063,64,11.49,69,10,148
+984,Inde,Premium,TV,Actif,Documentaire,PayPal,Espagnol,2015-08-13,2017-01-23,2017-10-26,2018-06-09,770,89,13.86,36,22,91
+985,Brésil,Premium,Tablette,Suspendu,Horreur,Carte de crédit,Japonais,2020-09-16,2021-01-24,2022-07-09,2022-08-07,3256,65,13.68,31,37,17
+986,France,Standard,Tablette,Actif,Sci-Fi,Virement,Allemand,2023-11-21,2019-07-27,2019-01-30,2019-08-23,4717,22,7.49,50,7,170
+987,Canada,Premium,PC,Actif,Documentaire,PayPal,Japonais,2016-11-04,2022-03-09,2017-04-30,2017-05-09,3654,57,12.55,62,21,159
+988,USA,Premium,PC,Annulé,Documentaire,Virement,Anglais,2016-09-02,2018-12-20,2019-01-18,2019-01-21,2758,75,13.37,41,97,23
+989,USA,Basic,PC,Annulé,Comédie,PayPal,Anglais,2021-04-03,2019-07-10,2018-07-11,2022-07-07,4440,16,8.75,66,42,73
+990,Canada,Basic,Tablette,Suspendu,Drame,Virement,Japonais,2016-01-14,2016-01-28,2018-07-21,2019-05-13,3809,14,8.22,41,76,75
+991,Canada,Premium,PC,Suspendu,Sci-Fi,Carte de crédit,Anglais,2021-01-16,2016-06-08,2020-06-02,2021-02-24,2514,0,8.53,18,32,231
+992,Brésil,Standard,Tablette,Annulé,Drame,Chèque,Espagnol,2023-12-14,2017-04-14,2022-08-21,2022-09-10,3870,59,6.07,63,4,231
+993,Inde,Basic,Mobile,Annulé,Horreur,Chèque,Hindi,2020-08-15,2017-11-30,2023-02-14,2023-06-05,889,47,9.12,67,48,182
+994,Inde,Standard,Mobile,Suspendu,Drame,Virement,Hindi,2022-12-31,2018-04-26,2022-07-07,2022-12-07,3564,66,10.95,63,36,115
+995,Japon,Standard,Mobile,Actif,Action,PayPal,Hindi,2023-04-15,2017-09-26,2021-09-11,2022-01-25,1550,46,15.58,65,95,214
+996,France,Basic,PC,Suspendu,Comédie,Chèque,Allemand,2018-02-02,2018-01-19,2023-09-29,2023-11-28,1853,21,9.74,58,67,275
+997,Inde,Standard,Mobile,Suspendu,Sci-Fi,Virement,Espagnol,2015-10-23,2018-04-03,2018-08-12,2023-09-18,98,2,8.9,57,19,65
+998,Allemagne,Premium,TV,Suspendu,Comédie,PayPal,Français,2019-04-06,2017-01-29,2017-02-10,2021-03-08,3026,16,8.68,58,42,279
+999,Allemagne,Premium,Tablette,Actif,Drame,Virement,Allemand,2020-12-12,2016-03-18,2020-08-07,2021-04-24,1288,57,9.57,25,83,179
+1000,Japon,Premium,TV,Actif,Action,Chèque,Espagnol,2020-08-22,2022-05-28,2018-09-15,2022-03-06,4742,35,9.64,25,64,108
